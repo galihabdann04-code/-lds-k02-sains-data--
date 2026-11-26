@@ -1,0 +1,114 @@
+{
+  "kota_2022_tabel32_persen": {
+    "kek": 8.18,
+    "anemia": 13.46
+  },
+  "tren": {
+    "K1_indeks_2024_vs_2017": 63.8,
+    "KEK_jumlah_indeks_2024_vs_2017": 61.8,
+    "Anemia_jumlah_indeks_2024_vs_2017": 18.8,
+    "KEK_persen_turunan": {
+      "2017": 6.88,
+      "2018": 5.71,
+      "2019": 5.19,
+      "2020": 3.39,
+      "2021": 7.46,
+      "2022": 7.62,
+      "2023": 5.79,
+      "2024": 6.67
+    },
+    "Anemia_prevalensi": {
+      "2017": 18.34,
+      "2018": 17.24,
+      "2019": 15.05,
+      "2020": 15.05,
+      "2021": 12.84,
+      "2022": 12.6,
+      "2023": 8.8,
+      "2024": 4.11
+    }
+  },
+  "puskesmas_2022": {
+    "kek": {
+      "top5_jumlah": [
+        "Bangetayu",
+        "Kedungmundu",
+        "Tlogosari Wetan",
+        "Bandarharjo",
+        "Mijen"
+      ],
+      "top5_porsi_kasus_persen": 38.7,
+      "top5_porsi_bumil_persen": 30.8,
+      "top5_persen": [
+        "Purwoyoso",
+        "Karangdoro",
+        "Bangetayu",
+        "Poncol",
+        "Pudak Payung"
+      ],
+      "di_atas_kota": [
+        "Poncol",
+        "Karangdoro",
+        "Krobokan",
+        "Genuk",
+        "Bangetayu",
+        "Kedungmundu",
+        "Padangsari",
+        "Pudak Payung",
+        "Purwoyoso"
+      ],
+      "rentang_persen": [
+        3.15,
+        18.25
+      ],
+      "spearman_jumlah_vs_persen": 0.69
+    },
+    "anemia": {
+      "top5_jumlah": [
+        "Bangetayu",
+        "Kedungmundu",
+        "Tlogosari Wetan",
+        "Ngaliyan",
+        "Genuk"
+      ],
+      "top5_porsi_kasus_persen": 43.8,
+      "top5_porsi_bumil_persen": 26.4,
+      "top5_persen": [
+        "Bangetayu",
+        "Purwoyoso",
+        "Krobokan",
+        "Poncol",
+        "Karanganyar"
+      ],
+      "di_atas_kota": [
+        "Poncol",
+        "Miroto",
+        "Lamper Tengah",
+        "Lebdosari",
+        "Manyaran",
+        "Krobokan",
+        "Genuk",
+        "Bangetayu",
+        "Kedungmundu",
+        "Rowosari",
+        "Purwoyoso",
+        "Ngaliyan",
+        "Karanganyar"
+      ],
+      "rentang_persen": [
+        3.11,
+        32.94
+      ],
+      "spearman_jumlah_vs_persen": 0.74
+    },
+    "spearman_kek_vs_anemia_persen": 0.38,
+    "beban_ganda": [
+      "Poncol",
+      "Krobokan",
+      "Genuk",
+      "Bangetayu",
+      "Kedungmundu",
+      "Purwoyoso"
+    ]
+  }
+}
