@@ -1,17 +1,17 @@
-# <nama-repo>
+# -lds-k02-sains-data--
 
-Repo Kelompok <nomor> — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
+Repo Kelompok 2 — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
 
 ## Papan Status
 
 | Tugas | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
-| TK1 | [01-riset/keputusan-dan-pertanyaan.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/01-riset/keputusan-dan-pertanyaan.md) | _(isi)_ | Belum mulai |
-| TK1 | [01-riset/sumber-data.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/01-riset/sumber-data.md) | _(isi)_ | Belum mulai |
-| TK1 | [01-riset/riset-kreatif.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/01-riset/riset-kreatif.md) | _(isi)_ | Belum mulai |
-| TK1 | [data/sampel/](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/data/sampel), [kamus-data.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/kamus-data.md) | _(isi)_ | Belum mulai |
-| TK1 | [KENAPA-KAMI.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/KENAPA-KAMI.md) v1 | _(isi)_ | Belum mulai |
-| TK1 | [HARNESS.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/HARNESS.md), [SKILL-TERPASANG.md](https://github.com/<pemilik>/<nama-repo>/tree/tugas-1/SKILL-TERPASANG.md) | Semua | Belum mulai |
+| TK1 | [01-riset/keputusan-dan-pertanyaan.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/keputusan-dan-pertanyaan.md) | _(isi)_ | Belum mulai |
+| TK1 | [01-riset/sumber-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/sumber-data.md) | _(isi)_ | Belum mulai |
+| TK1 | [01-riset/riset-kreatif.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/riset-kreatif.md) | _(isi)_ | Belum mulai |
+| TK1 | [data/sampel/](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/data/sampel), [kamus-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/kamus-data.md) | _(isi)_ | Belum mulai |
+| TK1 | [KENAPA-KAMI.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/KENAPA-KAMI.md) v1 | _(isi)_ | Belum mulai |
+| TK1 | [HARNESS.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/HARNESS.md), [SKILL-TERPASANG.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/SKILL-TERPASANG.md) | Semua | Belum mulai |
 
 > Tautan di atas mengarah ke tag `tugas-1` dan baru bisa dibuka setelah Release `tugas-1` terbit. Uji satu per satu setelah Release dibuat.
 
