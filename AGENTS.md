@@ -3,7 +3,7 @@
 > Ganti nama berkas sesuai harness yang dipilih: AGENTS.md, CLAUDE.md, atau GEMINI.md.
 
 ## Tujuan
-_(Sistem database untuk membantu [pengguna] memutuskan [apa] setiap [kapan].)_
+Sistem database untuk membantu **Dinas Kesehatan Kota Semarang** memutuskan **Puskesmas mana yang diprioritaskan untuk pendampingan gizi ibu hamil (KEK dan Anemia, ditangani terpisah)** setiap **awal tahun perencanaan program**. _(Draf dari topik Shaula — perlu disepakati kelompok.)_
 
 ## Aturan
 - Jangan menulis kunci, token, atau sandi ke berkas apa pun. Simpan di `.env`.
@@ -18,6 +18,7 @@ _(Sistem database untuk membantu [pengguna] memutuskan [apa] setiap [kapan].)_
 - `data/sampel/`: sampel data bersih
 - `kamus-data.md`: kamus data sampel
 - `00-admin/`: anggota, izin data, bukti
+- `dashboard-gizi-bumil/`: dashboard Streamlit gizi ibu hamil (pipeline data, aplikasi, laporan)
 
 ## Log AI
 Setiap pekerjaan penting dicatat di `LOG-AI.md`: perintah, hasil, dan yang dicek manusia.

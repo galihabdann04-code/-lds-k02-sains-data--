@@ -26,3 +26,13 @@ Dicek   : Oleh AI (otomatis): total Tabel 32 cocok dengan baris JUMLAH di PDF; 9
           _(Shaula: tambahkan di sini bagian yang kamu cek/cocokkan sendiri dengan sumber aslinya.)_
 Catatan : Masalah di data sumber yang ditemukan & ditangani: atribut `WADMKC` di layer Geoportal tidak cocok
           dengan geometri (dipakai `NAMOBJ`); CSV Satu Data rusak karena koma tanpa kutip ("23,5 Cm").
+
+## 27 November 2026, Shaula Putri
+Perintah: Meminta AI mengisi berkas template TK1 berdasarkan pekerjaan dashboard gizi ibu hamil, dengan progresnya.
+Hasil   : Diisi: `01-riset/sumber-data.md`, `01-riset/keputusan-dan-pertanyaan.md` (draf), `kamus-data.md`,
+          `data/sampel/` (2 CSV: 37 dan 62 baris), `KENAPA-KAMI.md` (draf), `HARNESS.md` dan `SKILL-TERPASANG.md`
+          (bagian Shaula), Tujuan di `AGENTS.md` (draf), Papan Status dan Progres di `README.md`.
+          Tidak diisi: `01-riset/riset-kreatif.md` (riset dasbor serupa belum dilakukan).
+Dicek   : Oleh AI: setiap angka diambil dari berkas hasil Tahap 2–3 di `dashboard-gizi-bumil/`.
+          Bagian bertanda ⚠ menunggu pemeriksaan/isian manusia (sumber dibuka sendiri, biaya harness, tangkapan layar).
+          _(Shaula: tambahkan apa yang sudah kamu cek.)_
