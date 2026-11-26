@@ -1,0 +1,3 @@
+# Hanya untuk menjalankan ulang pipeline data (scripts/). TIDAK dibutuhkan untuk deploy.
+-r requirements.txt
+pypdf==6.21.4
