@@ -1,0 +1,38 @@
+tahun,no_puskesmas,kecamatan_sumber,puskesmas_sumber,jumlah_bumil,perkiraan_bumil_komplikasi,komplikasi_ditangani_jumlah,komplikasi_ditangani_persen,kek,anemia,perdarahan,tuberkulosis,malaria,infeksi_lainnya,preeklampsia_eklampsia,diabetes_melitus,jantung,covid19,penyebab_lainnya,komplikasi_kehamilan,komplikasi_persalinan,komplikasi_nifas,kecamatan,puskesmas
+2022,1,Smg Tengah,Poncol,226.0,45.0,8.0,18.0,31.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Semarang Tengah,Poncol
+2022,2,Smg Tengah,Miroto,166.0,33.0,31.0,93.0,11.0,41.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Semarang Tengah,Miroto
+2022,3,Smg Utara,Bandarharjo,1428.0,286.0,246.0,86.0,121.0,121.0,32.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Semarang Utara,Bandarharjo
+2022,4,Smg Utara,Bulu Lor,528.0,106.0,83.0,79.0,36.0,23.0,5.0,1.0,0.0,0.0,5.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,Semarang Utara,Bulu Lor
+2022,5,Smg Timur,Halmahera,519.0,104.0,95.0,92.0,29.0,34.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Semarang Timur,Halmahera
+2022,6,Smg Timur,Bugangan,254.0,51.0,48.0,94.0,8.0,43.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Semarang Timur,Bugangan
+2022,7,Smg Timur,Karangdoro,356.0,71.0,91.0,128.0,59.0,14.0,18.0,0.0,0.0,0.0,13.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,Semarang Timur,Karangdoro
+2022,8,Smg Selatan,Pandanaran,398.0,80.0,28.0,35.0,17.0,30.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Semarang Selatan,Pandanaran
+2022,9,Smg Selatan,Lamper Tengah,256.0,51.0,11.0,21.0,16.0,53.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,Semarang Selatan,Lamper Tengah
+2022,10,Smg Barat,Karangayu,363.0,73.0,48.0,66.0,15.0,23.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,Semarang Barat,Karangayu
+2022,11,Smg Barat,Lebdosari,377.0,75.0,61.0,81.0,12.0,71.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,Semarang Barat,Lebdosari
+2022,12,Smg Barat,Manyaran,515.0,103.0,96.0,93.0,19.0,89.0,15.0,4.0,0.0,0.0,8.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,Semarang Barat,Manyaran
+2022,13,Smg Barat,Krobokan,282.0,56.0,36.0,64.0,35.0,79.0,10.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Semarang Barat,Krobokan
+2022,14,Smg Barat,Ngemplak S,449.0,90.0,85.0,95.0,31.0,71.0,7.0,0.0,0.0,0.0,6.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,Semarang Barat,Ngemplak Simongan
+2022,15,Gayamsari,Gayamsari,924.0,185.0,135.0,73.0,83.0,60.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,Gayamsari,Gayamsari
+2022,16,Candisari,Candilama,635.0,127.0,34.0,27.0,34.0,65.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Candisari,Candilama
+2022,17,Candisari,Kagok,352.0,70.0,58.0,82.0,28.0,56.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,Candisari,Kagok
+2022,18,Gajahmungkur,Pegandan,733.0,147.0,80.0,55.0,29.0,32.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,Gajahmungkur,Pegandan
+2022,19,Genuk,Genuk,699.0,140.0,154.0,110.0,78.0,180.0,28.0,0.0,0.0,0.0,18.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,Genuk,Genuk
+2022,20,Genuk,Bangetayu,1518.0,304.0,287.0,95.0,232.0,500.0,28.0,0.0,0.0,0.0,60.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,Genuk,Bangetayu
+2022,21,Pedurungan,Tlogosari Kulon,1291.0,258.0,201.0,78.0,84.0,111.0,39.0,2.0,0.0,0.0,9.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,Pedurungan,Tlogosari Kulon
+2022,22,Pedurungan,Tlogosari Wetan,1418.0,284.0,42.0,15.0,127.0,195.0,21.0,0.0,0.0,0.0,5.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,Pedurungan,Tlogosari Wetan
+2022,23,Tembalang,Kedungmundu,1726.0,345.0,337.0,98.0,170.0,328.0,6.0,0.0,0.0,13.0,11.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,Tembalang,Kedungmundu
+2022,24,Tembalang,Rowosari,637.0,127.0,115.0,90.0,45.0,106.0,5.0,1.0,0.0,0.0,5.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,Tembalang,Rowosari
+2022,25,Banyumanik,Ngesrep,497.0,99.0,77.0,77.0,18.0,36.0,5.0,0.0,0.0,0.0,9.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,Banyumanik,Ngesrep
+2022,26,Banyumanik,Padangsari,354.0,71.0,49.0,69.0,41.0,39.0,25.0,0.0,0.0,0.0,4.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,Banyumanik,Padangsari
+2022,27,Banyumanik,Srondol,641.0,128.0,111.0,87.0,26.0,37.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,Banyumanik,Srondol
+2022,28,Banyumanik,Pudak Payung,552.0,110.0,61.0,55.0,71.0,64.0,4.0,0.0,0.0,0.0,6.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,Banyumanik,Pudak Payung
+2022,29,Gunungpati,Gunungpati,879.0,176.0,159.0,90.0,50.0,48.0,15.0,1.0,0.0,27.0,13.0,0.0,0.0,39.0,0.0,0.0,0.0,0.0,Gunungpati,Gunungpati
+2022,30,Gunungpati,Sekaran,583.0,117.0,104.0,89.0,19.0,34.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,Gunungpati,Sekaran
+2022,31,Mijen,Mijen,1156.0,231.0,74.0,32.0,93.0,36.0,0.0,1.0,0.0,0.0,6.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,Mijen,Mijen
+2022,32,Mijen,Karangmalang,203.0,41.0,30.0,74.0,15.0,13.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,Mijen,Karangmalang
+2022,33,Ngaliyan,Tambakaji,616.0,123.0,89.0,72.0,33.0,25.0,2.0,0.0,0.0,11.0,3.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,Ngaliyan,Tambakaji
+2022,34,Ngaliyan,Purwoyoso,504.0,101.0,42.0,42.0,92.0,166.0,26.0,0.0,0.0,0.0,21.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,Ngaliyan,Purwoyoso
+2022,35,Ngaliyan,Ngaliyan,834.0,167.0,148.0,89.0,63.0,182.0,4.0,2.0,0.0,0.0,13.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,Ngaliyan,Ngaliyan
+2022,36,Tugu,Mangkang,348.0,70.0,64.0,92.0,23.0,24.0,3.0,1.0,0.0,0.0,4.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,Tugu,Mangkang
+2022,37,Tugu,Karanganyar,286.0,57.0,52.0,91.0,28.0,74.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tugu,Karanganyar

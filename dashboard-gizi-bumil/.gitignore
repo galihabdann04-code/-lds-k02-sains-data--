@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit — jangan pernah commit secrets
+.streamlit/secrets.toml
+
+# Editor / OS / tools
+.DS_Store
+.vscode/
+.idea/
+.claude/
