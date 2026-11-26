@@ -1,9 +1,9 @@
-# Anggota Kelompok <nomor>
+# Anggota Kelompok 2
 
 | Nama | NIM | Akun GitHub | Peran |
 |---|---|---|---|
-| _(isi)_ | _(isi)_ | _(isi)_ | Ketua |
-| _(isi)_ | _(isi)_ | _(isi)_ | _(isi)_ |
-| _(isi)_ | _(isi)_ | _(isi)_ | _(isi)_ |
+| Galih Chandra Athallah| 12010223140048 | https://github.com/galihabdann04-code | Ketua |
+| Shaula Putri | 12010223140068 | https://github.com/shaulaputri-tech | anggota|
+| Kaila Adnani | 12010223140037 | https://github.com/Kailaadnani | anggota |
 
 Catatan: jangan tulis nomor HP, email pribadi, atau alamat di berkas ini.
