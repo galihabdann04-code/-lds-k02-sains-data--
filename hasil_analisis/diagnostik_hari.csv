@@ -1,0 +1,106 @@
+komoditas,hari,nama_hari,selisih_persen
+Bawang Merah Ukuran Sedang,0,Senin,-0.064
+Bawang Merah Ukuran Sedang,1,Selasa,-0.111
+Bawang Merah Ukuran Sedang,2,Rabu,0.031
+Bawang Merah Ukuran Sedang,3,Kamis,0.112
+Bawang Merah Ukuran Sedang,4,Jumat,0.036
+Bawang Putih Ukuran Sedang,0,Senin,-0.031
+Bawang Putih Ukuran Sedang,1,Selasa,-0.024
+Bawang Putih Ukuran Sedang,2,Rabu,-0.036
+Bawang Putih Ukuran Sedang,3,Kamis,0.072
+Bawang Putih Ukuran Sedang,4,Jumat,0.02
+Beras Kualitas Bawah I,0,Senin,-0.047
+Beras Kualitas Bawah I,1,Selasa,-0.034
+Beras Kualitas Bawah I,2,Rabu,-0.007
+Beras Kualitas Bawah I,3,Kamis,0.048
+Beras Kualitas Bawah I,4,Jumat,0.042
+Beras Kualitas Bawah II,0,Senin,-0.045
+Beras Kualitas Bawah II,1,Selasa,-0.012
+Beras Kualitas Bawah II,2,Rabu,-0.013
+Beras Kualitas Bawah II,3,Kamis,0.033
+Beras Kualitas Bawah II,4,Jumat,0.038
+Beras Kualitas Medium I,0,Senin,-0.033
+Beras Kualitas Medium I,1,Selasa,-0.035
+Beras Kualitas Medium I,2,Rabu,-0.011
+Beras Kualitas Medium I,3,Kamis,0.029
+Beras Kualitas Medium I,4,Jumat,0.052
+Beras Kualitas Medium II,0,Senin,-0.033
+Beras Kualitas Medium II,1,Selasa,-0.023
+Beras Kualitas Medium II,2,Rabu,-0.02
+Beras Kualitas Medium II,3,Kamis,0.025
+Beras Kualitas Medium II,4,Jumat,0.053
+Beras Kualitas Super I,0,Senin,-0.024
+Beras Kualitas Super I,1,Selasa,-0.034
+Beras Kualitas Super I,2,Rabu,-0.007
+Beras Kualitas Super I,3,Kamis,0.013
+Beras Kualitas Super I,4,Jumat,0.053
+Beras Kualitas Super II,0,Senin,-0.049
+Beras Kualitas Super II,1,Selasa,-0.023
+Beras Kualitas Super II,2,Rabu,-0.0
+Beras Kualitas Super II,3,Kamis,0.033
+Beras Kualitas Super II,4,Jumat,0.04
+Cabai Merah Besar,0,Senin,0.987
+Cabai Merah Besar,1,Selasa,-0.124
+Cabai Merah Besar,2,Rabu,-0.431
+Cabai Merah Besar,3,Kamis,-0.225
+Cabai Merah Besar,4,Jumat,-0.226
+Cabai Merah Keriting,0,Senin,0.212
+Cabai Merah Keriting,1,Selasa,0.26
+Cabai Merah Keriting,2,Rabu,-0.064
+Cabai Merah Keriting,3,Kamis,-0.349
+Cabai Merah Keriting,4,Jumat,-0.068
+Cabai Rawit Hijau,0,Senin,0.376
+Cabai Rawit Hijau,1,Selasa,0.078
+Cabai Rawit Hijau,2,Rabu,0.17
+Cabai Rawit Hijau,3,Kamis,-0.556
+Cabai Rawit Hijau,4,Jumat,-0.074
+Cabai Rawit Merah,0,Senin,-0.288
+Cabai Rawit Merah,1,Selasa,0.131
+Cabai Rawit Merah,2,Rabu,0.491
+Cabai Rawit Merah,3,Kamis,0.09
+Cabai Rawit Merah,4,Jumat,-0.418
+Daging Ayam Ras Segar,0,Senin,-0.067
+Daging Ayam Ras Segar,1,Selasa,0.034
+Daging Ayam Ras Segar,2,Rabu,0.07
+Daging Ayam Ras Segar,3,Kamis,0.026
+Daging Ayam Ras Segar,4,Jumat,-0.063
+Daging Sapi Kualitas 1,0,Senin,-0.045
+Daging Sapi Kualitas 1,1,Selasa,0.019
+Daging Sapi Kualitas 1,2,Rabu,0.036
+Daging Sapi Kualitas 1,3,Kamis,0.022
+Daging Sapi Kualitas 1,4,Jumat,-0.03
+Daging Sapi Kualitas 2,0,Senin,-0.046
+Daging Sapi Kualitas 2,1,Selasa,0.021
+Daging Sapi Kualitas 2,2,Rabu,0.032
+Daging Sapi Kualitas 2,3,Kamis,0.017
+Daging Sapi Kualitas 2,4,Jumat,-0.023
+Gula Pasir Kualitas Premium,0,Senin,0.021
+Gula Pasir Kualitas Premium,1,Selasa,-0.003
+Gula Pasir Kualitas Premium,2,Rabu,-0.044
+Gula Pasir Kualitas Premium,3,Kamis,-0.039
+Gula Pasir Kualitas Premium,4,Jumat,0.065
+Gula Pasir Lokal,0,Senin,-0.021
+Gula Pasir Lokal,1,Selasa,-0.058
+Gula Pasir Lokal,2,Rabu,-0.008
+Gula Pasir Lokal,3,Kamis,0.015
+Gula Pasir Lokal,4,Jumat,0.074
+Minyak Goreng Curah,0,Senin,0.029
+Minyak Goreng Curah,1,Selasa,-0.031
+Minyak Goreng Curah,2,Rabu,-0.037
+Minyak Goreng Curah,3,Kamis,-0.008
+Minyak Goreng Curah,4,Jumat,0.047
+Minyak Goreng Kemasan Bermerk 1,0,Senin,0.037
+Minyak Goreng Kemasan Bermerk 1,1,Selasa,-0.011
+Minyak Goreng Kemasan Bermerk 1,2,Rabu,-0.114
+Minyak Goreng Kemasan Bermerk 1,3,Kamis,-0.024
+Minyak Goreng Kemasan Bermerk 1,4,Jumat,0.112
+Minyak Goreng Kemasan Bermerk 2,0,Senin,0.014
+Minyak Goreng Kemasan Bermerk 2,1,Selasa,-0.013
+Minyak Goreng Kemasan Bermerk 2,2,Rabu,-0.122
+Minyak Goreng Kemasan Bermerk 2,3,Kamis,-0.015
+Minyak Goreng Kemasan Bermerk 2,4,Jumat,0.135
+Telur Ayam Ras Segar,0,Senin,0.012
+Telur Ayam Ras Segar,1,Selasa,0.013
+Telur Ayam Ras Segar,2,Rabu,0.061
+Telur Ayam Ras Segar,3,Kamis,-0.005
+Telur Ayam Ras Segar,4,Jumat,-0.081

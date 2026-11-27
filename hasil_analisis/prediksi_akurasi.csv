@@ -1,0 +1,85 @@
+komoditas,model,mape_persen,dipakai
+Bawang Merah Ukuran Sedang,naif,7.53,True
+Bawang Merah Ukuran Sedang,rata4,11.43,False
+Bawang Merah Ukuran Sedang,drift12,11.58,False
+Bawang Merah Ukuran Sedang,musiman52,11.84,False
+Bawang Putih Ukuran Sedang,naif,2.7,True
+Bawang Putih Ukuran Sedang,rata4,3.87,False
+Bawang Putih Ukuran Sedang,drift12,3.75,False
+Bawang Putih Ukuran Sedang,musiman52,4.26,False
+Beras Kualitas Bawah I,naif,0.35,True
+Beras Kualitas Bawah I,rata4,0.57,False
+Beras Kualitas Bawah I,drift12,0.54,False
+Beras Kualitas Bawah I,musiman52,0.36,False
+Beras Kualitas Bawah II,naif,0.5,False
+Beras Kualitas Bawah II,rata4,0.84,False
+Beras Kualitas Bawah II,drift12,0.75,False
+Beras Kualitas Bawah II,musiman52,0.37,True
+Beras Kualitas Medium I,naif,0.51,False
+Beras Kualitas Medium I,rata4,0.81,False
+Beras Kualitas Medium I,drift12,0.78,False
+Beras Kualitas Medium I,musiman52,0.45,True
+Beras Kualitas Medium II,naif,0.39,True
+Beras Kualitas Medium II,rata4,0.65,False
+Beras Kualitas Medium II,drift12,0.45,False
+Beras Kualitas Medium II,musiman52,0.4,False
+Beras Kualitas Super I,naif,0.33,False
+Beras Kualitas Super I,rata4,0.53,False
+Beras Kualitas Super I,drift12,0.56,False
+Beras Kualitas Super I,musiman52,0.28,True
+Beras Kualitas Super II,naif,0.42,False
+Beras Kualitas Super II,rata4,0.65,False
+Beras Kualitas Super II,drift12,0.6,False
+Beras Kualitas Super II,musiman52,0.35,True
+Cabai Merah Besar,naif,15.13,True
+Cabai Merah Besar,rata4,17.75,False
+Cabai Merah Besar,drift12,17.55,False
+Cabai Merah Besar,musiman52,13.92,False
+Cabai Merah Keriting,naif,16.67,True
+Cabai Merah Keriting,rata4,21.51,False
+Cabai Merah Keriting,drift12,18.92,False
+Cabai Merah Keriting,musiman52,15.97,False
+Cabai Rawit Hijau,naif,9.54,True
+Cabai Rawit Hijau,rata4,11.37,False
+Cabai Rawit Hijau,drift12,10.34,False
+Cabai Rawit Hijau,musiman52,15.72,False
+Cabai Rawit Merah,naif,14.85,True
+Cabai Rawit Merah,rata4,21.26,False
+Cabai Rawit Merah,drift12,19.54,False
+Cabai Rawit Merah,musiman52,29.04,False
+Daging Ayam Ras Segar,naif,5.11,True
+Daging Ayam Ras Segar,rata4,6.88,False
+Daging Ayam Ras Segar,drift12,6.25,False
+Daging Ayam Ras Segar,musiman52,5.99,False
+Daging Sapi Kualitas 1,naif,0.87,True
+Daging Sapi Kualitas 1,rata4,1.32,False
+Daging Sapi Kualitas 1,drift12,1.41,False
+Daging Sapi Kualitas 1,musiman52,0.87,False
+Daging Sapi Kualitas 2,naif,0.97,True
+Daging Sapi Kualitas 2,rata4,1.55,False
+Daging Sapi Kualitas 2,drift12,1.6,False
+Daging Sapi Kualitas 2,musiman52,0.97,False
+Gula Pasir Kualitas Premium,naif,0.35,True
+Gula Pasir Kualitas Premium,rata4,0.54,False
+Gula Pasir Kualitas Premium,drift12,0.36,False
+Gula Pasir Kualitas Premium,musiman52,0.34,False
+Gula Pasir Lokal,naif,0.96,True
+Gula Pasir Lokal,rata4,1.47,False
+Gula Pasir Lokal,drift12,1.16,False
+Gula Pasir Lokal,musiman52,1.44,False
+Minyak Goreng Curah,naif,0.75,True
+Minyak Goreng Curah,rata4,1.17,False
+Minyak Goreng Curah,drift12,1.27,False
+Minyak Goreng Curah,musiman52,1.13,False
+Minyak Goreng Kemasan Bermerk 1,naif,0.23,True
+Minyak Goreng Kemasan Bermerk 1,rata4,0.33,False
+Minyak Goreng Kemasan Bermerk 1,drift12,0.53,False
+Minyak Goreng Kemasan Bermerk 1,musiman52,0.33,False
+Minyak Goreng Kemasan Bermerk 2,naif,0.28,True
+Minyak Goreng Kemasan Bermerk 2,rata4,0.44,False
+Minyak Goreng Kemasan Bermerk 2,drift12,0.88,False
+Minyak Goreng Kemasan Bermerk 2,musiman52,0.64,False
+Telur Ayam Ras Segar,naif,4.08,True
+Telur Ayam Ras Segar,rata4,3.74,False
+Telur Ayam Ras Segar,drift12,5.11,False
+Telur Ayam Ras Segar,musiman52,4.97,False
