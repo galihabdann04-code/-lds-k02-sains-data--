@@ -3,7 +3,7 @@
 > Ganti nama berkas sesuai harness yang dipilih: AGENTS.md, CLAUDE.md, atau GEMINI.md.
 
 ## Tujuan
-Sistem database untuk membantu **Dinas Kesehatan Kota Semarang** memutuskan **Puskesmas mana yang diprioritaskan untuk pendampingan gizi ibu hamil (KEK dan Anemia, ditangani terpisah)** setiap **awal tahun perencanaan program**. _(Draf dari topik Shaula — perlu disepakati kelompok.)_
+Sistem database dan analisis data untuk membantu **warga Kota Semarang (ibu rumah tangga dan anak kos)** memutuskan **bahan pangan apa yang dibeli dan kapan membelinya supaya hemat dan tetap bergizi, setiap minggu** berdasarkan data **harga pangan harian Kota Semarang ("Belanja Hemat Bergizi Semarang")**.
 
 ## Aturan
 - Jangan menulis kunci, token, atau sandi ke berkas apa pun. Simpan di `.env`.
