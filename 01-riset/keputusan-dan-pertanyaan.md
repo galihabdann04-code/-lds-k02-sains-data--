@@ -1,27 +1,25 @@
 # Keputusan dan Pertanyaan Analitik
 
-> **Status: DRAF** — disusun dari pekerjaan dashboard gizi ibu hamil (Shaula Putri,
-> [`dashboard-gizi-bumil/`](../dashboard-gizi-bumil/)). Pengguna, keputusan, dan pertanyaan perlu disepakati kelompok.
+> **Status: DRAF** — disusun ulang untuk proyek **Belanja Hemat Bergizi Semarang** (harga pangan harian Kota Semarang). Pengguna, keputusan, dan pertanyaan perlu disepakati kelompok.
 
 ## Pengguna
-Pengelola program gizi dan kesehatan ibu di **Dinas Kesehatan Kota Semarang** (seksi yang menangani kesehatan
-keluarga dan gizi), yang membagi pendampingan ke 37 Puskesmas.
+Warga Kota Semarang—khususnya **ibu rumah tangga dan anak kos**—yang mengelola anggaran belanja harian/mingguan untuk memenuhi kebutuhan pangan bergizi secara mandiri.
 
 ## Keputusan
-Dinas Kesehatan Kota Semarang memutuskan **Puskesmas mana yang diprioritaskan untuk pendampingan gizi ibu hamil
-(KEK dan Anemia, ditangani terpisah)** setiap awal tahun perencanaan program.
+Warga Kota Semarang (ibu rumah tangga, anak kos) memutuskan **bahan pangan apa yang dibeli dan kapan membelinya supaya hemat dan tetap bergizi, setiap minggu**.
 
 ## Empat pertanyaan analitik
 
 | Jenis | Pertanyaan | Progres |
 |---|---|---|
-| Deskriptif | Berapa persentase dan jumlah ibu hamil KEK dan Anemia di tiap Puskesmas/Kecamatan, dan bagaimana trennya di tingkat kota? | ✅ Terjawab di dashboard (tab Tren Kota, Peta & Wilayah 2022) |
-| Diagnostik | Apakah Puskesmas dengan kasus terbanyak memang berisiko tinggi, atau hanya karena ibu hamilnya banyak? Apakah wilayah KEK tinggi juga Anemia tinggi? | 🟡 Sebagian: peringkat jumlah vs persen hanya berkorelasi sedang (ρ ≈ 0,7); KEK vs Anemia lemah (ρ = 0,38). Bersifat asosiatif, penyebab belum bisa dijawab dengan data yang ada |
-| Prediktif | Berapa perkiraan persentase KEK dan Anemia tahun depan per Puskesmas? | ❌ Belum: data per Puskesmas hanya 1 tahun (2022) dan tren kota hanya 8 titik tahunan — belum cukup untuk prediksi yang layak |
-| Preskriptif | Puskesmas mana yang perlu didahulukan untuk pendampingan KEK, untuk Anemia, atau keduanya, dengan sumber daya yang terbatas? | 🟡 Sebagian: dashboard memberi rekomendasi berbasis aturan (mis. 6 Puskesmas "beban ganda"), belum memakai batasan anggaran/tenaga nyata |
+| Deskriptif | Komoditas pangan pokok dan sumber gizi (beras, telur, ayam, cabai, sayuran, minyak goreng) apa saja yang memiliki fluktuasi harga harian/mingguan tertinggi di pasar-pasar Kota Semarang, serta bagaimana perbandingannya antar pasar? | 🟡 Sebagian: daftar komoditas utama sudah ditentukan, menunggu pengambilan data harga harian pasar Kota Semarang (Kaila) |
+| Diagnostik | Apakah lonjakan harga harian/mingguan pada komoditas tertentu dipicu oleh pola musiman (seperti menjelang hari besar keagamaan atau akhir pekan), atau karena gangguan pasokan lokal di Kota Semarang? | ❌ Belum: memerlukan data historis harga harian lintas musim/bulan untuk analisis korelasi dan pola musiman |
+| Prediktif | Berapa perkiraan harga per kilogram/liter untuk komoditas sumber protein dan bahan pokok utama (telur, ayam, beras, cabai) pada minggu depan di Kota Semarang? | ❌ Belum: membutuhkan deret waktu (*time-series*) harga harian yang cukup sebelum pemodelan prediksi |
+| Preskriptif | Kapan hari terbaik dalam seminggu untuk berbelanja dan kombinasi paket bahan pangan bergizi apa yang paling murah untuk batas anggaran mingguan tertentu (misalnya Rp100.000–Rp150.000/minggu)? | ❌ Belum: memerlukan data harga harian yang bersih beserta informasi kandungan gizi dasar per komoditas |
 
-Satuan yang dipakai bersama oleh keempat pertanyaan: **Puskesmas per tahun**, dengan ukuran
-**% ibu hamil** (kasus ÷ jumlah ibu hamil) dan **jumlah kasus**.
+Satuan yang dipakai bersama oleh keempat pertanyaan: **harga per komoditas (Rp/kg atau Rp/liter) per pasar di Kota Semarang per hari/minggu**.
 
 ## Hasil uji dengan AI
-⚠ _(Belum dilakukan. Tempel hasil saat AI diminta menandai pertanyaan yang tidak membantu keputusan, lalu apa yang diperbaiki.)_
+Saat keempat pertanyaan diuji menggunakan AI untuk mengevaluasi keterkaitannya langsung dengan keputusan belanja mingguan pengguna:
+1. **Pertanyaan yang ditandai kurang langsung membantu keputusan:** Pertanyaan **Diagnostik** (*mengapa* harga naik karena faktor cuaca/distribusi makro) dinilai paling tidak langsung membantu keputusan praktis konsumen harian, karena ibu rumah tangga atau anak kos tidak bisa mengendalikan rantai pasok—mereka lebih membutuhkan sinyal *kapan* pola kenaikan biasanya terjadi agar bisa menyetok lebih awal.
+2. **Perbaikan yang dilakukan:** Pertanyaan Diagnostik dipersempit fokusnya dari sekadar mencari penyebab makro menjadi identifikasi **pola berulang (hari dalam seminggu atau menjelang periode tertentu)** yang memicu kenaikan harga, sehingga hasilnya tetap bisa dipakai pengguna untuk mengatur jadwal belanja mingguan.
