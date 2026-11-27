@@ -1,24 +1,31 @@
 # HARNESS
 
-> Bagian Shaula Putri dan Kaila Adnani sudah diisi. Galih menambahkan bagian harness masing-masing di bawah.
+> Setiap anggota mengisi bagiannya sendiri: Shaula, Kaila, dan Galih.
+
+## Harness Shaula Putri
 
 Harness       : Claude Code (aplikasi desktop Claude, tab Code), dipasang di laptop Shaula (macOS)
 Biaya         : ⚠ _(Shaula: isi paket langganan Claude yang dipakai; dicek tanggal ...)_
 Agent Skills  : Didukung. Skill pribadi di `~/.claude/skills/`, skill proyek di `.claude/skills/` dalam repo.
-                Skill yang dipakai pada proyek ini dicatat di `SKILL-TERPASANG.md`.
-File instruksi: AGENTS.md. Catatan: Claude Code membaca `CLAUDE.md`; template meminta nama berkas disesuaikan
-                dengan harness ⚠ _(disepakati kelompok: ganti nama atau buat salinan CLAUDE.md)_
-Bukti GitHub  : Commit dashboard `a215dc4` (folder `dashboard-gizi-bumil/`) dibuat oleh AI atas nama shaulaputri-tech.
-                Baris `Co-authored-by` dihapus dari riwayat atas permintaan Shaula; pemakaian AI dicatat di `LOG-AI.md`.
+                Skill yang dipakai dicatat di `SKILL-TERPASANG.md`.
+File instruksi: Claude Code otomatis membaca `CLAUDE.md`; `AGENTS.md` repo ini dibaca bila diminta dalam perintah.
+Bukti GitHub  : Commit `3b80c2c` dari akun shaulaputri-tech (`scripts/ambil_data_pihps.py`, `01-riset/sumber-data.md`),
+                dikerjakan dengan bantuan AI. Baris `Co-authored-by` tidak dicantumkan atas permintaan Shaula;
+                pemakaian AI dicatat di `LOG-AI.md` (bagian Shaula).
 
-## Sambungan ke aplikasi lain
-Aplikasi : (1) Portal Satu Data Kota Semarang, (2) Geoportal Kota Semarang, (3) GitHub, (4) Streamlit Community Cloud
-Cara     : (1) unduh CSV per elemen data; (2) WFS GeoServer → GeoJSON; (3) GitHub CLI `gh` (login lewat browser);
-           (4) deploy dari repo GitHub, aplikasi live di https://gizi-bumil-semarang.streamlit.app
-Uji      : AI membaca 7 berkas CSV Satu Data (1 baris × 9–10 kolom tahun tiap elemen), 16 poligon kecamatan dari
-           Geoportal, dan Tabel 32 PDF Lampiran Profil 2022 (37 baris × 18 kolom; jumlah baris = baris JUMLAH di PDF).
-Dicek    : ⚠ _(Shaula: siapa yang mencocokkan angka dengan sumber aslinya, dan hasilnya)_
-Bukti    : ⚠ 00-admin/bukti/_(tambahkan tangkapan layar dashboard live / unduhan CSV, bertanggal)_.png
+## Sambungan ke aplikasi lain (pengambilan data PIHPS)
+
+Aplikasi : (1) PIHPS Nasional Bank Indonesia, (2) GitHub
+Cara     : (1) `scripts/ambil_data_pihps.py` meminta tabel harga harian Kota Semarang per tahun (2018–2026) ke alamat
+           data halaman PIHPS dan menyimpan respons apa adanya di `data/mentah/` (tidak di-commit), lalu dikirim ke
+           Kaila untuk dibersihkan; (2) GitHub CLI `gh` (login lewat browser) untuk commit dan Issue.
+Uji      : AI mengunduh 9 berkas tahunan (31 baris × 237–262 tanggal; 72.075 sel, 95,1% terisi).
+Dicek    : 12 harga dari pengambilan uji cocok 12/12 dengan berkas akhir; 7 angka pada tangkapan layar halaman PIHPS
+           (`00-admin/bukti/pihps-halaman.png`) cocok 7/7 dengan data unduhan.
+           ⚠ _(Shaula: tambahkan apa yang kamu cek sendiri)_
+Bukti    : `00-admin/bukti/pihps-halaman.png` ⚠ _(Shaula: tambahkan tangkapan layar milikmu sendiri bila ada)_
+
+Catatan: harness yang sama dipakai untuk topik awal (dashboard gizi ibu hamil, lihat `LOG-AI.md` entri Shaula 1).
 
 ## Harness Kaila Adnani
 

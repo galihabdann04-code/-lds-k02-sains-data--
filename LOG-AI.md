@@ -63,3 +63,42 @@ Alat AI: Google Gemini (`gemini.google.com` versi web), diakses lewat Google Chr
 - **Perintah:** Memberikan instruksi Issue #8 serta isi mentah `HARNESS.md`, `SKILL-TERPASANG.md`, dan `LOG-AI.md` untuk melengkapi bagian milik Galih tanpa menimpa catatan Shaula dan Kaila.
 - **Hasil:** Penambahan subbagian `Harness Galih Chandra Athallah` dan `Sambungan ke aplikasi lain (riset dasbor pembanding)` di `HARNESS.md`, penambahan hasil uji perbandingan skill serta kandidat skill yang ditolak di `SKILL-TERPASANG.md`, dan pencatatan riwayat kerja AI di `LOG-AI.md`.
 - **Yang dicek:** Saya memastikan catatan milik Shaula dan Kaila tetap utuh, nomor commit dan nama berkas bukti cocok dengan riwayat repositori GitHub, dan seluruh entri di-commit langsung menggunakan akun GitHub saya (`galihabdann04-code`).
+
+---
+
+## Shaula Putri
+
+Alat AI: Claude (Claude Code, aplikasi desktop Claude) di laptop Shaula. Entri 1–3 dipulihkan dari commit `3b80c2c`
+karena sempat tertimpa saat `LOG-AI.md` diperbarui; isinya tidak diubah selain penyesuaian format.
+
+### Entri 1: Dashboard topik awal — status gizi ibu hamil (sebelum topik diganti)
+
+- **Tanggal:** 2026-11-26
+- **Nama:** Shaula
+- **Perintah:** Mengerjakan "Dashboard Monitoring dan Analisis Status Gizi Ibu Hamil di Kota Semarang" secara bertahap (Tahap 1–5), hanya dari data resmi, tanpa data dummy, dengan KEK dan Anemia dianalisis terpisah. Setiap tahap disetujui dulu sebelum lanjut.
+- **Hasil:** Folder `dashboard-gizi-bumil/` (sumber resmi Satu Data Kota Semarang, Lampiran Profil Kesehatan 2022 Tabel 32, Geoportal Kota Semarang; validasi data; EDA; dashboard Streamlit live di https://gizi-bumil-semarang.streamlit.app). Folder ini kemudian dihapus dari `main` oleh Galih (`74115b4`) karena topik kelompok diganti ke harga pangan; isinya tetap ada di riwayat git.
+- **Yang dicek:** Oleh AI: total Tabel 32 cocok dengan baris JUMLAH di PDF; 90 kombinasi filter dashboard lolos tanpa error; pipeline diulang dari repo bersih menghasilkan file identik. Oleh Shaula: menyetujui setiap tahap dan pengaturan deploy.
+
+### Entri 2: Pengisian awal berkas template TK1 (topik awal)
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Shaula
+- **Perintah:** Mengisi berkas template TK1 berdasarkan pekerjaan dashboard gizi ibu hamil.
+- **Hasil:** Draf awal `sumber-data.md`, `keputusan-dan-pertanyaan.md`, `kamus-data.md`, `data/sampel/`, `KENAPA-KAMI.md`, bagian Shaula di `HARNESS.md` dan `SKILL-TERPASANG.md`. Berkas-berkas ini kemudian ditulis ulang anggota lain untuk topik harga pangan.
+- **Yang dicek:** Oleh AI: setiap angka diambil dari berkas hasil di `dashboard-gizi-bumil/`.
+
+### Entri 3: Pengambilan data harga pangan PIHPS (Issue #4)
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Shaula
+- **Perintah:** Mencari sumber harga pangan harian Kota Semarang, lalu mengambil data mentahnya.
+- **Hasil:** Sumber terpilih PIHPS Nasional (Bank Indonesia). Script `scripts/ambil_data_pihps.py` mengunduh data harian Kota Semarang, pasar tradisional, 1 Jan 2018 – 27 Nov 2026: 2.325 tanggal × 31 baris (21 komoditas + 10 kategori), 95,1% sel terisi. Data mentah disimpan di `data/mentah/` (tidak di-commit) dan dikirim ke Kaila dalam bentuk zip untuk Issue #5. Kandidat sumber yang ditolak: Satu Data Kota Semarang (tahunan), Satu Data Jateng (1 tanggal), BPS IHK (indeks), Panel Harga Bapanas (ekspor tidak pasti), data penumpang Trans Semarang (tahunan).
+- **Yang dicek:** Oleh AI: jumlah tanggal dan sel terisi per tahun dihitung dari berkas yang diunduh; 12 harga dari pengambilan uji (Jan 2018, Jan 2020, Nov 2026) cocok 12/12 dengan berkas akhir.
+
+### Entri 4: Pemeriksaan hasil kerja kelompok dan pelengkapan bagian Shaula
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Shaula
+- **Perintah:** Memeriksa progres Galih dan Kaila di GitHub, lalu melengkapi bagian Shaula yang kurang.
+- **Hasil:** Entri 1–3 dipulihkan; `01-riset/sumber-data.md` dilengkapi tabel inventaris dan catatan sesuai template (isi tulisan Kaila dipertahankan); sampel topik awal (`puskesmas_2022.csv`, `kota_tahunan.csv`) dihapus dari `data/sampel/`; bagian Shaula di `HARNESS.md` dan `SKILL-TERPASANG.md` diperbarui untuk topik harga pangan.
+- **Yang dicek:** Oleh AI: angka pada `sumber-data.md` dan `kamus-data.md` buatan Kaila dihitung ulang dari data mentah dan semuanya cocok (48.825 baris, 2.325 tanggal, 2.376 sel kosong = 4,9%, 113 tanggal kosong, 1 tanggal kosong sebagian pada 17 Maret 2022, 22 lonjakan >50%); 300 dari 300 baris `harga_pangan_semarang_sampel.csv` cocok dengan data mentah. Tujuh angka yang terlihat pada tangkapan layar halaman PIHPS (`00-admin/bukti/pihps-halaman.png`, 1–2 Januari 2018) cocok 7/7 dengan data unduhan.

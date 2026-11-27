@@ -7,7 +7,7 @@ Repo Kelompok 2 — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
 | Tugas | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
 | TK1 | [01-riset/keputusan-dan-pertanyaan.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/keputusan-dan-pertanyaan.md) | Galih | Selesai (draf harga pangan & uji AI) |
-| TK1 | [01-riset/sumber-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/sumber-data.md) | Kaila | Selesai (tinggal unggah bukti) |
+| TK1 | [01-riset/sumber-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/sumber-data.md) | Shaula (pengambilan data) & Kaila (penulisan & verifikasi) | Selesai |
 | TK1 | [01-riset/riset-kreatif.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/riset-kreatif.md) | Galih | Selesai (3 dasbor pembanding + bukti) |
 | TK1 | [data/sampel/](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/data/sampel), [kamus-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/kamus-data.md) | Kaila & Shaula | Selesai (tinggal unggah bukti) |
 | TK1 | [KENAPA-KAMI.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/KENAPA-KAMI.md) v1 | Galih | Selesai (v1 harga pangan + tangkapan layar) |

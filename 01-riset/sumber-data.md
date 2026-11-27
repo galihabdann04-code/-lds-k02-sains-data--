@@ -2,6 +2,19 @@
 
 Topik kelompok: **Belanja Hemat Bergizi Semarang**
 
+Pengambilan data: **Shaula Putri** (Issue #4, `scripts/ambil_data_pihps.py`). Penulisan ulang berkas ini,
+pemeriksaan angka, dan pembersihan data: **Kaila Adnani** (Issue #5).
+
+## Inventaris (ringkas)
+
+Data yang dibutuhkan dari empat pertanyaan: harga harian bahan pangan pokok di Kota Semarang dalam rentang waktu
+panjang, untuk melihat tren dan pola, memperkirakan harga ke depan, dan menyusun rekomendasi belanja.
+
+| # | Sumber | Cara mengambil | Lisensi atau izin | Frekuensi | Perkiraan baris | Data pribadi | Dibuka manusia? |
+|---|---|---|---|---|---|---|---|
+| 1 | [PIHPS Nasional — Bank Indonesia](https://www.bi.go.id/hargapangan/TabelHarga/PasarTradisionalDaerah) (Jawa Tengah → Kota Semarang, pasar tradisional, laporan harian) | Script `scripts/ambil_data_pihps.py`, per tahun 2018–2026 (lihat bagian 2) | Hak cipta PIHPS Nasional, dipakai untuk keperluan akademik dengan menyebut sumber (lihat bagian 3) | Harian, hari kerja | 48.825 baris (21 komoditas × 2.325 tanggal) | Tidak ada | ✅ Dibuka Kaila (bukti `00-admin/bukti/pihps-halaman.png`) |
+
+
 ## 1. Sumber
 
 **PIHPS Nasional (Pusat Informasi Harga Pangan Strategis), Bank Indonesia.**
@@ -39,3 +52,20 @@ Tidak ada. Data berupa harga komoditas (rata-rata) per tanggal, tanpa identitas 
 4. **Harga adalah rata-rata** dari pasar tradisional yang disurvei PIHPS di Kota Semarang, sehingga tidak mewakili harga di setiap pasar atau pedagang.
 5. **Ada lonjakan harga tidak wajar** (lebih dari 50% antar-pengamatan) sebanyak 22 kejadian, sebagian besar pada cabai. Angkanya dibiarkan sesuai sumber dan dicatat di temuan kualitas.
 6. **Data 2026 belum penuh**, hanya sampai 27 November 2026.
+
+## 8. Catatan template
+
+- **Sumber utama:** nomor 1. **Memenuhi** syarat ~500 baris dan minimal 24 periode: 48.825 baris; 2.325 periode
+  harian atau 107 periode bulanan (Januari 2018 – November 2026).
+- **Usulan AI yang tidak dipakai** (rincian di `LOG-AI.md`, entri Shaula 3): 5 dari 6 kandidat sumber yang diperiksa
+  tidak dipakai (83%):
+  1. Portal Satu Data Kota Semarang — hanya indikator tahunan, bukan harga harian.
+  2. Satu Data Jawa Tengah "Harga Kepokmas di Kota Semarang" — hanya satu tanggal (14 April 2023).
+  3. BPS "Indeks Harga Konsumen dan Inflasi Kota Semarang" — bulanan, tetapi berupa indeks, bukan harga.
+  4. Panel Harga Badan Pangan Nasional — cara ekspor data per kabupaten/kota tidak bisa dipastikan.
+  5. Data penumpang Trans Semarang (topik yang sempat dipertimbangkan) — hanya total tahunan 2017–2025.
+- **Batas yang perlu diketahui untuk 4 pertanyaan:** PIHPS untuk Kota Semarang hanya memberi **satu** harga rata-rata
+  kota (bukan per pasar), **tidak** memuat sayuran, **tidak** ada data akhir pekan, dan **tidak** memuat kandungan gizi.
+  Pertanyaan yang membutuhkan hal-hal tersebut memerlukan sumber tambahan atau perlu disesuaikan.
+
+Setiap sumber di tabel ini sudah dibuka sendiri oleh anggota kelompok.
