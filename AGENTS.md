@@ -18,5 +18,4 @@ Sistem database dan analisis data untuk membantu **warga Kota Semarang (ibu ruma
 - `00-admin/`: anggota, izin data, bukti
 - `dashboard-gizi-bumil/`: dashboard Streamlit gizi ibu hamil (pipeline data, aplikasi, laporan)
 
-## Log AI
-Setiap pekerjaan penting dicatat di `LOG-AI.md`: perintah, hasil, dan yang dicek manusia.
+
