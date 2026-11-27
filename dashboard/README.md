@@ -23,4 +23,4 @@ pip install -r dashboard/requirements.txt
 python dashboard/siapkan_data.py      # perlu data/mentah/ (opsional, data ringkasan sudah ada)
 streamlit run dashboard/app.py
 ```
-Deploy di Streamlit Community Cloud: *Main file path* `dashboard/app.py`, Python 3.12.
+Deploy di Streamlit Community Cloud: *Main file path* `dashboard/app.py`. Mendukung Python 3.9–3.14 (numpy dipilih otomatis sesuai versi Python).
