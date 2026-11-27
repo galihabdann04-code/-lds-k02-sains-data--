@@ -1,7 +1,5 @@
 # AGENTS.md
 
-> Ganti nama berkas sesuai harness yang dipilih: AGENTS.md, CLAUDE.md, atau GEMINI.md.
-
 ## Tujuan
 Sistem database dan analisis data untuk membantu **warga Kota Semarang (ibu rumah tangga dan anak kos)** memutuskan **bahan pangan apa yang dibeli dan kapan membelinya supaya hemat dan tetap bergizi, setiap minggu** berdasarkan data **harga pangan harian Kota Semarang ("Belanja Hemat Bergizi Semarang")**.
 
