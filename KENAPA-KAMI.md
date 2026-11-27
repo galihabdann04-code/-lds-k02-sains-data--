@@ -1,27 +1,23 @@
 # KENAPA KAMI (v1)
 
-Pertanyaan v1: mengapa perlu sistem database kelompok, padahal sudah ada spreadsheet dan dasbor siap pakai?
+Pertanyaan v1: mengapa perlu sistem database dan analisis kelompok (**Belanja Hemat Bergizi Semarang**), padahal sudah ada dasbor pemantau harga pangan dari pemerintah?
 
-> **Status: DRAF** dari pekerjaan dashboard gizi ibu hamil (Shaula Putri). Kolom "ulasan dengan tangkapan layar"
-> belum ada; yang tertulis di bawah adalah temuan pemeriksaan data, bukan ulasan pengguna.
+> **Status: v1** — disusun untuk topik harga pangan harian Kota Semarang berdasarkan evaluasi langsung terhadap tiga platform pemantau harga pangan dan data daerah yang sudah ada.
 
 ## Alternatif yang sudah ada
 
 | Alternatif | Biaya (sumber, tanggal cek) | Kelebihan | Kelemahan dan celah |
 |---|---|---|---|
-| Tetap manual: membaca PDF Profil Kesehatan Dinkes satu per satu | Gratis (situs Dinkes Kota Semarang, dicek 26 Nov 2026) | Data resmi, sampai tingkat Puskesmas | Tabel KEK/Anemia per Puskesmas hanya ada di Lampiran 2022; angka terkunci di PDF dan harus disalin manual; judul Tabel 32 tertulis "TAHUN 0.00" dan total kolom % salah hitung (2.727) |
-| Grafik bawaan Portal Satu Data Kota Semarang | Gratis (data.semarangkota.go.id, dicek 26 Nov 2026) | Bisa diunduh CSV, ada grafik per elemen | Hanya level kota; tiap indikator terpisah sehingga KEK dan jumlah ibu hamil tidak bisa dibandingkan langsung; nilai tidak valid ditampilkan apa adanya (mis. "% KEK" 2021 = 1.721, jumlah Anemia 2023 = 21.375) |
-| _(alternatif 3)_ | ⚠ _(isi)_ | | ⚠ _(ulasan, dengan tangkapan layar)_ |
+| Portal Satu Data Kota Semarang | Gratis (data.semarangkota.go.id, dicek 27 Nov 2026) | Resmi dikelola Pemkot Semarang, dataset bisa diunduh langsung (CSV/Excel), dan memuat indikator lokal Semarang | Tidak menyajikan pemantauan harga pangan eceran harian secara *real-time* maupun rekomendasi belanja praktis bagi konsumen (bukti: `00-admin/bukti/bukti-1-satu-data-semarang.png`) |
+| Panel Harga Pangan (Bapanas) | Gratis (panelharga.badanpangan.go.id, dicek 27 Nov 2026) | Antarmuka visual mudah dibaca dan membandingkan harga aktual dengan Harga Acuan Penjualan (HAP) pemerintah | Agregasi hanya sampai level kota/kabupaten (tidak mendetail ke perilaku belanja harian konsumen di Semarang) dan tidak menjawab kapan hari terbaik belanja dalam seminggu (bukti: `00-admin/bukti/bukti-2-panel-harga-bapanas.png`) |
+| SP2KP (Kementerian Perdagangan RI) | Gratis (sp2kp.kemendag.go.id, dicek 27 Nov 2026) | Memuat pantauan harga kebutuhan pokok harian resmi dan indikator fluktuasi harga lintas wilayah | Tidak menghubungkan data harga pangan dengan nilai gizi dasar maupun batas anggaran belanja mingguan ibu rumah tangga/anak kos (bukti: `00-admin/bukti/bukti-3-sp2kp-kemendag.png`) |
 
 ## Alasan sistem kami dibuat
-Bukti dari pemeriksaan data (`dashboard-gizi-bumil/reports/tahap2_validasi.md`):
-1. 12 sel data kota bermasalah (3 tidak valid, 9 perlu perhatian) yang tidak terlihat di portal; dashboard menandainya.
-2. Menggabungkan sumber kota (Satu Data) dan per Puskesmas (PDF) dalam satu tampilan, tanpa mencampur definisinya.
-3. Menunjukkan bahwa jumlah kasus bisa menyesatkan: kasus KEK turun 38% (2017–2024), tetapi jumlah ibu hamil
-   juga turun 36%, sehingga persentase KEK hampir tetap (6,88% → 6,67%).
-4. Membandingkan Puskesmas dengan selang kepercayaan 95% agar Puskesmas kecil tidak salah dicap "tertinggi".
+1. **Menjembatani data makro ke keputusan mikro harian:** Platform pemerintah dirancang untuk memantau inflasi dan stabilitas pasokan, sedangkan sistem kami menerjemahkan data historis PIHPS Semarang (2018–2026) menjadi panduan belanja praktis bagi ibu rumah tangga dan anak kos.
+2. **Menggabungkan aspek biaya dan gizi:** Sistem kami tidak hanya menampilkan harga termurah, tetapi menyusun kombinasi bahan pangan sumber karbohidrat, protein, dan serat yang paling ekonomis dalam satu anggaran mingguan.
+3. **Sinyal waktu belanja berbasis pola historis:** Mengidentifikasi komoditas dengan volatilitas tertinggi dan pola hari/musim kenaikan harga agar pengguna tahu kapan waktu terbaik membeli atau menyetok bahan pangan.
+4. **Proyeksi harga jangka pendek:** Memberikan gambaran perkiraan harga komoditas utama untuk minggu berikutnya sehingga pengguna dapat menyesuaikan rencana belanja sebelum harga melonjak.
 
 ## Kapan alternatif lebih baik
-- Jika yang dibutuhkan hanya satu angka kota untuk satu tahun: cukup lihat Satu Data.
-- Jika Dinkes kelak menerbitkan data KEK/Anemia per Puskesmas tiap tahun dalam bentuk tabel yang sudah divalidasi,
-  dashboard ini hanya menjadi tampilan tambahan.
+- Jika pengguna hanya ingin mengecek harga rata-rata nasional atau membandingkan harga antar provinsi di seluruh Indonesia secara *real-time*, **Panel Harga Bapanas** atau **SP2KP Kemendag** sudah mencukupi.
+- Jika peneliti atau warga membutuhkan dataset statistik resmi Kota Semarang lintas sektor dalam format tabel mentah, **Portal Satu Data Kota Semarang** tetap menjadi rujukan utama.
