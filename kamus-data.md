@@ -1,43 +1,37 @@
 # Kamus Data
 
-Topik: status gizi ibu hamil Kota Semarang (dikerjakan Shaula Putri). Kedua berkas adalah hasil bersih dari
-`dashboard-gizi-bumil/scripts/tahap2_cleaning.py`; tidak ada data simulasi atau estimasi.
+Berkas: `data/sampel/harga_pangan_semarang_sampel.csv` (300 baris, sampel acak dari data bersih lengkap)
 
-## 1. `data/sampel/puskesmas_2022.csv` (37 baris)
-Sumber: Lampiran Profil Kesehatan Kota Semarang 2022, Tabel 32 (Dinas Kesehatan).
+Sumber: PIHPS Nasional, Bank Indonesia. Pasar tradisional, Kota Semarang, Provinsi Jawa Tengah, laporan harian, 1 Januari 2018 s.d. 27 November 2026. Sumber data mentah: https://www.bi.go.id/hargapangan/TabelHarga/PasarTradisionalDaerah (hak cipta PIHPS Nasional). Cara pengambilan data dicatat di `sumber-data.md`.
 
-| kolom | tipe | arti | contoh |
+## Kolom
+
+| Kolom | Tipe | Arti | Contoh |
 |---|---|---|---|
-| tahun | integer | Tahun data | 2022 |
-| kecamatan | teks | Nama kecamatan baku (16 kecamatan; "Smg Tengah" di sumber → "Semarang Tengah") | Semarang Tengah |
-| puskesmas | teks | Nama Puskesmas baku ("Ngemplak S" di sumber → "Ngemplak Simongan") | Poncol |
-| jumlah_bumil | integer | Jumlah ibu hamil di wilayah Puskesmas | 226 |
-| kek_jumlah | integer | Ibu hamil dengan Kurang Energi Kronis (dicatat sebagai komplikasi kebidanan) | 31 |
-| anemia_jumlah | integer | Ibu hamil dengan Anemia (dicatat sebagai komplikasi kebidanan) | 60 |
-| kek_persen | desimal | kek_jumlah ÷ jumlah_bumil × 100 (nilai turunan) | 13.72 |
-| anemia_persen | desimal | anemia_jumlah ÷ jumlah_bumil × 100 (nilai turunan) | 26.55 |
-| jenis_persen | teks | Penanda bahwa kolom persen adalah hasil hitung, bukan angka resmi | turunan (kasus / jumlah ibu hamil x 100) |
-| sumber | teks | Dokumen, tabel, dan halaman sumber | Lampiran Profil Kesehatan Kota Semarang 2022, Tabel 32, hlm. 48 |
-| sumber_url | teks | Tautan dokumen sumber | https://profil-kesehatan.dinkes.semarangkota.go.id/... |
+| `tanggal` | tanggal (YYYY-MM-DD) | Tanggal pencatatan harga (hanya hari kerja, Senin sampai Jumat) | `2023-07-26` |
+| `komoditas` | teks | Nama komoditas (level 2 di PIHPS), 21 komoditas | `Gula Pasir Kualitas Premium` |
+| `kategori` | teks | Kelompok komoditas (level 1 di PIHPS), 10 kategori | `Gula Pasir` |
+| `harga` | bilangan bulat | Harga rata-rata di pasar tradisional dalam Rupiah per kg/liter. Kosong berarti tidak ada data | `14750` |
 
-## 2. `data/sampel/kota_tahunan.csv` (62 baris, format panjang)
-Sumber: Portal Satu Data Kota Semarang (Dinas Kesehatan), 2016–2025, level kota.
+## Catatan penting
 
-| kolom | tipe | arti | contoh |
-|---|---|---|---|
-| tahun | integer | Tahun data | 2024 |
-| kelompok | teks | KEK, Anemia, atau Sasaran (jumlah ibu hamil) | KEK |
-| indikator | teks | Kode indikator: KEK_JUMLAH, KEK_PERSEN, KEK_PERSEN_TURUNAN, ANEMIA_JUMLAH, ANEMIA_PREVALENSI, BUMIL_JUMLAH, BUMIL_K1, BUMIL_K4 | KEK_JUMLAH |
-| nilai | desimal / kosong | Nilai bersih yang dipakai analisis; **kosong** jika tidak tersedia atau tidak valid | 1224 |
-| satuan | teks | orang atau % | orang |
-| jenis_nilai | teks | resmi (dari sumber) atau turunan (dihitung dari dua angka resmi) | resmi |
-| status | teks | valid / tidak_tersedia / tidak_valid / perlu_perhatian (hasil validasi) | valid |
-| catatan | teks | Alasan status bila bukan valid | Satuan % tetapi nilainya > 100 ... |
-| nilai_asli | desimal / kosong | Nilai persis seperti di sumber, sebelum dibersihkan | 1224.0 |
-| definisi | teks | Definisi resmi indikator | Ibu hamil dengan LiLA < 23,5 cm |
-| sumber | teks | Elemen Satu Data asal | Satu Data Kota Semarang (elemen 11707) |
-| sumber_url | teks | Tautan elemen data | https://data.semarangkota.go.id/datasektoral/detail/11707 |
+1. Harga kosong berasal dari tanda "-" di data asli dan **tidak diisi** dengan perkiraan. Banyak tanggal kosong bertepatan dengan hari libur, tetapi belum dicocokkan dengan kalender libur resmi. Berkas sampel ini hanya berisi baris yang ada harganya; harga kosong hanya ada di data lengkap.
+2. Baris level 1 PIHPS (rata-rata per kategori) tidak dimasukkan agar tidak terjadi hitung ganda. Kolom `kategori` diambil dari baris level 1 tersebut.
+3. Angka dengan pemisah ribuan koma (mis. "16,100") sudah diubah menjadi bilangan bulat (16100).
+4. Nama komoditas sudah dirapikan (spasi berlebih dihapus).
+5. Data lengkap tidak di-commit; hanya sampel ini yang ada di repositori.
 
-Kolom dibuang: tidak ada kolom data pribadi (semua data berupa agregat wilayah). Dari Tabel 32, kolom komplikasi
-lain (perdarahan, TB, malaria, preeklampsia, dll.) tidak dibawa ke sampel karena di luar topik; versi lengkapnya ada
-di `dashboard-gizi-bumil/data/interim/tabel32_2022_lengkap.csv`.
+## Daftar komoditas dan kategori
+
+| Kategori | Komoditas |
+|---|---|
+| Beras | Beras Kualitas Bawah I, Beras Kualitas Bawah II, Beras Kualitas Medium I, Beras Kualitas Medium II, Beras Kualitas Super I, Beras Kualitas Super II |
+| Daging Ayam | Daging Ayam Ras Segar |
+| Daging Sapi | Daging Sapi Kualitas 1, Daging Sapi Kualitas 2 |
+| Telur Ayam | Telur Ayam Ras Segar |
+| Bawang Merah | Bawang Merah Ukuran Sedang |
+| Bawang Putih | Bawang Putih Ukuran Sedang |
+| Cabai Merah | Cabai Merah Besar, Cabai Merah Keriting |
+| Cabai Rawit | Cabai Rawit Hijau, Cabai Rawit Merah |
+| Minyak Goreng | Minyak Goreng Curah, Minyak Goreng Kemasan Bermerk 1, Minyak Goreng Kemasan Bermerk 2 |
+| Gula Pasir | Gula Pasir Kualitas Premium, Gula Pasir Lokal |
