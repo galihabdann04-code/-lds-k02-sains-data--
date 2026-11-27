@@ -16,6 +16,7 @@ Sistem database dan analisis data untuk membantu **warga Kota Semarang (ibu ruma
 - `data/sampel/`: sampel data bersih
 - `kamus-data.md`: kamus data sampel
 - `00-admin/`: anggota, izin data, bukti
-- `dashboard-gizi-bumil/`: dashboard Streamlit gizi ibu hamil (pipeline data, aplikasi, laporan)
-
-
+- `scripts/`: script pengambilan data (`ambil_data_pihps.py`) dan analisis (`analisis_harga_pangan.py`)
+- `hasil_analisis/`: hasil analisis 4 jenis (CSV + laporan)
+- `dashboard/`: dashboard Streamlit "Belanja Hemat Bergizi Semarang"
+- `data/mentah/`, `data/bersih/`: data lengkap, tidak di-commit
