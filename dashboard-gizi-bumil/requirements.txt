@@ -1,6 +1,0 @@
-# Dependensi dashboard (dipakai Streamlit Community Cloud).
-# Versi dikunci = versi yang sudah diuji. Kompatibel Python 3.9–3.12 (pilih 3.12 saat deploy).
-streamlit==1.50.0
-pandas==2.3.3
-numpy==2.0.2
-plotly==7.1.0
