@@ -110,3 +110,11 @@ karena sempat tertimpa saat `LOG-AI.md` diperbarui; isinya tidak diubah selain p
 - **Perintah:** Membuat dashboard Streamlit untuk topik harga pangan dengan memakai ulang tampilan dashboard topik awal, hanya memakai data ringkasan.
 - **Hasil:** Folder `dashboard/`: `siapkan_data.py` (ringkasan bulanan 2.247 baris, mingguan 26 minggu 546 baris, harian 20 hari kerja 420 baris), `app.py` (5 tab: Harga Terbaru, Tren & Pola, Prediksi, Rekomendasi Belanja, Data & Metodologi), `requirements.txt`, `README.md`. Tab Pola, Prediksi, dan Rekomendasi membaca `hasil_analisis/` dari Issue #6; selama belum ada, dashboard menampilkan pemberitahuan.
 - **Yang dicek:** Oleh AI: 20 kombinasi filter diuji otomatis tanpa error (dengan dan tanpa hasil analisis); tampilan tiap tab diperiksa di browser; perbaikan format Rupiah di tabel dan kalimat kesimpulan menjelang Idul Fitri (menyebut komoditas paling konsisten, bukan hanya kenaikan terbesar). ⚠ _(Shaula: coba dashboard-nya dan tulis apa yang kamu cek)_
+
+### Entri 6: Menyelesaikan sisa tugas kelompok (Issue #2, #3, #6, #8)
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Shaula
+- **Perintah:** Mengerjakan sisa tugas yang belum selesai: revisi 4 pertanyaan, perapian `AGENTS.md`/`README.md`, analisis 4 jenis, dan uji skill dataviz. Draf revisi pertanyaan dan analisis sebelumnya sudah dikirim ke Galih dan Kaila (komentar Issue #2 dan #6); karena belum ada perubahan dari mereka, Shaula yang meng-commit, dan mereka tetap bisa meninjau.
+- **Hasil:** `01-riset/keputusan-dan-pertanyaan.md` v2 (hasil uji AI dari Galih dipertahankan); struktur folder di `AGENTS.md` dan `README.md`; `scripts/analisis_harga_pangan.py` + `hasil_analisis/` (9 CSV + laporan); `scripts/uji_skill_dataviz.py` + hasil uji di `SKILL-TERPASANG.md`.
+- **Yang dicek:** Oleh AI: tanggal Idul Fitri 2018–2025 dicocokkan dengan pengumuman sidang isbat pemerintah (Setkab/Kemenag); model prediksi musiman satu tahun ditolak karena sempat memberi perkiraan cabai turun 31%, bertentangan dengan pola 8 tahun, sehingga dipakai aturan "naif kecuali model lain ≥10% lebih akurat"; hasil analisis identik saat script dijalankan ulang dari root repo; hasil uji dataviz ditulis apa adanya (skill menaikkan kontras, tetapi jarak warna palet bawaan Plotly lebih besar). ⚠ _(Shaula: tambahkan apa yang kamu cek sendiri)_
