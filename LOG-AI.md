@@ -16,7 +16,7 @@ Alat AI: Claude Sonnet 5.5 (Anthropic), lewat claude.ai. Semua entri bertanggal 
 - **Nama:** Kaila
 - **Perintah:** Mengunggah zip data mentah PIHPS Kota Semarang 2018 sampai 2026 dan meminta pembersihan sesuai checklist issue #5.
 - **Hasil:** Skrip `bersihkan_pihps.py` yang menggabungkan file tahunan menjadi tabel format panjang (`tanggal`, `komoditas`, `kategori`, `harga`), mengubah "16,100" menjadi 16100, mengubah "-" menjadi kosong tanpa diisi tebakan, dan merapikan nama komoditas. Keluarannya: data bersih lengkap (48.825 baris), sampel 300 baris, dan catatan temuan kualitas (113 tanggal tanpa data, 1 tanggal kosong sebagian, 22 lonjakan harga lebih dari 50%, tidak ada duplikat).
-- **Yang dicek:** (a) AI membandingkan 12 sel acak hasil bersih dengan data mentah dan semuanya cocok. (b) Saya menjalankan ulang skripnya di komputer sendiri dan hasilnya 48.825 baris, 21 komoditas, dan 300 baris sampel. (c) Saya membuka sampel dan mencocokkan beberapa baris dengan data mentah. (d) Saya membaca isi skrip sampai paham cara kerjanya.
+- **Yang dicek:** (a) AI membandingkan 12 sel acak hasil bersih dengan data mentah dan semuanya cocok. (b) Saya menjalankan ulang skripnya di Google Colab dan hasilnya 48.825 baris, 21 komoditas, dan 300 baris sampel. (c) Saya membuka sampel dan mencocokkan beberapa baris dengan data mentah. (d) Saya membaca isi skrip sampai paham cara kerjanya.
 
 ### Entri 3: Kamus data
 
