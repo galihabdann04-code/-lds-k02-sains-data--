@@ -1,51 +1,35 @@
-# LOG AI
+## Kaila Adnani
 
-Format setiap entri: tanggal dan nama anggota, perintah, hasil, dan apa yang dicek atau diperbaiki manusia.
+Alat AI: Claude Sonnet 5.5 (Anthropic), lewat claude.ai. Semua entri bertanggal 27 November 2026.
 
-## <tanggal>, <nama>
-Perintah: _(isi)_
-Hasil   : _(isi)_
-Dicek   : _(isi)_
+### Entri 1: Memahami tugas dan menyusun langkah kerja
 
-## 26 November 2026, Shaula Putri
-Perintah: Meminta AI (Claude, lewat Claude Code) mengerjakan proyek "Dashboard Monitoring dan Analisis
-          Status Gizi Ibu Hamil di Kota Semarang" secara bertahap (Tahap 1–5), hanya dari data resmi,
-          tanpa data dummy, dengan KEK dan Anemia dianalisis terpisah. Setiap tahap disetujui dulu sebelum lanjut.
-Hasil   : Folder `dashboard-gizi-bumil/` berisi:
-          - Tahap 1: sumber resmi — Satu Data Kota Semarang (7 elemen data), Lampiran Profil Kesehatan
-            Dinkes 2022 Tabel 32 (37 Puskesmas), Geoportal Kota Semarang (batas 16 kecamatan).
-          - Tahap 2: validasi & cleaning (`scripts/tahap2_cleaning.py`); 3 sel tidak valid dikosongkan,
-            9 sel ditandai "perlu perhatian" (`reports/tahap2_validasi.md`).
-          - Tahap 3: EDA deskriptif (`reports/tahap3_eda.md`, `reports/tahap3_eda.html`).
-          - Tahap 4: dashboard Streamlit (`app.py`, `src/`).
-          - Tahap 5: `requirements.txt`, `DEPLOY.md`; live di https://gizi-bumil-semarang.streamlit.app
-Dicek   : Oleh AI (otomatis): total Tabel 32 cocok dengan baris JUMLAH di PDF; 90 kombinasi filter
-          dashboard lolos tanpa error; pipeline diulang dari repo bersih menghasilkan file identik;
-          angka kartu 2024 di link publik dicek (K1 18.338, % KEK 6,67%, Anemia 4,11%).
-          Oleh Shaula: menyetujui setiap tahap, memilih repo & pengaturan deploy.
-          _(Shaula: tambahkan di sini bagian yang kamu cek/cocokkan sendiri dengan sumber aslinya.)_
-Catatan : Masalah di data sumber yang ditemukan & ditangani: atribut `WADMKC` di layer Geoportal tidak cocok
-          dengan geometri (dipakai `NAMOBJ`); CSV Satu Data rusak karena koma tanpa kutip ("23,5 Cm").
+- **Tanggal:** 2026-11-27
+- **Nama:** Kaila
+- **Perintah:** Mengunggah tangkapan layar tiga issue GitHub (pengambilan data, #5 pembersihan data, #8 berkas pribadi) dan meminta langkah pengerjaan dari awal.
+- **Hasil:** Pemetaan tugas, aturan bersama, dan urutan langkah pengerjaan.
+- **Yang dicek:** Isi pemetaan saya cocokkan dengan teks issue di GitHub. AI sempat mengira issue pengambilan data dipegang orang lain; saya koreksi karena data itu saya sendiri yang mengambil.
 
-## 27 November 2026, Shaula Putri
-Perintah: Meminta AI mengisi berkas template TK1 berdasarkan pekerjaan dashboard gizi ibu hamil, dengan progresnya.
-Hasil   : Diisi: `01-riset/sumber-data.md`, `01-riset/keputusan-dan-pertanyaan.md` (draf), `kamus-data.md`,
-          `data/sampel/` (2 CSV: 37 dan 62 baris), `KENAPA-KAMI.md` (draf), `HARNESS.md` dan `SKILL-TERPASANG.md`
-          (bagian Shaula), Tujuan di `AGENTS.md` (draf), Papan Status dan Progres di `README.md`.
-          Tidak diisi: `01-riset/riset-kreatif.md` (riset dasbor serupa belum dilakukan).
-Dicek   : Oleh AI: setiap angka diambil dari berkas hasil Tahap 2–3 di `dashboard-gizi-bumil/`.
-          Bagian bertanda ⚠ menunggu pemeriksaan/isian manusia (sumber dibuka sendiri, biaya harness, tangkapan layar).
-          _(Shaula: tambahkan apa yang sudah kamu cek.)_
+### Entri 2: Skrip pembersihan data (issue #5)
 
-## 27 November 2026, Shaula Putri — Issue 4 (pengambilan data harga pangan)
-Perintah: Meminta AI mencari sumber harga pangan harian Kota Semarang, lalu mengambil data mentahnya.
-Hasil   : Sumber terpilih PIHPS Nasional (Bank Indonesia). Script `scripts/ambil_data_pihps.py` mengunduh data
-          harian Kota Semarang, pasar tradisional, 1 Jan 2018 – 27 Nov 2026: 2.325 hari × 31 baris
-          (21 komoditas + 10 kategori), 95,1% sel terisi. Data mentah di `data/mentah/` (tidak di-commit).
-          `01-riset/sumber-data.md` ditulis ulang untuk topik harga pangan.
-          Kandidat ditolak: Satu Data Kota Semarang (tahunan), Satu Data Jateng (1 tanggal), BPS IHK (indeks),
-          Panel Harga Bapanas (ekspor tidak pasti), Trans Semarang (tahunan).
-Dicek   : Oleh AI: jumlah tanggal dan sel terisi per tahun dihitung dari berkas yang diunduh; pengambilan uji
-          sebelumnya (Jan 2018, Jan 2020, Nov 2026) memberi angka yang sama dengan berkas akhir.
-          Belum dicocokkan dengan tampilan halaman situs oleh manusia.
-          _(Shaula: buka situs PIHPS sendiri, cocokkan beberapa harga, lalu tulis di sini apa yang kamu cek.)_
+- **Tanggal:** 2026-11-27
+- **Nama:** Kaila
+- **Perintah:** Mengunggah zip data mentah PIHPS Kota Semarang 2018 sampai 2026 dan meminta pembersihan sesuai checklist issue #5.
+- **Hasil:** Skrip `bersihkan_pihps.py` yang menggabungkan file tahunan menjadi tabel format panjang (`tanggal`, `komoditas`, `kategori`, `harga`), mengubah "16,100" menjadi 16100, mengubah "-" menjadi kosong tanpa diisi tebakan, dan merapikan nama komoditas. Keluarannya: data bersih lengkap (48.825 baris), sampel 300 baris, dan catatan temuan kualitas (113 tanggal tanpa data, 1 tanggal kosong sebagian, 22 lonjakan harga lebih dari 50%, tidak ada duplikat).
+- **Yang dicek:** (a) AI membandingkan 12 sel acak hasil bersih dengan data mentah dan semuanya cocok. (b) Saya menjalankan ulang skripnya di komputer sendiri dan hasilnya 48.825 baris, 21 komoditas, dan 300 baris sampel. (c) Saya membuka sampel dan mencocokkan beberapa baris dengan data mentah. (d) Saya membaca isi skrip sampai paham cara kerjanya.
+
+### Entri 3: Kamus data
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Kaila
+- **Perintah:** Meminta `kamus-data.md` untuk berkas sampel.
+- **Hasil:** Kamus berisi kolom, tipe, arti, contoh, catatan pembersihan, dan daftar 21 komoditas dengan 10 kategori.
+- **Yang dicek:** AI semula menulis bahwa data kosong "sebagian besar hari libur" tanpa mencocokkan dengan kalender libur; kalimat itu diganti dengan pernyataan yang lebih hati-hati. Saya juga mencocokkan daftar komoditas dan kategori dengan sampel.
+
+### Entri 4: Sumber data (issue pengambilan data)
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Kaila
+- **Perintah:** Meminta draf `sumber-data.md` untuk topik harga pangan.
+- **Hasil:** Berkas berisi sumber, cara mengambil, lisensi dan izin, frekuensi, perkiraan baris, data pribadi, dan keterbatasan.
+- **Yang dicek:** Angka dalam berkas (48.825 baris, 113 hari kosong, 2.376 sel kosong, 22 lonjakan) saya cocokkan dengan hasil skrip. Tautan sumber dan keterangan cara pengambilan saya cocokkan dengan `metadata_pengambilan.json` dan dengan halaman situs PIHPS yang saya buka sendiri.
