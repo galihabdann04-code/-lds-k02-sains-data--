@@ -1,6 +1,6 @@
 # HARNESS
 
-> Bagian Shaula Putri sudah diisi. Galih dan Kaila menambahkan harness masing-masing jika berbeda.
+> Bagian Shaula Putri dan Kaila Adnani sudah diisi. Galih menambahkan bagian harness masing-masing di bawah.
 
 Harness       : Claude Code (aplikasi desktop Claude, tab Code), dipasang di laptop Shaula (macOS)
 Biaya         : ⚠ _(Shaula: isi paket langganan Claude yang dipakai; dicek tanggal ...)_
@@ -41,3 +41,27 @@ Uji      : AI membaca 9 berkas tahunan (CSV dan JSON, 21 komoditas, 31 baris per
 Dicek    : Kaila menjalankan ulang skrip (hasil 48.825 baris, 300 baris sampel) dan mencocokkan beberapa baris
            sampel dengan data mentah.
 Bukti    : 00-admin/bukti/pihps-halaman.png, data-mentah.png, hasil-skrip.png
+
+## Harness Galih Chandra Athallah
+
+Harness       : Google Gemini (gemini.google.com versi web), diakses melalui browser Google Chrome di MacBook Galih (macOS)
+Biaya         : Paket Google AI Plus (dicek 27 November 2026)
+Agent Skills  : Didukung melalui fitur ekstensi/alat bawaan (Google Search, Workspace, analisis dokumen/gambar) serta
+                instruksi terstruktur dalam percakapan; hasil pengujian skill dicatat di `SKILL-TERPASANG.md`.
+File instruksi: Menggunakan `AGENTS.md` yang dirujuk langsung melalui prompt percakapan karena antarmuka web tidak
+                membaca repositori lokal secara otomatis.
+Bukti GitHub  : Commit langsung dari akun GitHub `galihabdann04-code`: `01-riset/riset-kreatif.md` (`6641009`),
+                `KENAPA-KAMI.md`, `README.md` (`ec5eb65`), serta unggahan tangkapan layar bukti di `00-admin/bukti/` (`c702897`).
+
+## Sambungan ke aplikasi lain (riset dasbor pembanding)
+
+Aplikasi : (1) Portal Satu Data Kota Semarang (`data.semarangkota.go.id`), (2) Panel Harga Pangan Bapanas
+           (`panelharga.badanpangan.go.id`), (3) SP2KP Kementerian Perdagangan RI (`sp2kp.kemendag.go.id`), (4) GitHub
+Cara     : Membuka langsung ketiga portal data pemerintah melalui browser, memfilter wilayah Kota Semarang/Jawa Tengah
+           dan kata kunci komoditas pangan, mengambil tangkapan layar bertanggal, lalu mengunggah dan me-commit ke GitHub.
+Uji      : AI membantu memetakan fungsi deskriptif dan celah (prediktif & preskriptif) dari ketiga platform tersebut
+           berdasarkan hasil eksplorasi dan tangkapan layar yang diunggah ke percakapan.
+Dicek    : Galih membuka langsung ketiga tautan portal di browser, memverifikasi ketersediaan dataset tahunan serta
+           harga komoditas harian Kota Semarang, dan mencocokkan setiap klaim tabel sebelum di-commit.
+Bukti    : `00-admin/bukti/bukti-1-satu-data-semarang.png`, `00-admin/bukti/bukti-2-panel-harga-bapanas.png`,
+           `00-admin/bukti/bukti-3-sp2kp-kemendag.png`
