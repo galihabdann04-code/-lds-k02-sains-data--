@@ -102,3 +102,11 @@ karena sempat tertimpa saat `LOG-AI.md` diperbarui; isinya tidak diubah selain p
 - **Perintah:** Memeriksa progres Galih dan Kaila di GitHub, lalu melengkapi bagian Shaula yang kurang.
 - **Hasil:** Entri 1–3 dipulihkan; `01-riset/sumber-data.md` dilengkapi tabel inventaris dan catatan sesuai template (isi tulisan Kaila dipertahankan); sampel topik awal (`puskesmas_2022.csv`, `kota_tahunan.csv`) dihapus dari `data/sampel/`; bagian Shaula di `HARNESS.md` dan `SKILL-TERPASANG.md` diperbarui untuk topik harga pangan.
 - **Yang dicek:** Oleh AI: angka pada `sumber-data.md` dan `kamus-data.md` buatan Kaila dihitung ulang dari data mentah dan semuanya cocok (48.825 baris, 2.325 tanggal, 2.376 sel kosong = 4,9%, 113 tanggal kosong, 1 tanggal kosong sebagian pada 17 Maret 2022, 22 lonjakan >50%); 300 dari 300 baris `harga_pangan_semarang_sampel.csv` cocok dengan data mentah. Tujuh angka yang terlihat pada tangkapan layar halaman PIHPS (`00-admin/bukti/pihps-halaman.png`, 1–2 Januari 2018) cocok 7/7 dengan data unduhan.
+
+### Entri 5: Dashboard "Belanja Hemat Bergizi Semarang" (Issue #7)
+
+- **Tanggal:** 2026-11-27
+- **Nama:** Shaula
+- **Perintah:** Membuat dashboard Streamlit untuk topik harga pangan dengan memakai ulang tampilan dashboard topik awal, hanya memakai data ringkasan.
+- **Hasil:** Folder `dashboard/`: `siapkan_data.py` (ringkasan bulanan 2.247 baris, mingguan 26 minggu 546 baris, harian 20 hari kerja 420 baris), `app.py` (5 tab: Harga Terbaru, Tren & Pola, Prediksi, Rekomendasi Belanja, Data & Metodologi), `requirements.txt`, `README.md`. Tab Pola, Prediksi, dan Rekomendasi membaca `hasil_analisis/` dari Issue #6; selama belum ada, dashboard menampilkan pemberitahuan.
+- **Yang dicek:** Oleh AI: 20 kombinasi filter diuji otomatis tanpa error (dengan dan tanpa hasil analisis); tampilan tiap tab diperiksa di browser; perbaikan format Rupiah di tabel dan kalimat kesimpulan menjelang Idul Fitri (menyebut komoditas paling konsisten, bukan hanya kenaikan terbesar). ⚠ _(Shaula: coba dashboard-nya dan tulis apa yang kamu cek)_

@@ -1,0 +1,2248 @@
+bulan,kategori,komoditas,harga
+2018-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,22136
+2018-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,24239
+2018-01-01,Beras,Beras Kualitas Bawah I,11643
+2018-01-01,Beras,Beras Kualitas Bawah II,11643
+2018-01-01,Beras,Beras Kualitas Medium I,12161
+2018-01-01,Beras,Beras Kualitas Medium II,11818
+2018-01-01,Beras,Beras Kualitas Super I,13091
+2018-01-01,Beras,Beras Kualitas Super II,12757
+2018-01-01,Cabai Merah,Cabai Merah Besar,36625
+2018-01-01,Cabai Merah,Cabai Merah Keriting,39443
+2018-01-01,Cabai Rawit,Cabai Rawit Hijau,39023
+2018-01-01,Cabai Rawit,Cabai Rawit Merah,44852
+2018-01-01,Daging Ayam,Daging Ayam Ras Segar,34205
+2018-01-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2018-01-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-01-01,Gula Pasir,Gula Pasir Kualitas Premium,16041
+2018-01-01,Gula Pasir,Gula Pasir Lokal,12341
+2018-01-01,Minyak Goreng,Minyak Goreng Curah,11473
+2018-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14864
+2018-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14155
+2018-01-01,Telur Ayam,Telur Ayam Ras Segar,22852
+2018-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,24382
+2018-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,35921
+2018-02-01,Beras,Beras Kualitas Bawah I,11916
+2018-02-01,Beras,Beras Kualitas Bawah II,11916
+2018-02-01,Beras,Beras Kualitas Medium I,12329
+2018-02-01,Beras,Beras Kualitas Medium II,12055
+2018-02-01,Beras,Beras Kualitas Super I,13418
+2018-02-01,Beras,Beras Kualitas Super II,12976
+2018-02-01,Cabai Merah,Cabai Merah Besar,39974
+2018-02-01,Cabai Merah,Cabai Merah Keriting,39263
+2018-02-01,Cabai Rawit,Cabai Rawit Hijau,38921
+2018-02-01,Cabai Rawit,Cabai Rawit Merah,45461
+2018-02-01,Daging Ayam,Daging Ayam Ras Segar,31789
+2018-02-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2018-02-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-02-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-02-01,Gula Pasir,Gula Pasir Lokal,12400
+2018-02-01,Minyak Goreng,Minyak Goreng Curah,11500
+2018-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-02-01,Telur Ayam,Telur Ayam Ras Segar,21513
+2018-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,27464
+2018-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,45405
+2018-03-01,Beras,Beras Kualitas Bawah I,10819
+2018-03-01,Beras,Beras Kualitas Bawah II,10819
+2018-03-01,Beras,Beras Kualitas Medium I,11543
+2018-03-01,Beras,Beras Kualitas Medium II,11364
+2018-03-01,Beras,Beras Kualitas Super I,13445
+2018-03-01,Beras,Beras Kualitas Super II,12514
+2018-03-01,Cabai Merah,Cabai Merah Besar,42214
+2018-03-01,Cabai Merah,Cabai Merah Keriting,40143
+2018-03-01,Cabai Rawit,Cabai Rawit Hijau,37250
+2018-03-01,Cabai Rawit,Cabai Rawit Merah,49238
+2018-03-01,Daging Ayam,Daging Ayam Ras Segar,31714
+2018-03-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2018-03-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-03-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-03-01,Gula Pasir,Gula Pasir Lokal,12400
+2018-03-01,Minyak Goreng,Minyak Goreng Curah,11500
+2018-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-03-01,Telur Ayam,Telur Ayam Ras Segar,20871
+2018-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,33226
+2018-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,35893
+2018-04-01,Beras,Beras Kualitas Bawah I,10650
+2018-04-01,Beras,Beras Kualitas Bawah II,10650
+2018-04-01,Beras,Beras Kualitas Medium I,11400
+2018-04-01,Beras,Beras Kualitas Medium II,11250
+2018-04-01,Beras,Beras Kualitas Super I,13250
+2018-04-01,Beras,Beras Kualitas Super II,12400
+2018-04-01,Cabai Merah,Cabai Merah Besar,50929
+2018-04-01,Cabai Merah,Cabai Merah Keriting,32298
+2018-04-01,Cabai Rawit,Cabai Rawit Hijau,29155
+2018-04-01,Cabai Rawit,Cabai Rawit Merah,32536
+2018-04-01,Daging Ayam,Daging Ayam Ras Segar,32500
+2018-04-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2018-04-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-04-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-04-01,Gula Pasir,Gula Pasir Lokal,12486
+2018-04-01,Minyak Goreng,Minyak Goreng Curah,11500
+2018-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-04-01,Telur Ayam,Telur Ayam Ras Segar,22531
+2018-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,33375
+2018-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,26138
+2018-05-01,Beras,Beras Kualitas Bawah I,10538
+2018-05-01,Beras,Beras Kualitas Bawah II,10538
+2018-05-01,Beras,Beras Kualitas Medium I,11288
+2018-05-01,Beras,Beras Kualitas Medium II,11250
+2018-05-01,Beras,Beras Kualitas Super I,13250
+2018-05-01,Beras,Beras Kualitas Super II,12400
+2018-05-01,Cabai Merah,Cabai Merah Besar,41738
+2018-05-01,Cabai Merah,Cabai Merah Keriting,27950
+2018-05-01,Cabai Rawit,Cabai Rawit Hijau,26325
+2018-05-01,Cabai Rawit,Cabai Rawit Merah,26688
+2018-05-01,Daging Ayam,Daging Ayam Ras Segar,34775
+2018-05-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2018-05-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-05-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-05-01,Gula Pasir,Gula Pasir Lokal,12285
+2018-05-01,Minyak Goreng,Minyak Goreng Curah,11440
+2018-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-05-01,Telur Ayam,Telur Ayam Ras Segar,24678
+2018-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,32897
+2018-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,28221
+2018-06-01,Beras,Beras Kualitas Bawah I,10500
+2018-06-01,Beras,Beras Kualitas Bawah II,10500
+2018-06-01,Beras,Beras Kualitas Medium I,11250
+2018-06-01,Beras,Beras Kualitas Medium II,11250
+2018-06-01,Beras,Beras Kualitas Super I,13250
+2018-06-01,Beras,Beras Kualitas Super II,12382
+2018-06-01,Cabai Merah,Cabai Merah Besar,34353
+2018-06-01,Cabai Merah,Cabai Merah Keriting,25882
+2018-06-01,Cabai Rawit,Cabai Rawit Hijau,31191
+2018-06-01,Cabai Rawit,Cabai Rawit Merah,34882
+2018-06-01,Daging Ayam,Daging Ayam Ras Segar,38191
+2018-06-01,Daging Sapi,Daging Sapi Kualitas 1,125368
+2018-06-01,Daging Sapi,Daging Sapi Kualitas 2,116103
+2018-06-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-06-01,Gula Pasir,Gula Pasir Lokal,11718
+2018-06-01,Minyak Goreng,Minyak Goreng Curah,11735
+2018-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-06-01,Telur Ayam,Telur Ayam Ras Segar,23259
+2018-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,25659
+2018-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,24568
+2018-07-01,Beras,Beras Kualitas Bawah I,10500
+2018-07-01,Beras,Beras Kualitas Bawah II,10500
+2018-07-01,Beras,Beras Kualitas Medium I,11250
+2018-07-01,Beras,Beras Kualitas Medium II,11250
+2018-07-01,Beras,Beras Kualitas Super I,13250
+2018-07-01,Beras,Beras Kualitas Super II,12250
+2018-07-01,Cabai Merah,Cabai Merah Besar,30523
+2018-07-01,Cabai Merah,Cabai Merah Keriting,26375
+2018-07-01,Cabai Rawit,Cabai Rawit Hijau,36523
+2018-07-01,Cabai Rawit,Cabai Rawit Merah,45432
+2018-07-01,Daging Ayam,Daging Ayam Ras Segar,37545
+2018-07-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-07-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-07-01,Gula Pasir,Gula Pasir Kualitas Premium,16000
+2018-07-01,Gula Pasir,Gula Pasir Lokal,11750
+2018-07-01,Minyak Goreng,Minyak Goreng Curah,11239
+2018-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14900
+2018-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-07-01,Telur Ayam,Telur Ayam Ras Segar,25602
+2018-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,22690
+2018-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,24833
+2018-08-01,Beras,Beras Kualitas Bawah I,10521
+2018-08-01,Beras,Beras Kualitas Bawah II,10500
+2018-08-01,Beras,Beras Kualitas Medium I,11236
+2018-08-01,Beras,Beras Kualitas Medium II,11250
+2018-08-01,Beras,Beras Kualitas Super I,13250
+2018-08-01,Beras,Beras Kualitas Super II,12250
+2018-08-01,Cabai Merah,Cabai Merah Besar,30048
+2018-08-01,Cabai Merah,Cabai Merah Keriting,25119
+2018-08-01,Cabai Rawit,Cabai Rawit Hijau,34940
+2018-08-01,Cabai Rawit,Cabai Rawit Merah,30226
+2018-08-01,Daging Ayam,Daging Ayam Ras Segar,36214
+2018-08-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-08-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-08-01,Gula Pasir,Gula Pasir Kualitas Premium,15750
+2018-08-01,Gula Pasir,Gula Pasir Lokal,11655
+2018-08-01,Minyak Goreng,Minyak Goreng Curah,10883
+2018-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14879
+2018-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-08-01,Telur Ayam,Telur Ayam Ras Segar,21843
+2018-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,19789
+2018-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,26789
+2018-09-01,Beras,Beras Kualitas Bawah I,10650
+2018-09-01,Beras,Beras Kualitas Bawah II,10500
+2018-09-01,Beras,Beras Kualitas Medium I,11150
+2018-09-01,Beras,Beras Kualitas Medium II,11250
+2018-09-01,Beras,Beras Kualitas Super I,13250
+2018-09-01,Beras,Beras Kualitas Super II,12250
+2018-09-01,Cabai Merah,Cabai Merah Besar,24671
+2018-09-01,Cabai Merah,Cabai Merah Keriting,21816
+2018-09-01,Cabai Rawit,Cabai Rawit Hijau,33158
+2018-09-01,Cabai Rawit,Cabai Rawit Merah,21250
+2018-09-01,Daging Ayam,Daging Ayam Ras Segar,31526
+2018-09-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-09-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-09-01,Gula Pasir,Gula Pasir Kualitas Premium,14250
+2018-09-01,Gula Pasir,Gula Pasir Lokal,11650
+2018-09-01,Minyak Goreng,Minyak Goreng Curah,10750
+2018-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14750
+2018-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-09-01,Telur Ayam,Telur Ayam Ras Segar,21203
+2018-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,18913
+2018-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,24946
+2018-10-01,Beras,Beras Kualitas Bawah I,10650
+2018-10-01,Beras,Beras Kualitas Bawah II,10500
+2018-10-01,Beras,Beras Kualitas Medium I,11150
+2018-10-01,Beras,Beras Kualitas Medium II,11250
+2018-10-01,Beras,Beras Kualitas Super I,13250
+2018-10-01,Beras,Beras Kualitas Super II,12250
+2018-10-01,Cabai Merah,Cabai Merah Besar,30913
+2018-10-01,Cabai Merah,Cabai Merah Keriting,31261
+2018-10-01,Cabai Rawit,Cabai Rawit Hijau,33120
+2018-10-01,Cabai Rawit,Cabai Rawit Merah,28913
+2018-10-01,Daging Ayam,Daging Ayam Ras Segar,33087
+2018-10-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-10-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-10-01,Gula Pasir,Gula Pasir Kualitas Premium,14250
+2018-10-01,Gula Pasir,Gula Pasir Lokal,11650
+2018-10-01,Minyak Goreng,Minyak Goreng Curah,10750
+2018-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14750
+2018-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-10-01,Telur Ayam,Telur Ayam Ras Segar,20652
+2018-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,23952
+2018-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,24095
+2018-11-01,Beras,Beras Kualitas Bawah I,10650
+2018-11-01,Beras,Beras Kualitas Bawah II,10500
+2018-11-01,Beras,Beras Kualitas Medium I,11150
+2018-11-01,Beras,Beras Kualitas Medium II,11250
+2018-11-01,Beras,Beras Kualitas Super I,13250
+2018-11-01,Beras,Beras Kualitas Super II,12250
+2018-11-01,Cabai Merah,Cabai Merah Besar,30833
+2018-11-01,Cabai Merah,Cabai Merah Keriting,29750
+2018-11-01,Cabai Rawit,Cabai Rawit Hijau,28095
+2018-11-01,Cabai Rawit,Cabai Rawit Merah,29381
+2018-11-01,Daging Ayam,Daging Ayam Ras Segar,33357
+2018-11-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-11-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-11-01,Gula Pasir,Gula Pasir Kualitas Premium,14250
+2018-11-01,Gula Pasir,Gula Pasir Lokal,11650
+2018-11-01,Minyak Goreng,Minyak Goreng Curah,10745
+2018-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14750
+2018-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14150
+2018-11-01,Telur Ayam,Telur Ayam Ras Segar,21767
+2018-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,27158
+2018-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,23447
+2018-12-01,Beras,Beras Kualitas Bawah I,10797
+2018-12-01,Beras,Beras Kualitas Bawah II,10682
+2018-12-01,Beras,Beras Kualitas Medium I,11229
+2018-12-01,Beras,Beras Kualitas Medium II,11329
+2018-12-01,Beras,Beras Kualitas Super I,13297
+2018-12-01,Beras,Beras Kualitas Super II,12297
+2018-12-01,Cabai Merah,Cabai Merah Besar,28829
+2018-12-01,Cabai Merah,Cabai Merah Keriting,27395
+2018-12-01,Cabai Rawit,Cabai Rawit Hijau,27171
+2018-12-01,Cabai Rawit,Cabai Rawit Merah,33474
+2018-12-01,Daging Ayam,Daging Ayam Ras Segar,34947
+2018-12-01,Daging Sapi,Daging Sapi Kualitas 1,123750
+2018-12-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2018-12-01,Gula Pasir,Gula Pasir Kualitas Premium,14197
+2018-12-01,Gula Pasir,Gula Pasir Lokal,11439
+2018-12-01,Minyak Goreng,Minyak Goreng Curah,10561
+2018-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14487
+2018-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13887
+2018-12-01,Telur Ayam,Telur Ayam Ras Segar,25684
+2019-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,27261
+2019-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,27091
+2019-01-01,Beras,Beras Kualitas Bawah I,10900
+2019-01-01,Beras,Beras Kualitas Bawah II,10750
+2019-01-01,Beras,Beras Kualitas Medium I,11400
+2019-01-01,Beras,Beras Kualitas Medium II,11500
+2019-01-01,Beras,Beras Kualitas Super I,13400
+2019-01-01,Beras,Beras Kualitas Super II,12400
+2019-01-01,Cabai Merah,Cabai Merah Besar,26977
+2019-01-01,Cabai Merah,Cabai Merah Keriting,24739
+2019-01-01,Cabai Rawit,Cabai Rawit Hijau,26136
+2019-01-01,Cabai Rawit,Cabai Rawit Merah,34364
+2019-01-01,Daging Ayam,Daging Ayam Ras Segar,33750
+2019-01-01,Daging Sapi,Daging Sapi Kualitas 1,123466
+2019-01-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2019-01-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-01-01,Gula Pasir,Gula Pasir Lokal,11250
+2019-01-01,Minyak Goreng,Minyak Goreng Curah,10400
+2019-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14250
+2019-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13650
+2019-01-01,Telur Ayam,Telur Ayam Ras Segar,23968
+2019-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,22421
+2019-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,33211
+2019-02-01,Beras,Beras Kualitas Bawah I,10900
+2019-02-01,Beras,Beras Kualitas Bawah II,10750
+2019-02-01,Beras,Beras Kualitas Medium I,11400
+2019-02-01,Beras,Beras Kualitas Medium II,11500
+2019-02-01,Beras,Beras Kualitas Super I,13400
+2019-02-01,Beras,Beras Kualitas Super II,12400
+2019-02-01,Cabai Merah,Cabai Merah Besar,23105
+2019-02-01,Cabai Merah,Cabai Merah Keriting,17974
+2019-02-01,Cabai Rawit,Cabai Rawit Hijau,22553
+2019-02-01,Cabai Rawit,Cabai Rawit Merah,22303
+2019-02-01,Daging Ayam,Daging Ayam Ras Segar,32763
+2019-02-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-02-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2019-02-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-02-01,Gula Pasir,Gula Pasir Lokal,11250
+2019-02-01,Minyak Goreng,Minyak Goreng Curah,10400
+2019-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14250
+2019-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13650
+2019-02-01,Telur Ayam,Telur Ayam Ras Segar,22016
+2019-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,34525
+2019-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,41375
+2019-03-01,Beras,Beras Kualitas Bawah I,10900
+2019-03-01,Beras,Beras Kualitas Bawah II,10750
+2019-03-01,Beras,Beras Kualitas Medium I,11400
+2019-03-01,Beras,Beras Kualitas Medium II,11500
+2019-03-01,Beras,Beras Kualitas Super I,13400
+2019-03-01,Beras,Beras Kualitas Super II,12400
+2019-03-01,Cabai Merah,Cabai Merah Besar,21175
+2019-03-01,Cabai Merah,Cabai Merah Keriting,17750
+2019-03-01,Cabai Rawit,Cabai Rawit Hijau,23125
+2019-03-01,Cabai Rawit,Cabai Rawit Merah,23100
+2019-03-01,Daging Ayam,Daging Ayam Ras Segar,31488
+2019-03-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-03-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2019-03-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-03-01,Gula Pasir,Gula Pasir Lokal,11625
+2019-03-01,Minyak Goreng,Minyak Goreng Curah,10125
+2019-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14062
+2019-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13462
+2019-03-01,Telur Ayam,Telur Ayam Ras Segar,22248
+2019-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,38961
+2019-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,51539
+2019-04-01,Beras,Beras Kualitas Bawah I,10874
+2019-04-01,Beras,Beras Kualitas Bawah II,10724
+2019-04-01,Beras,Beras Kualitas Medium I,11374
+2019-04-01,Beras,Beras Kualitas Medium II,11474
+2019-04-01,Beras,Beras Kualitas Super I,13400
+2019-04-01,Beras,Beras Kualitas Super II,12400
+2019-04-01,Cabai Merah,Cabai Merah Besar,28013
+2019-04-01,Cabai Merah,Cabai Merah Keriting,18276
+2019-04-01,Cabai Rawit,Cabai Rawit Hijau,22868
+2019-04-01,Cabai Rawit,Cabai Rawit Merah,20868
+2019-04-01,Daging Ayam,Daging Ayam Ras Segar,31974
+2019-04-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-04-01,Daging Sapi,Daging Sapi Kualitas 2,112500
+2019-04-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-04-01,Gula Pasir,Gula Pasir Lokal,12168
+2019-04-01,Minyak Goreng,Minyak Goreng Curah,10103
+2019-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14103
+2019-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13468
+2019-04-01,Telur Ayam,Telur Ayam Ras Segar,24150
+2019-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,32167
+2019-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,44583
+2019-05-01,Beras,Beras Kualitas Bawah I,10650
+2019-05-01,Beras,Beras Kualitas Bawah II,10500
+2019-05-01,Beras,Beras Kualitas Medium I,11150
+2019-05-01,Beras,Beras Kualitas Medium II,11250
+2019-05-01,Beras,Beras Kualitas Super I,13400
+2019-05-01,Beras,Beras Kualitas Super II,12400
+2019-05-01,Cabai Merah,Cabai Merah Besar,31810
+2019-05-01,Cabai Merah,Cabai Merah Keriting,24464
+2019-05-01,Cabai Rawit,Cabai Rawit Hijau,24440
+2019-05-01,Cabai Rawit,Cabai Rawit Merah,22107
+2019-05-01,Daging Ayam,Daging Ayam Ras Segar,32631
+2019-05-01,Daging Sapi,Daging Sapi Kualitas 1,123155
+2019-05-01,Daging Sapi,Daging Sapi Kualitas 2,113155
+2019-05-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-05-01,Gula Pasir,Gula Pasir Lokal,12760
+2019-05-01,Minyak Goreng,Minyak Goreng Curah,10150
+2019-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2019-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13298
+2019-05-01,Telur Ayam,Telur Ayam Ras Segar,23548
+2019-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,33676
+2019-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,37103
+2019-06-01,Beras,Beras Kualitas Bawah I,10650
+2019-06-01,Beras,Beras Kualitas Bawah II,10500
+2019-06-01,Beras,Beras Kualitas Medium I,11150
+2019-06-01,Beras,Beras Kualitas Medium II,11250
+2019-06-01,Beras,Beras Kualitas Super I,13400
+2019-06-01,Beras,Beras Kualitas Super II,12400
+2019-06-01,Cabai Merah,Cabai Merah Besar,46056
+2019-06-01,Cabai Merah,Cabai Merah Keriting,41544
+2019-06-01,Cabai Rawit,Cabai Rawit Hijau,32426
+2019-06-01,Cabai Rawit,Cabai Rawit Merah,26397
+2019-06-01,Daging Ayam,Daging Ayam Ras Segar,32294
+2019-06-01,Daging Sapi,Daging Sapi Kualitas 1,129397
+2019-06-01,Daging Sapi,Daging Sapi Kualitas 2,120353
+2019-06-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-06-01,Gula Pasir,Gula Pasir Lokal,12900
+2019-06-01,Minyak Goreng,Minyak Goreng Curah,10150
+2019-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2019-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2019-06-01,Telur Ayam,Telur Ayam Ras Segar,23609
+2019-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,28935
+2019-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,33315
+2019-07-01,Beras,Beras Kualitas Bawah I,10650
+2019-07-01,Beras,Beras Kualitas Bawah II,10500
+2019-07-01,Beras,Beras Kualitas Medium I,11150
+2019-07-01,Beras,Beras Kualitas Medium II,11250
+2019-07-01,Beras,Beras Kualitas Super I,13400
+2019-07-01,Beras,Beras Kualitas Super II,12400
+2019-07-01,Cabai Merah,Cabai Merah Besar,56435
+2019-07-01,Cabai Merah,Cabai Merah Keriting,56620
+2019-07-01,Cabai Rawit,Cabai Rawit Hijau,63630
+2019-07-01,Cabai Rawit,Cabai Rawit Merah,60815
+2019-07-01,Daging Ayam,Daging Ayam Ras Segar,33457
+2019-07-01,Daging Sapi,Daging Sapi Kualitas 1,125598
+2019-07-01,Daging Sapi,Daging Sapi Kualitas 2,117065
+2019-07-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-07-01,Gula Pasir,Gula Pasir Lokal,12900
+2019-07-01,Minyak Goreng,Minyak Goreng Curah,10150
+2019-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2019-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2019-07-01,Telur Ayam,Telur Ayam Ras Segar,23333
+2019-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,22977
+2019-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,30375
+2019-08-01,Beras,Beras Kualitas Bawah I,10666
+2019-08-01,Beras,Beras Kualitas Bawah II,10511
+2019-08-01,Beras,Beras Kualitas Medium I,11166
+2019-08-01,Beras,Beras Kualitas Medium II,11261
+2019-08-01,Beras,Beras Kualitas Super I,13427
+2019-08-01,Beras,Beras Kualitas Super II,12393
+2019-08-01,Cabai Merah,Cabai Merah Besar,52386
+2019-08-01,Cabai Merah,Cabai Merah Keriting,63568
+2019-08-01,Cabai Rawit,Cabai Rawit Hijau,63977
+2019-08-01,Cabai Rawit,Cabai Rawit Merah,71989
+2019-08-01,Daging Ayam,Daging Ayam Ras Segar,33330
+2019-08-01,Daging Sapi,Daging Sapi Kualitas 1,122386
+2019-08-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2019-08-01,Gula Pasir,Gula Pasir Kualitas Premium,14109
+2019-08-01,Gula Pasir,Gula Pasir Lokal,12905
+2019-08-01,Minyak Goreng,Minyak Goreng Curah,10166
+2019-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14166
+2019-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13261
+2019-08-01,Telur Ayam,Telur Ayam Ras Segar,23545
+2019-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,17964
+2019-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,29036
+2019-09-01,Beras,Beras Kualitas Bawah I,10655
+2019-09-01,Beras,Beras Kualitas Bawah II,10507
+2019-09-01,Beras,Beras Kualitas Medium I,11143
+2019-09-01,Beras,Beras Kualitas Medium II,11250
+2019-09-01,Beras,Beras Kualitas Super I,13393
+2019-09-01,Beras,Beras Kualitas Super II,12388
+2019-09-01,Cabai Merah,Cabai Merah Besar,30512
+2019-09-01,Cabai Merah,Cabai Merah Keriting,43988
+2019-09-01,Cabai Rawit,Cabai Rawit Hijau,44881
+2019-09-01,Cabai Rawit,Cabai Rawit Merah,57202
+2019-09-01,Daging Ayam,Daging Ayam Ras Segar,30524
+2019-09-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-09-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2019-09-01,Gula Pasir,Gula Pasir Kualitas Premium,14138
+2019-09-01,Gula Pasir,Gula Pasir Lokal,12893
+2019-09-01,Minyak Goreng,Minyak Goreng Curah,10143
+2019-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14131
+2019-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13238
+2019-09-01,Telur Ayam,Telur Ayam Ras Segar,21533
+2019-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,20554
+2019-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,29000
+2019-10-01,Beras,Beras Kualitas Bawah I,10650
+2019-10-01,Beras,Beras Kualitas Bawah II,10500
+2019-10-01,Beras,Beras Kualitas Medium I,11150
+2019-10-01,Beras,Beras Kualitas Medium II,11250
+2019-10-01,Beras,Beras Kualitas Super I,13400
+2019-10-01,Beras,Beras Kualitas Super II,12400
+2019-10-01,Cabai Merah,Cabai Merah Besar,34620
+2019-10-01,Cabai Merah,Cabai Merah Keriting,34598
+2019-10-01,Cabai Rawit,Cabai Rawit Hijau,39587
+2019-10-01,Cabai Rawit,Cabai Rawit Merah,41402
+2019-10-01,Daging Ayam,Daging Ayam Ras Segar,32402
+2019-10-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-10-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2019-10-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-10-01,Gula Pasir,Gula Pasir Lokal,12900
+2019-10-01,Minyak Goreng,Minyak Goreng Curah,10150
+2019-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2019-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2019-10-01,Telur Ayam,Telur Ayam Ras Segar,20533
+2019-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,28750
+2019-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,29024
+2019-11-01,Beras,Beras Kualitas Bawah I,10667
+2019-11-01,Beras,Beras Kualitas Bawah II,10512
+2019-11-01,Beras,Beras Kualitas Medium I,11167
+2019-11-01,Beras,Beras Kualitas Medium II,11262
+2019-11-01,Beras,Beras Kualitas Super I,13429
+2019-11-01,Beras,Beras Kualitas Super II,12393
+2019-11-01,Cabai Merah,Cabai Merah Besar,28286
+2019-11-01,Cabai Merah,Cabai Merah Keriting,26667
+2019-11-01,Cabai Rawit,Cabai Rawit Hijau,30690
+2019-11-01,Cabai Rawit,Cabai Rawit Merah,34881
+2019-11-01,Daging Ayam,Daging Ayam Ras Segar,32583
+2019-11-01,Daging Sapi,Daging Sapi Kualitas 1,122381
+2019-11-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2019-11-01,Gula Pasir,Gula Pasir Kualitas Premium,14107
+2019-11-01,Gula Pasir,Gula Pasir Lokal,12969
+2019-11-01,Minyak Goreng,Minyak Goreng Curah,10829
+2019-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14167
+2019-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13262
+2019-11-01,Telur Ayam,Telur Ayam Ras Segar,22712
+2019-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,34925
+2019-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,29300
+2019-12-01,Beras,Beras Kualitas Bawah I,10660
+2019-12-01,Beras,Beras Kualitas Bawah II,10515
+2019-12-01,Beras,Beras Kualitas Medium I,11150
+2019-12-01,Beras,Beras Kualitas Medium II,11250
+2019-12-01,Beras,Beras Kualitas Super I,13400
+2019-12-01,Beras,Beras Kualitas Super II,12400
+2019-12-01,Cabai Merah,Cabai Merah Besar,30688
+2019-12-01,Cabai Merah,Cabai Merah Keriting,32588
+2019-12-01,Cabai Rawit,Cabai Rawit Hijau,28888
+2019-12-01,Cabai Rawit,Cabai Rawit Merah,37400
+2019-12-01,Daging Ayam,Daging Ayam Ras Segar,32388
+2019-12-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2019-12-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2019-12-01,Gula Pasir,Gula Pasir Kualitas Premium,14150
+2019-12-01,Gula Pasir,Gula Pasir Lokal,13160
+2019-12-01,Minyak Goreng,Minyak Goreng Curah,11715
+2019-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2019-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2019-12-01,Telur Ayam,Telur Ayam Ras Segar,25418
+2020-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,31159
+2020-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,35705
+2020-01-01,Beras,Beras Kualitas Bawah I,10750
+2020-01-01,Beras,Beras Kualitas Bawah II,10650
+2020-01-01,Beras,Beras Kualitas Medium I,11332
+2020-01-01,Beras,Beras Kualitas Medium II,11432
+2020-01-01,Beras,Beras Kualitas Super I,13400
+2020-01-01,Beras,Beras Kualitas Super II,12400
+2020-01-01,Cabai Merah,Cabai Merah Besar,59080
+2020-01-01,Cabai Merah,Cabai Merah Keriting,54114
+2020-01-01,Cabai Rawit,Cabai Rawit Hijau,36193
+2020-01-01,Cabai Rawit,Cabai Rawit Merah,69034
+2020-01-01,Daging Ayam,Daging Ayam Ras Segar,30773
+2020-01-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2020-01-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2020-01-01,Gula Pasir,Gula Pasir Kualitas Premium,14514
+2020-01-01,Gula Pasir,Gula Pasir Lokal,13723
+2020-01-01,Minyak Goreng,Minyak Goreng Curah,12764
+2020-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2020-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2020-01-01,Telur Ayam,Telur Ayam Ras Segar,22586
+2020-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,30338
+2020-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,51125
+2020-02-01,Beras,Beras Kualitas Bawah I,10750
+2020-02-01,Beras,Beras Kualitas Bawah II,10650
+2020-02-01,Beras,Beras Kualitas Medium I,11400
+2020-02-01,Beras,Beras Kualitas Medium II,11500
+2020-02-01,Beras,Beras Kualitas Super I,13400
+2020-02-01,Beras,Beras Kualitas Super II,12400
+2020-02-01,Cabai Merah,Cabai Merah Besar,66312
+2020-02-01,Cabai Merah,Cabai Merah Keriting,50350
+2020-02-01,Cabai Rawit,Cabai Rawit Hijau,34988
+2020-02-01,Cabai Rawit,Cabai Rawit Merah,54125
+2020-02-01,Daging Ayam,Daging Ayam Ras Segar,32862
+2020-02-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2020-02-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2020-02-01,Gula Pasir,Gula Pasir Kualitas Premium,14650
+2020-02-01,Gula Pasir,Gula Pasir Lokal,13975
+2020-02-01,Minyak Goreng,Minyak Goreng Curah,12825
+2020-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14150
+2020-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13250
+2020-02-01,Telur Ayam,Telur Ayam Ras Segar,24928
+2020-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,34512
+2020-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,43202
+2020-03-01,Beras,Beras Kualitas Bawah I,10736
+2020-03-01,Beras,Beras Kualitas Bawah II,10650
+2020-03-01,Beras,Beras Kualitas Medium I,11514
+2020-03-01,Beras,Beras Kualitas Medium II,11595
+2020-03-01,Beras,Beras Kualitas Super I,13400
+2020-03-01,Beras,Beras Kualitas Super II,12514
+2020-03-01,Cabai Merah,Cabai Merah Besar,40536
+2020-03-01,Cabai Merah,Cabai Merah Keriting,32000
+2020-03-01,Cabai Rawit,Cabai Rawit Hijau,34940
+2020-03-01,Cabai Rawit,Cabai Rawit Merah,40298
+2020-03-01,Daging Ayam,Daging Ayam Ras Segar,32024
+2020-03-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2020-03-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2020-03-01,Gula Pasir,Gula Pasir Kualitas Premium,14650
+2020-03-01,Gula Pasir,Gula Pasir Lokal,16776
+2020-03-01,Minyak Goreng,Minyak Goreng Curah,11440
+2020-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14045
+2020-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13255
+2020-03-01,Telur Ayam,Telur Ayam Ras Segar,25393
+2020-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,42614
+2020-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,34511
+2020-04-01,Beras,Beras Kualitas Bawah I,10650
+2020-04-01,Beras,Beras Kualitas Bawah II,10650
+2020-04-01,Beras,Beras Kualitas Medium I,12000
+2020-04-01,Beras,Beras Kualitas Medium II,12000
+2020-04-01,Beras,Beras Kualitas Super I,13400
+2020-04-01,Beras,Beras Kualitas Super II,13000
+2020-04-01,Cabai Merah,Cabai Merah Besar,19807
+2020-04-01,Cabai Merah,Cabai Merah Keriting,18955
+2020-04-01,Cabai Rawit,Cabai Rawit Hijau,27739
+2020-04-01,Cabai Rawit,Cabai Rawit Merah,30648
+2020-04-01,Daging Ayam,Daging Ayam Ras Segar,28648
+2020-04-01,Daging Sapi,Daging Sapi Kualitas 1,122500
+2020-04-01,Daging Sapi,Daging Sapi Kualitas 2,115000
+2020-04-01,Gula Pasir,Gula Pasir Kualitas Premium,16614
+2020-04-01,Gula Pasir,Gula Pasir Lokal,19132
+2020-04-01,Minyak Goreng,Minyak Goreng Curah,11686
+2020-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14000
+2020-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13432
+2020-04-01,Telur Ayam,Telur Ayam Ras Segar,22750
+2020-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,49809
+2020-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,29059
+2020-05-01,Beras,Beras Kualitas Bawah I,10650
+2020-05-01,Beras,Beras Kualitas Bawah II,10650
+2020-05-01,Beras,Beras Kualitas Medium I,11953
+2020-05-01,Beras,Beras Kualitas Medium II,11953
+2020-05-01,Beras,Beras Kualitas Super I,13400
+2020-05-01,Beras,Beras Kualitas Super II,13000
+2020-05-01,Cabai Merah,Cabai Merah Besar,19662
+2020-05-01,Cabai Merah,Cabai Merah Keriting,17294
+2020-05-01,Cabai Rawit,Cabai Rawit Hijau,23103
+2020-05-01,Cabai Rawit,Cabai Rawit Merah,21853
+2020-05-01,Daging Ayam,Daging Ayam Ras Segar,33706
+2020-05-01,Daging Sapi,Daging Sapi Kualitas 1,124265
+2020-05-01,Daging Sapi,Daging Sapi Kualitas 2,116765
+2020-05-01,Gula Pasir,Gula Pasir Kualitas Premium,17856
+2020-05-01,Gula Pasir,Gula Pasir Lokal,16985
+2020-05-01,Minyak Goreng,Minyak Goreng Curah,11462
+2020-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14324
+2020-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13429
+2020-05-01,Telur Ayam,Telur Ayam Ras Segar,21347
+2020-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,46726
+2020-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,25095
+2020-06-01,Beras,Beras Kualitas Bawah I,10650
+2020-06-01,Beras,Beras Kualitas Bawah II,10500
+2020-06-01,Beras,Beras Kualitas Medium I,11750
+2020-06-01,Beras,Beras Kualitas Medium II,11400
+2020-06-01,Beras,Beras Kualitas Super I,13150
+2020-06-01,Beras,Beras Kualitas Super II,12536
+2020-06-01,Cabai Merah,Cabai Merah Besar,16560
+2020-06-01,Cabai Merah,Cabai Merah Keriting,14583
+2020-06-01,Cabai Rawit,Cabai Rawit Hijau,21262
+2020-06-01,Cabai Rawit,Cabai Rawit Merah,19298
+2020-06-01,Daging Ayam,Daging Ayam Ras Segar,35631
+2020-06-01,Daging Sapi,Daging Sapi Kualitas 1,125000
+2020-06-01,Daging Sapi,Daging Sapi Kualitas 2,117500
+2020-06-01,Gula Pasir,Gula Pasir Kualitas Premium,15352
+2020-06-01,Gula Pasir,Gula Pasir Lokal,14183
+2020-06-01,Minyak Goreng,Minyak Goreng Curah,10800
+2020-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14329
+2020-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13293
+2020-06-01,Telur Ayam,Telur Ayam Ras Segar,24419
+2020-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,32534
+2020-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,22602
+2020-07-01,Beras,Beras Kualitas Bawah I,10650
+2020-07-01,Beras,Beras Kualitas Bawah II,10500
+2020-07-01,Beras,Beras Kualitas Medium I,11750
+2020-07-01,Beras,Beras Kualitas Medium II,11400
+2020-07-01,Beras,Beras Kualitas Super I,13150
+2020-07-01,Beras,Beras Kualitas Super II,12500
+2020-07-01,Cabai Merah,Cabai Merah Besar,18057
+2020-07-01,Cabai Merah,Cabai Merah Keriting,17273
+2020-07-01,Cabai Rawit,Cabai Rawit Hijau,21636
+2020-07-01,Cabai Rawit,Cabai Rawit Merah,20750
+2020-07-01,Daging Ayam,Daging Ayam Ras Segar,34489
+2020-07-01,Daging Sapi,Daging Sapi Kualitas 1,125000
+2020-07-01,Daging Sapi,Daging Sapi Kualitas 2,117500
+2020-07-01,Gula Pasir,Gula Pasir Kualitas Premium,14377
+2020-07-01,Gula Pasir,Gula Pasir Lokal,12861
+2020-07-01,Minyak Goreng,Minyak Goreng Curah,11236
+2020-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,13914
+2020-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13184
+2020-07-01,Telur Ayam,Telur Ayam Ras Segar,25520
+2020-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,25368
+2020-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,23895
+2020-08-01,Beras,Beras Kualitas Bawah I,10650
+2020-08-01,Beras,Beras Kualitas Bawah II,10500
+2020-08-01,Beras,Beras Kualitas Medium I,11884
+2020-08-01,Beras,Beras Kualitas Medium II,11400
+2020-08-01,Beras,Beras Kualitas Super I,13334
+2020-08-01,Beras,Beras Kualitas Super II,12500
+2020-08-01,Cabai Merah,Cabai Merah Besar,15974
+2020-08-01,Cabai Merah,Cabai Merah Keriting,15263
+2020-08-01,Cabai Rawit,Cabai Rawit Hijau,21447
+2020-08-01,Cabai Rawit,Cabai Rawit Merah,16132
+2020-08-01,Daging Ayam,Daging Ayam Ras Segar,29066
+2020-08-01,Daging Sapi,Daging Sapi Kualitas 1,125000
+2020-08-01,Daging Sapi,Daging Sapi Kualitas 2,117500
+2020-08-01,Gula Pasir,Gula Pasir Kualitas Premium,14392
+2020-08-01,Gula Pasir,Gula Pasir Lokal,13129
+2020-08-01,Minyak Goreng,Minyak Goreng Curah,12305
+2020-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,13979
+2020-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13239
+2020-08-01,Telur Ayam,Telur Ayam Ras Segar,23855
+2020-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,26216
+2020-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,25636
+2020-09-01,Beras,Beras Kualitas Bawah I,10650
+2020-09-01,Beras,Beras Kualitas Bawah II,10500
+2020-09-01,Beras,Beras Kualitas Medium I,11900
+2020-09-01,Beras,Beras Kualitas Medium II,11400
+2020-09-01,Beras,Beras Kualitas Super I,13400
+2020-09-01,Beras,Beras Kualitas Super II,12500
+2020-09-01,Cabai Merah,Cabai Merah Besar,21761
+2020-09-01,Cabai Merah,Cabai Merah Keriting,18557
+2020-09-01,Cabai Rawit,Cabai Rawit Hijau,20273
+2020-09-01,Cabai Rawit,Cabai Rawit Merah,16784
+2020-09-01,Daging Ayam,Daging Ayam Ras Segar,29045
+2020-09-01,Daging Sapi,Daging Sapi Kualitas 1,125000
+2020-09-01,Daging Sapi,Daging Sapi Kualitas 2,117500
+2020-09-01,Gula Pasir,Gula Pasir Kualitas Premium,14250
+2020-09-01,Gula Pasir,Gula Pasir Lokal,13114
+2020-09-01,Minyak Goreng,Minyak Goreng Curah,13014
+2020-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14105
+2020-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,13489
+2020-09-01,Telur Ayam,Telur Ayam Ras Segar,21155
+2020-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,31171
+2020-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,26171
+2020-10-01,Beras,Beras Kualitas Bawah I,10650
+2020-10-01,Beras,Beras Kualitas Bawah II,10500
+2020-10-01,Beras,Beras Kualitas Medium I,11900
+2020-10-01,Beras,Beras Kualitas Medium II,11400
+2020-10-01,Beras,Beras Kualitas Super I,13400
+2020-10-01,Beras,Beras Kualitas Super II,12500
+2020-10-01,Cabai Merah,Cabai Merah Besar,35868
+2020-10-01,Cabai Merah,Cabai Merah Keriting,31579
+2020-10-01,Cabai Rawit,Cabai Rawit Hijau,21026
+2020-10-01,Cabai Rawit,Cabai Rawit Merah,19697
+2020-10-01,Daging Ayam,Daging Ayam Ras Segar,29342
+2020-10-01,Daging Sapi,Daging Sapi Kualitas 1,122895
+2020-10-01,Daging Sapi,Daging Sapi Kualitas 2,116447
+2020-10-01,Gula Pasir,Gula Pasir Kualitas Premium,14250
+2020-10-01,Gula Pasir,Gula Pasir Lokal,12908
+2020-10-01,Minyak Goreng,Minyak Goreng Curah,13158
+2020-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14558
+2020-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14158
+2020-10-01,Telur Ayam,Telur Ayam Ras Segar,21516
+2020-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,34143
+2020-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,30595
+2020-11-01,Beras,Beras Kualitas Bawah I,10650
+2020-11-01,Beras,Beras Kualitas Bawah II,10500
+2020-11-01,Beras,Beras Kualitas Medium I,11900
+2020-11-01,Beras,Beras Kualitas Medium II,11400
+2020-11-01,Beras,Beras Kualitas Super I,13400
+2020-11-01,Beras,Beras Kualitas Super II,12500
+2020-11-01,Cabai Merah,Cabai Merah Besar,33917
+2020-11-01,Cabai Merah,Cabai Merah Keriting,34714
+2020-11-01,Cabai Rawit,Cabai Rawit Hijau,23321
+2020-11-01,Cabai Rawit,Cabai Rawit Merah,32083
+2020-11-01,Daging Ayam,Daging Ayam Ras Segar,32917
+2020-11-01,Daging Sapi,Daging Sapi Kualitas 1,125238
+2020-11-01,Daging Sapi,Daging Sapi Kualitas 2,120238
+2020-11-01,Gula Pasir,Gula Pasir Kualitas Premium,14110
+2020-11-01,Gula Pasir,Gula Pasir Lokal,13336
+2020-11-01,Minyak Goreng,Minyak Goreng Curah,13738
+2020-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14564
+2020-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14255
+2020-11-01,Telur Ayam,Telur Ayam Ras Segar,24279
+2020-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,27368
+2020-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,30250
+2020-12-01,Beras,Beras Kualitas Bawah I,10650
+2020-12-01,Beras,Beras Kualitas Bawah II,10500
+2020-12-01,Beras,Beras Kualitas Medium I,11900
+2020-12-01,Beras,Beras Kualitas Medium II,11400
+2020-12-01,Beras,Beras Kualitas Super I,13400
+2020-12-01,Beras,Beras Kualitas Super II,12500
+2020-12-01,Cabai Merah,Cabai Merah Besar,53421
+2020-12-01,Cabai Merah,Cabai Merah Keriting,52368
+2020-12-01,Cabai Rawit,Cabai Rawit Hijau,35197
+2020-12-01,Cabai Rawit,Cabai Rawit Merah,49408
+2020-12-01,Daging Ayam,Daging Ayam Ras Segar,34132
+2020-12-01,Daging Sapi,Daging Sapi Kualitas 1,130000
+2020-12-01,Daging Sapi,Daging Sapi Kualitas 2,125000
+2020-12-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2020-12-01,Gula Pasir,Gula Pasir Lokal,13250
+2020-12-01,Minyak Goreng,Minyak Goreng Curah,13868
+2020-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14650
+2020-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14400
+2020-12-01,Telur Ayam,Telur Ayam Ras Segar,26408
+2021-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,26462
+2021-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,29200
+2021-01-01,Beras,Beras Kualitas Bawah I,10650
+2021-01-01,Beras,Beras Kualitas Bawah II,10500
+2021-01-01,Beras,Beras Kualitas Medium I,11900
+2021-01-01,Beras,Beras Kualitas Medium II,11400
+2021-01-01,Beras,Beras Kualitas Super I,13400
+2021-01-01,Beras,Beras Kualitas Super II,12500
+2021-01-01,Cabai Merah,Cabai Merah Besar,41688
+2021-01-01,Cabai Merah,Cabai Merah Keriting,47062
+2021-01-01,Cabai Rawit,Cabai Rawit Hijau,61250
+2021-01-01,Cabai Rawit,Cabai Rawit Merah,71312
+2021-01-01,Daging Ayam,Daging Ayam Ras Segar,34250
+2021-01-01,Daging Sapi,Daging Sapi Kualitas 1,130000
+2021-01-01,Daging Sapi,Daging Sapi Kualitas 2,125000
+2021-01-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2021-01-01,Gula Pasir,Gula Pasir Lokal,13250
+2021-01-01,Minyak Goreng,Minyak Goreng Curah,13998
+2021-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14845
+2021-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14460
+2021-01-01,Telur Ayam,Telur Ayam Ras Segar,22102
+2021-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,30618
+2021-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,28921
+2021-02-01,Beras,Beras Kualitas Bawah I,10650
+2021-02-01,Beras,Beras Kualitas Bawah II,10500
+2021-02-01,Beras,Beras Kualitas Medium I,11900
+2021-02-01,Beras,Beras Kualitas Medium II,11400
+2021-02-01,Beras,Beras Kualitas Super I,13400
+2021-02-01,Beras,Beras Kualitas Super II,12500
+2021-02-01,Cabai Merah,Cabai Merah Besar,46513
+2021-02-01,Cabai Merah,Cabai Merah Keriting,55461
+2021-02-01,Cabai Rawit,Cabai Rawit Hijau,72434
+2021-02-01,Cabai Rawit,Cabai Rawit Merah,79211
+2021-02-01,Daging Ayam,Daging Ayam Ras Segar,32632
+2021-02-01,Daging Sapi,Daging Sapi Kualitas 1,130000
+2021-02-01,Daging Sapi,Daging Sapi Kualitas 2,125000
+2021-02-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2021-02-01,Gula Pasir,Gula Pasir Lokal,13263
+2021-02-01,Minyak Goreng,Minyak Goreng Curah,13547
+2021-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14329
+2021-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14216
+2021-02-01,Telur Ayam,Telur Ayam Ras Segar,23237
+2021-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,34011
+2021-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,29841
+2021-03-01,Beras,Beras Kualitas Bawah I,10491
+2021-03-01,Beras,Beras Kualitas Bawah II,10436
+2021-03-01,Beras,Beras Kualitas Medium I,11911
+2021-03-01,Beras,Beras Kualitas Medium II,11400
+2021-03-01,Beras,Beras Kualitas Super I,13405
+2021-03-01,Beras,Beras Kualitas Super II,12507
+2021-03-01,Cabai Merah,Cabai Merah Besar,41080
+2021-03-01,Cabai Merah,Cabai Merah Keriting,48386
+2021-03-01,Cabai Rawit,Cabai Rawit Hijau,58693
+2021-03-01,Cabai Rawit,Cabai Rawit Merah,95000
+2021-03-01,Daging Ayam,Daging Ayam Ras Segar,32807
+2021-03-01,Daging Sapi,Daging Sapi Kualitas 1,130000
+2021-03-01,Daging Sapi,Daging Sapi Kualitas 2,125000
+2021-03-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2021-03-01,Gula Pasir,Gula Pasir Lokal,13057
+2021-03-01,Minyak Goreng,Minyak Goreng Curah,14039
+2021-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14420
+2021-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14275
+2021-03-01,Telur Ayam,Telur Ayam Ras Segar,22068
+2021-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,30702
+2021-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,29060
+2021-04-01,Beras,Beras Kualitas Bawah I,10400
+2021-04-01,Beras,Beras Kualitas Bawah II,10400
+2021-04-01,Beras,Beras Kualitas Medium I,12150
+2021-04-01,Beras,Beras Kualitas Medium II,11400
+2021-04-01,Beras,Beras Kualitas Super I,13500
+2021-04-01,Beras,Beras Kualitas Super II,12650
+2021-04-01,Cabai Merah,Cabai Merah Besar,44881
+2021-04-01,Cabai Merah,Cabai Merah Keriting,37500
+2021-04-01,Cabai Rawit,Cabai Rawit Hijau,46071
+2021-04-01,Cabai Rawit,Cabai Rawit Merah,55476
+2021-04-01,Daging Ayam,Daging Ayam Ras Segar,37321
+2021-04-01,Daging Sapi,Daging Sapi Kualitas 1,130500
+2021-04-01,Daging Sapi,Daging Sapi Kualitas 2,125500
+2021-04-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2021-04-01,Gula Pasir,Gula Pasir Lokal,13000
+2021-04-01,Minyak Goreng,Minyak Goreng Curah,14379
+2021-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14893
+2021-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14686
+2021-04-01,Telur Ayam,Telur Ayam Ras Segar,23960
+2021-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,31765
+2021-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,29647
+2021-05-01,Beras,Beras Kualitas Bawah I,10400
+2021-05-01,Beras,Beras Kualitas Bawah II,10400
+2021-05-01,Beras,Beras Kualitas Medium I,12150
+2021-05-01,Beras,Beras Kualitas Medium II,11400
+2021-05-01,Beras,Beras Kualitas Super I,13500
+2021-05-01,Beras,Beras Kualitas Super II,12650
+2021-05-01,Cabai Merah,Cabai Merah Besar,38088
+2021-05-01,Cabai Merah,Cabai Merah Keriting,28765
+2021-05-01,Cabai Rawit,Cabai Rawit Hijau,32118
+2021-05-01,Cabai Rawit,Cabai Rawit Merah,47647
+2021-05-01,Daging Ayam,Daging Ayam Ras Segar,37382
+2021-05-01,Daging Sapi,Daging Sapi Kualitas 1,140221
+2021-05-01,Daging Sapi,Daging Sapi Kualitas 2,135324
+2021-05-01,Gula Pasir,Gula Pasir Kualitas Premium,14000
+2021-05-01,Gula Pasir,Gula Pasir Lokal,13000
+2021-05-01,Minyak Goreng,Minyak Goreng Curah,14779
+2021-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,15121
+2021-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14882
+2021-05-01,Telur Ayam,Telur Ayam Ras Segar,23126
+2021-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,30262
+2021-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,28988
+2021-06-01,Beras,Beras Kualitas Bawah I,10400
+2021-06-01,Beras,Beras Kualitas Bawah II,10400
+2021-06-01,Beras,Beras Kualitas Medium I,12150
+2021-06-01,Beras,Beras Kualitas Medium II,11400
+2021-06-01,Beras,Beras Kualitas Super I,13500
+2021-06-01,Beras,Beras Kualitas Super II,12650
+2021-06-01,Cabai Merah,Cabai Merah Besar,22738
+2021-06-01,Cabai Merah,Cabai Merah Keriting,22500
+2021-06-01,Cabai Rawit,Cabai Rawit Hijau,31571
+2021-06-01,Cabai Rawit,Cabai Rawit Merah,38393
+2021-06-01,Daging Ayam,Daging Ayam Ras Segar,31798
+2021-06-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-06-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-06-01,Gula Pasir,Gula Pasir Kualitas Premium,13786
+2021-06-01,Gula Pasir,Gula Pasir Lokal,12926
+2021-06-01,Minyak Goreng,Minyak Goreng Curah,14095
+2021-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,14888
+2021-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,14819
+2021-06-01,Telur Ayam,Telur Ayam Ras Segar,23317
+2021-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,32738
+2021-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,29250
+2021-07-01,Beras,Beras Kualitas Bawah I,10321
+2021-07-01,Beras,Beras Kualitas Bawah II,10321
+2021-07-01,Beras,Beras Kualitas Medium I,12071
+2021-07-01,Beras,Beras Kualitas Medium II,11321
+2021-07-01,Beras,Beras Kualitas Super I,13448
+2021-07-01,Beras,Beras Kualitas Super II,12571
+2021-07-01,Cabai Merah,Cabai Merah Besar,22738
+2021-07-01,Cabai Merah,Cabai Merah Keriting,22995
+2021-07-01,Cabai Rawit,Cabai Rawit Hijau,40667
+2021-07-01,Cabai Rawit,Cabai Rawit Merah,50155
+2021-07-01,Daging Ayam,Daging Ayam Ras Segar,29595
+2021-07-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-07-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-07-01,Gula Pasir,Gula Pasir Kualitas Premium,13500
+2021-07-01,Gula Pasir,Gula Pasir Lokal,12900
+2021-07-01,Minyak Goreng,Minyak Goreng Curah,14879
+2021-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,15179
+2021-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,15179
+2021-07-01,Telur Ayam,Telur Ayam Ras Segar,23164
+2021-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,30038
+2021-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,29612
+2021-08-01,Beras,Beras Kualitas Bawah I,10250
+2021-08-01,Beras,Beras Kualitas Bawah II,10000
+2021-08-01,Beras,Beras Kualitas Medium I,12000
+2021-08-01,Beras,Beras Kualitas Medium II,11250
+2021-08-01,Beras,Beras Kualitas Super I,13150
+2021-08-01,Beras,Beras Kualitas Super II,12500
+2021-08-01,Cabai Merah,Cabai Merah Besar,19250
+2021-08-01,Cabai Merah,Cabai Merah Keriting,18138
+2021-08-01,Cabai Rawit,Cabai Rawit Hijau,25812
+2021-08-01,Cabai Rawit,Cabai Rawit Merah,22750
+2021-08-01,Daging Ayam,Daging Ayam Ras Segar,31475
+2021-08-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-08-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-08-01,Gula Pasir,Gula Pasir Kualitas Premium,13500
+2021-08-01,Gula Pasir,Gula Pasir Lokal,12900
+2021-08-01,Minyak Goreng,Minyak Goreng Curah,16130
+2021-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,15550
+2021-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,15500
+2021-08-01,Telur Ayam,Telur Ayam Ras Segar,22498
+2021-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,26182
+2021-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,27500
+2021-09-01,Beras,Beras Kualitas Bawah I,10966
+2021-09-01,Beras,Beras Kualitas Bawah II,10455
+2021-09-01,Beras,Beras Kualitas Medium I,12000
+2021-09-01,Beras,Beras Kualitas Medium II,11489
+2021-09-01,Beras,Beras Kualitas Super I,13389
+2021-09-01,Beras,Beras Kualitas Super II,12739
+2021-09-01,Cabai Merah,Cabai Merah Besar,18739
+2021-09-01,Cabai Merah,Cabai Merah Keriting,18034
+2021-09-01,Cabai Rawit,Cabai Rawit Hijau,24511
+2021-09-01,Cabai Rawit,Cabai Rawit Merah,20784
+2021-09-01,Daging Ayam,Daging Ayam Ras Segar,31693
+2021-09-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-09-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-09-01,Gula Pasir,Gula Pasir Kualitas Premium,13405
+2021-09-01,Gula Pasir,Gula Pasir Lokal,12661
+2021-09-01,Minyak Goreng,Minyak Goreng Curah,16464
+2021-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,16568
+2021-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,16209
+2021-09-01,Telur Ayam,Telur Ayam Ras Segar,19661
+2021-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,27625
+2021-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,30375
+2021-10-01,Beras,Beras Kualitas Bawah I,11000
+2021-10-01,Beras,Beras Kualitas Bawah II,10500
+2021-10-01,Beras,Beras Kualitas Medium I,12000
+2021-10-01,Beras,Beras Kualitas Medium II,11500
+2021-10-01,Beras,Beras Kualitas Super I,13400
+2021-10-01,Beras,Beras Kualitas Super II,12750
+2021-10-01,Cabai Merah,Cabai Merah Besar,30200
+2021-10-01,Cabai Merah,Cabai Merah Keriting,29338
+2021-10-01,Cabai Rawit,Cabai Rawit Hijau,31912
+2021-10-01,Cabai Rawit,Cabai Rawit Merah,28500
+2021-10-01,Daging Ayam,Daging Ayam Ras Segar,31838
+2021-10-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-10-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-10-01,Gula Pasir,Gula Pasir Kualitas Premium,13562
+2021-10-01,Gula Pasir,Gula Pasir Lokal,12812
+2021-10-01,Minyak Goreng,Minyak Goreng Curah,17618
+2021-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,17490
+2021-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,17455
+2021-10-01,Telur Ayam,Telur Ayam Ras Segar,18852
+2021-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,21636
+2021-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,30023
+2021-11-01,Beras,Beras Kualitas Bawah I,11000
+2021-11-01,Beras,Beras Kualitas Bawah II,10500
+2021-11-01,Beras,Beras Kualitas Medium I,12000
+2021-11-01,Beras,Beras Kualitas Medium II,11500
+2021-11-01,Beras,Beras Kualitas Super I,13400
+2021-11-01,Beras,Beras Kualitas Super II,12750
+2021-11-01,Cabai Merah,Cabai Merah Besar,33148
+2021-11-01,Cabai Merah,Cabai Merah Keriting,39807
+2021-11-01,Cabai Rawit,Cabai Rawit Hijau,31307
+2021-11-01,Cabai Rawit,Cabai Rawit Merah,28466
+2021-11-01,Daging Ayam,Daging Ayam Ras Segar,32000
+2021-11-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2021-11-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-11-01,Gula Pasir,Gula Pasir Kualitas Premium,13650
+2021-11-01,Gula Pasir,Gula Pasir Lokal,12977
+2021-11-01,Minyak Goreng,Minyak Goreng Curah,18750
+2021-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18625
+2021-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18625
+2021-11-01,Telur Ayam,Telur Ayam Ras Segar,22818
+2021-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,28902
+2021-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,31011
+2021-12-01,Beras,Beras Kualitas Bawah I,11026
+2021-12-01,Beras,Beras Kualitas Bawah II,10537
+2021-12-01,Beras,Beras Kualitas Medium I,12026
+2021-12-01,Beras,Beras Kualitas Medium II,11537
+2021-12-01,Beras,Beras Kualitas Super I,13400
+2021-12-01,Beras,Beras Kualitas Super II,12750
+2021-12-01,Cabai Merah,Cabai Merah Besar,40272
+2021-12-01,Cabai Merah,Cabai Merah Keriting,41685
+2021-12-01,Cabai Rawit,Cabai Rawit Hijau,50500
+2021-12-01,Cabai Rawit,Cabai Rawit Merah,67674
+2021-12-01,Daging Ayam,Daging Ayam Ras Segar,34457
+2021-12-01,Daging Sapi,Daging Sapi Kualitas 1,138859
+2021-12-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2021-12-01,Gula Pasir,Gula Pasir Kualitas Premium,13680
+2021-12-01,Gula Pasir,Gula Pasir Lokal,13000
+2021-12-01,Minyak Goreng,Minyak Goreng Curah,18943
+2021-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19870
+2021-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19870
+2021-12-01,Telur Ayam,Telur Ayam Ras Segar,25928
+2022-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,31750
+2022-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,31750
+2022-01-01,Beras,Beras Kualitas Bawah I,11150
+2022-01-01,Beras,Beras Kualitas Bawah II,10900
+2022-01-01,Beras,Beras Kualitas Medium I,12226
+2022-01-01,Beras,Beras Kualitas Medium II,11900
+2022-01-01,Beras,Beras Kualitas Super I,13400
+2022-01-01,Beras,Beras Kualitas Super II,12750
+2022-01-01,Cabai Merah,Cabai Merah Besar,31845
+2022-01-01,Cabai Merah,Cabai Merah Keriting,28643
+2022-01-01,Cabai Rawit,Cabai Rawit Hijau,50202
+2022-01-01,Cabai Rawit,Cabai Rawit Merah,40607
+2022-01-01,Daging Ayam,Daging Ayam Ras Segar,36190
+2022-01-01,Daging Sapi,Daging Sapi Kualitas 1,138750
+2022-01-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2022-01-01,Gula Pasir,Gula Pasir Kualitas Premium,14412
+2022-01-01,Gula Pasir,Gula Pasir Lokal,13907
+2022-01-01,Minyak Goreng,Minyak Goreng Curah,20000
+2022-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20000
+2022-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20000
+2022-01-01,Telur Ayam,Telur Ayam Ras Segar,22764
+2022-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,37125
+2022-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,31750
+2022-02-01,Beras,Beras Kualitas Bawah I,11011
+2022-02-01,Beras,Beras Kualitas Bawah II,10678
+2022-02-01,Beras,Beras Kualitas Medium I,12250
+2022-02-01,Beras,Beras Kualitas Medium II,11900
+2022-02-01,Beras,Beras Kualitas Super I,13400
+2022-02-01,Beras,Beras Kualitas Super II,12750
+2022-02-01,Cabai Merah,Cabai Merah Besar,32778
+2022-02-01,Cabai Merah,Cabai Merah Keriting,33931
+2022-02-01,Cabai Rawit,Cabai Rawit Hijau,42792
+2022-02-01,Cabai Rawit,Cabai Rawit Merah,38222
+2022-02-01,Daging Ayam,Daging Ayam Ras Segar,31167
+2022-02-01,Daging Sapi,Daging Sapi Kualitas 1,138750
+2022-02-01,Daging Sapi,Daging Sapi Kualitas 2,135000
+2022-02-01,Gula Pasir,Gula Pasir Kualitas Premium,14650
+2022-02-01,Gula Pasir,Gula Pasir Lokal,14067
+2022-02-01,Minyak Goreng,Minyak Goreng Curah,17769
+2022-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19000
+2022-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19000
+2022-02-01,Telur Ayam,Telur Ayam Ras Segar,20417
+2022-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,37261
+2022-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,35534
+2022-03-01,Beras,Beras Kualitas Bawah I,10945
+2022-03-01,Beras,Beras Kualitas Bawah II,10514
+2022-03-01,Beras,Beras Kualitas Medium I,12250
+2022-03-01,Beras,Beras Kualitas Medium II,11900
+2022-03-01,Beras,Beras Kualitas Super I,13400
+2022-03-01,Beras,Beras Kualitas Super II,12750
+2022-03-01,Cabai Merah,Cabai Merah Besar,41568
+2022-03-01,Cabai Merah,Cabai Merah Keriting,43993
+2022-03-01,Cabai Rawit,Cabai Rawit Hijau,41670
+2022-03-01,Cabai Rawit,Cabai Rawit Merah,49675
+2022-03-01,Daging Ayam,Daging Ayam Ras Segar,33705
+2022-03-01,Daging Sapi,Daging Sapi Kualitas 1,139659
+2022-03-01,Daging Sapi,Daging Sapi Kualitas 2,136818
+2022-03-01,Gula Pasir,Gula Pasir Kualitas Premium,14889
+2022-03-01,Gula Pasir,Gula Pasir Lokal,14591
+2022-03-01,Minyak Goreng,Minyak Goreng Curah,17305
+2022-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19512
+2022-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19345
+2022-03-01,Telur Ayam,Telur Ayam Ras Segar,24739
+2022-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,37395
+2022-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,40447
+2022-04-01,Beras,Beras Kualitas Bawah I,11400
+2022-04-01,Beras,Beras Kualitas Bawah II,10650
+2022-04-01,Beras,Beras Kualitas Medium I,12250
+2022-04-01,Beras,Beras Kualitas Medium II,11900
+2022-04-01,Beras,Beras Kualitas Super I,13400
+2022-04-01,Beras,Beras Kualitas Super II,12750
+2022-04-01,Cabai Merah,Cabai Merah Besar,40539
+2022-04-01,Cabai Merah,Cabai Merah Keriting,33447
+2022-04-01,Cabai Rawit,Cabai Rawit Hijau,44474
+2022-04-01,Cabai Rawit,Cabai Rawit Merah,32026
+2022-04-01,Daging Ayam,Daging Ayam Ras Segar,35697
+2022-04-01,Daging Sapi,Daging Sapi Kualitas 1,142039
+2022-04-01,Daging Sapi,Daging Sapi Kualitas 2,139276
+2022-04-01,Gula Pasir,Gula Pasir Kualitas Premium,15413
+2022-04-01,Gula Pasir,Gula Pasir Lokal,14663
+2022-04-01,Minyak Goreng,Minyak Goreng Curah,20697
+2022-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,25526
+2022-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,25553
+2022-04-01,Telur Ayam,Telur Ayam Ras Segar,25055
+2022-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,44833
+2022-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,40367
+2022-05-01,Beras,Beras Kualitas Bawah I,11400
+2022-05-01,Beras,Beras Kualitas Bawah II,10650
+2022-05-01,Beras,Beras Kualitas Medium I,12250
+2022-05-01,Beras,Beras Kualitas Medium II,11900
+2022-05-01,Beras,Beras Kualitas Super I,13400
+2022-05-01,Beras,Beras Kualitas Super II,12750
+2022-05-01,Cabai Merah,Cabai Merah Besar,47267
+2022-05-01,Cabai Merah,Cabai Merah Keriting,39517
+2022-05-01,Cabai Rawit,Cabai Rawit Hijau,43800
+2022-05-01,Cabai Rawit,Cabai Rawit Merah,43600
+2022-05-01,Daging Ayam,Daging Ayam Ras Segar,33583
+2022-05-01,Daging Sapi,Daging Sapi Kualitas 1,144333
+2022-05-01,Daging Sapi,Daging Sapi Kualitas 2,135667
+2022-05-01,Gula Pasir,Gula Pasir Kualitas Premium,15400
+2022-05-01,Gula Pasir,Gula Pasir Lokal,14650
+2022-05-01,Minyak Goreng,Minyak Goreng Curah,17313
+2022-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,25197
+2022-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,25197
+2022-05-01,Telur Ayam,Telur Ayam Ras Segar,27167
+2022-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,56250
+2022-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,35845
+2022-06-01,Beras,Beras Kualitas Bawah I,11400
+2022-06-01,Beras,Beras Kualitas Bawah II,10588
+2022-06-01,Beras,Beras Kualitas Medium I,12250
+2022-06-01,Beras,Beras Kualitas Medium II,11900
+2022-06-01,Beras,Beras Kualitas Super I,13400
+2022-06-01,Beras,Beras Kualitas Super II,12750
+2022-06-01,Cabai Merah,Cabai Merah Besar,69702
+2022-06-01,Cabai Merah,Cabai Merah Keriting,72917
+2022-06-01,Cabai Rawit,Cabai Rawit Hijau,70536
+2022-06-01,Cabai Rawit,Cabai Rawit Merah,87143
+2022-06-01,Daging Ayam,Daging Ayam Ras Segar,35333
+2022-06-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-06-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-06-01,Gula Pasir,Gula Pasir Kualitas Premium,15150
+2022-06-01,Gula Pasir,Gula Pasir Lokal,14181
+2022-06-01,Minyak Goreng,Minyak Goreng Curah,16271
+2022-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,25114
+2022-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,25090
+2022-06-01,Telur Ayam,Telur Ayam Ras Segar,27883
+2022-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,58583
+2022-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,32095
+2022-07-01,Beras,Beras Kualitas Bawah I,11400
+2022-07-01,Beras,Beras Kualitas Bawah II,10000
+2022-07-01,Beras,Beras Kualitas Medium I,12250
+2022-07-01,Beras,Beras Kualitas Medium II,11900
+2022-07-01,Beras,Beras Kualitas Super I,13400
+2022-07-01,Beras,Beras Kualitas Super II,12750
+2022-07-01,Cabai Merah,Cabai Merah Besar,81964
+2022-07-01,Cabai Merah,Cabai Merah Keriting,81488
+2022-07-01,Cabai Rawit,Cabai Rawit Hijau,76905
+2022-07-01,Cabai Rawit,Cabai Rawit Merah,70357
+2022-07-01,Daging Ayam,Daging Ayam Ras Segar,35690
+2022-07-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-07-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-07-01,Gula Pasir,Gula Pasir Kualitas Premium,15007
+2022-07-01,Gula Pasir,Gula Pasir Lokal,13750
+2022-07-01,Minyak Goreng,Minyak Goreng Curah,14005
+2022-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,22012
+2022-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,21976
+2022-07-01,Telur Ayam,Telur Ayam Ras Segar,27988
+2022-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,33455
+2022-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,30750
+2022-08-01,Beras,Beras Kualitas Bawah I,11473
+2022-08-01,Beras,Beras Kualitas Bawah II,10557
+2022-08-01,Beras,Beras Kualitas Medium I,12250
+2022-08-01,Beras,Beras Kualitas Medium II,11900
+2022-08-01,Beras,Beras Kualitas Super I,13473
+2022-08-01,Beras,Beras Kualitas Super II,12909
+2022-08-01,Cabai Merah,Cabai Merah Besar,63182
+2022-08-01,Cabai Merah,Cabai Merah Keriting,58409
+2022-08-01,Cabai Rawit,Cabai Rawit Hijau,46989
+2022-08-01,Cabai Rawit,Cabai Rawit Merah,45898
+2022-08-01,Daging Ayam,Daging Ayam Ras Segar,32466
+2022-08-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-08-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-08-01,Gula Pasir,Gula Pasir Kualitas Premium,14900
+2022-08-01,Gula Pasir,Gula Pasir Lokal,13711
+2022-08-01,Minyak Goreng,Minyak Goreng Curah,13627
+2022-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20750
+2022-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20750
+2022-08-01,Telur Ayam,Telur Ayam Ras Segar,29166
+2022-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,31670
+2022-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,30750
+2022-09-01,Beras,Beras Kualitas Bawah I,11500
+2022-09-01,Beras,Beras Kualitas Bawah II,11000
+2022-09-01,Beras,Beras Kualitas Medium I,12250
+2022-09-01,Beras,Beras Kualitas Medium II,11900
+2022-09-01,Beras,Beras Kualitas Super I,13500
+2022-09-01,Beras,Beras Kualitas Super II,13000
+2022-09-01,Cabai Merah,Cabai Merah Besar,57807
+2022-09-01,Cabai Merah,Cabai Merah Keriting,62205
+2022-09-01,Cabai Rawit,Cabai Rawit Hijau,45784
+2022-09-01,Cabai Rawit,Cabai Rawit Merah,56295
+2022-09-01,Daging Ayam,Daging Ayam Ras Segar,31136
+2022-09-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-09-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-09-01,Gula Pasir,Gula Pasir Kualitas Premium,14900
+2022-09-01,Gula Pasir,Gula Pasir Lokal,13661
+2022-09-01,Minyak Goreng,Minyak Goreng Curah,13364
+2022-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20750
+2022-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20750
+2022-09-01,Telur Ayam,Telur Ayam Ras Segar,26734
+2022-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,32321
+2022-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,29167
+2022-10-01,Beras,Beras Kualitas Bawah I,11500
+2022-10-01,Beras,Beras Kualitas Bawah II,11000
+2022-10-01,Beras,Beras Kualitas Medium I,12250
+2022-10-01,Beras,Beras Kualitas Medium II,11900
+2022-10-01,Beras,Beras Kualitas Super I,13500
+2022-10-01,Beras,Beras Kualitas Super II,13000
+2022-10-01,Cabai Merah,Cabai Merah Besar,41238
+2022-10-01,Cabai Merah,Cabai Merah Keriting,43048
+2022-10-01,Cabai Rawit,Cabai Rawit Hijau,39393
+2022-10-01,Cabai Rawit,Cabai Rawit Merah,45583
+2022-10-01,Daging Ayam,Daging Ayam Ras Segar,29690
+2022-10-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-10-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-10-01,Gula Pasir,Gula Pasir Kualitas Premium,14729
+2022-10-01,Gula Pasir,Gula Pasir Lokal,13643
+2022-10-01,Minyak Goreng,Minyak Goreng Curah,14145
+2022-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20631
+2022-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20631
+2022-10-01,Telur Ayam,Telur Ayam Ras Segar,25667
+2022-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,33773
+2022-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,28318
+2022-11-01,Beras,Beras Kualitas Bawah I,11500
+2022-11-01,Beras,Beras Kualitas Bawah II,11000
+2022-11-01,Beras,Beras Kualitas Medium I,12250
+2022-11-01,Beras,Beras Kualitas Medium II,11900
+2022-11-01,Beras,Beras Kualitas Super I,13500
+2022-11-01,Beras,Beras Kualitas Super II,13000
+2022-11-01,Cabai Merah,Cabai Merah Besar,32636
+2022-11-01,Cabai Merah,Cabai Merah Keriting,30477
+2022-11-01,Cabai Rawit,Cabai Rawit Hijau,32989
+2022-11-01,Cabai Rawit,Cabai Rawit Merah,32955
+2022-11-01,Daging Ayam,Daging Ayam Ras Segar,30398
+2022-11-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-11-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-11-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2022-11-01,Gula Pasir,Gula Pasir Lokal,13500
+2022-11-01,Minyak Goreng,Minyak Goreng Curah,15109
+2022-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20659
+2022-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19841
+2022-11-01,Telur Ayam,Telur Ayam Ras Segar,27682
+2022-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,35580
+2022-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,27750
+2022-12-01,Beras,Beras Kualitas Bawah I,11693
+2022-12-01,Beras,Beras Kualitas Bawah II,11014
+2022-12-01,Beras,Beras Kualitas Medium I,12832
+2022-12-01,Beras,Beras Kualitas Medium II,12289
+2022-12-01,Beras,Beras Kualitas Super I,14082
+2022-12-01,Beras,Beras Kualitas Super II,13382
+2022-12-01,Cabai Merah,Cabai Merah Besar,32114
+2022-12-01,Cabai Merah,Cabai Merah Keriting,34364
+2022-12-01,Cabai Rawit,Cabai Rawit Hijau,48750
+2022-12-01,Cabai Rawit,Cabai Rawit Merah,42727
+2022-12-01,Daging Ayam,Daging Ayam Ras Segar,32830
+2022-12-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2022-12-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2022-12-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2022-12-01,Gula Pasir,Gula Pasir Lokal,13643
+2022-12-01,Minyak Goreng,Minyak Goreng Curah,16216
+2022-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20750
+2022-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19750
+2022-12-01,Telur Ayam,Telur Ayam Ras Segar,30023
+2023-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,40477
+2023-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,30966
+2023-01-01,Beras,Beras Kualitas Bawah I,12136
+2023-01-01,Beras,Beras Kualitas Bawah II,11577
+2023-01-01,Beras,Beras Kualitas Medium I,13227
+2023-01-01,Beras,Beras Kualitas Medium II,12886
+2023-01-01,Beras,Beras Kualitas Super I,14484
+2023-01-01,Beras,Beras Kualitas Super II,13886
+2023-01-01,Cabai Merah,Cabai Merah Besar,40773
+2023-01-01,Cabai Merah,Cabai Merah Keriting,40489
+2023-01-01,Cabai Rawit,Cabai Rawit Hijau,55341
+2023-01-01,Cabai Rawit,Cabai Rawit Merah,54455
+2023-01-01,Daging Ayam,Daging Ayam Ras Segar,31761
+2023-01-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-01-01,Daging Sapi,Daging Sapi Kualitas 2,132500
+2023-01-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-01-01,Gula Pasir,Gula Pasir Lokal,13682
+2023-01-01,Minyak Goreng,Minyak Goreng Curah,16359
+2023-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20761
+2023-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19955
+2023-01-01,Telur Ayam,Telur Ayam Ras Segar,27909
+2023-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,47025
+2023-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,34462
+2023-02-01,Beras,Beras Kualitas Bawah I,12588
+2023-02-01,Beras,Beras Kualitas Bawah II,12328
+2023-02-01,Beras,Beras Kualitas Medium I,13332
+2023-02-01,Beras,Beras Kualitas Medium II,13082
+2023-02-01,Beras,Beras Kualitas Super I,14730
+2023-02-01,Beras,Beras Kualitas Super II,14082
+2023-02-01,Cabai Merah,Cabai Merah Besar,41825
+2023-02-01,Cabai Merah,Cabai Merah Keriting,44550
+2023-02-01,Cabai Rawit,Cabai Rawit Hijau,48875
+2023-02-01,Cabai Rawit,Cabai Rawit Merah,58025
+2023-02-01,Daging Ayam,Daging Ayam Ras Segar,31050
+2023-02-01,Daging Sapi,Daging Sapi Kualitas 1,141062
+2023-02-01,Daging Sapi,Daging Sapi Kualitas 2,132312
+2023-02-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-02-01,Gula Pasir,Gula Pasir Lokal,13745
+2023-02-01,Minyak Goreng,Minyak Goreng Curah,16118
+2023-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21450
+2023-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2023-02-01,Telur Ayam,Telur Ayam Ras Segar,27150
+2023-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,38511
+2023-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,38033
+2023-03-01,Beras,Beras Kualitas Bawah I,12841
+2023-03-01,Beras,Beras Kualitas Bawah II,12552
+2023-03-01,Beras,Beras Kualitas Medium I,13500
+2023-03-01,Beras,Beras Kualitas Medium II,13276
+2023-03-01,Beras,Beras Kualitas Super I,14815
+2023-03-01,Beras,Beras Kualitas Super II,14215
+2023-03-01,Cabai Merah,Cabai Merah Besar,36467
+2023-03-01,Cabai Merah,Cabai Merah Keriting,36250
+2023-03-01,Cabai Rawit,Cabai Rawit Hijau,47326
+2023-03-01,Cabai Rawit,Cabai Rawit Merah,59098
+2023-03-01,Daging Ayam,Daging Ayam Ras Segar,30891
+2023-03-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2023-03-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-03-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-03-01,Gula Pasir,Gula Pasir Lokal,13750
+2023-03-01,Minyak Goreng,Minyak Goreng Curah,15591
+2023-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21457
+2023-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2023-03-01,Telur Ayam,Telur Ayam Ras Segar,28611
+2023-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,39141
+2023-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,35734
+2023-04-01,Beras,Beras Kualitas Bawah I,12900
+2023-04-01,Beras,Beras Kualitas Bawah II,12650
+2023-04-01,Beras,Beras Kualitas Medium I,13650
+2023-04-01,Beras,Beras Kualitas Medium II,13500
+2023-04-01,Beras,Beras Kualitas Super I,15000
+2023-04-01,Beras,Beras Kualitas Super II,14400
+2023-04-01,Cabai Merah,Cabai Merah Besar,39219
+2023-04-01,Cabai Merah,Cabai Merah Keriting,34844
+2023-04-01,Cabai Rawit,Cabai Rawit Hijau,36719
+2023-04-01,Cabai Rawit,Cabai Rawit Merah,35156
+2023-04-01,Daging Ayam,Daging Ayam Ras Segar,32016
+2023-04-01,Daging Sapi,Daging Sapi Kualitas 1,143281
+2023-04-01,Daging Sapi,Daging Sapi Kualitas 2,134062
+2023-04-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-04-01,Gula Pasir,Gula Pasir Lokal,13750
+2023-04-01,Minyak Goreng,Minyak Goreng Curah,15744
+2023-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21250
+2023-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2023-04-01,Telur Ayam,Telur Ayam Ras Segar,28000
+2023-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,45932
+2023-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,37386
+2023-05-01,Beras,Beras Kualitas Bawah I,12900
+2023-05-01,Beras,Beras Kualitas Bawah II,12650
+2023-05-01,Beras,Beras Kualitas Medium I,13650
+2023-05-01,Beras,Beras Kualitas Medium II,13500
+2023-05-01,Beras,Beras Kualitas Super I,15000
+2023-05-01,Beras,Beras Kualitas Super II,14400
+2023-05-01,Cabai Merah,Cabai Merah Besar,34659
+2023-05-01,Cabai Merah,Cabai Merah Keriting,28080
+2023-05-01,Cabai Rawit,Cabai Rawit Hijau,32261
+2023-05-01,Cabai Rawit,Cabai Rawit Merah,33284
+2023-05-01,Daging Ayam,Daging Ayam Ras Segar,34284
+2023-05-01,Daging Sapi,Daging Sapi Kualitas 1,141420
+2023-05-01,Daging Sapi,Daging Sapi Kualitas 2,131420
+2023-05-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-05-01,Gula Pasir,Gula Pasir Lokal,13770
+2023-05-01,Minyak Goreng,Minyak Goreng Curah,15923
+2023-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21250
+2023-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2023-05-01,Telur Ayam,Telur Ayam Ras Segar,30545
+2023-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,40828
+2023-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,36594
+2023-06-01,Beras,Beras Kualitas Bawah I,12806
+2023-06-01,Beras,Beras Kualitas Bawah II,12391
+2023-06-01,Beras,Beras Kualitas Medium I,13650
+2023-06-01,Beras,Beras Kualitas Medium II,13431
+2023-06-01,Beras,Beras Kualitas Super I,14828
+2023-06-01,Beras,Beras Kualitas Super II,14228
+2023-06-01,Cabai Merah,Cabai Merah Besar,29938
+2023-06-01,Cabai Merah,Cabai Merah Keriting,27719
+2023-06-01,Cabai Rawit,Cabai Rawit Hijau,37438
+2023-06-01,Cabai Rawit,Cabai Rawit Merah,35016
+2023-06-01,Daging Ayam,Daging Ayam Ras Segar,36438
+2023-06-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-06-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-06-01,Gula Pasir,Gula Pasir Kualitas Premium,14500
+2023-06-01,Gula Pasir,Gula Pasir Lokal,13900
+2023-06-01,Minyak Goreng,Minyak Goreng Curah,15409
+2023-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20906
+2023-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20000
+2023-06-01,Telur Ayam,Telur Ayam Ras Segar,30009
+2023-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,32662
+2023-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,45912
+2023-07-01,Beras,Beras Kualitas Bawah I,12750
+2023-07-01,Beras,Beras Kualitas Bawah II,12250
+2023-07-01,Beras,Beras Kualitas Medium I,13650
+2023-07-01,Beras,Beras Kualitas Medium II,13400
+2023-07-01,Beras,Beras Kualitas Super I,14750
+2023-07-01,Beras,Beras Kualitas Super II,14150
+2023-07-01,Cabai Merah,Cabai Merah Besar,33488
+2023-07-01,Cabai Merah,Cabai Merah Keriting,28350
+2023-07-01,Cabai Rawit,Cabai Rawit Hijau,36775
+2023-07-01,Cabai Rawit,Cabai Rawit Merah,28075
+2023-07-01,Daging Ayam,Daging Ayam Ras Segar,37138
+2023-07-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-07-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-07-01,Gula Pasir,Gula Pasir Kualitas Premium,14625
+2023-07-01,Gula Pasir,Gula Pasir Lokal,14025
+2023-07-01,Minyak Goreng,Minyak Goreng Curah,15235
+2023-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19800
+2023-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18788
+2023-07-01,Telur Ayam,Telur Ayam Ras Segar,31088
+2023-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,25205
+2023-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,40250
+2023-08-01,Beras,Beras Kualitas Bawah I,12934
+2023-08-01,Beras,Beras Kualitas Bawah II,12500
+2023-08-01,Beras,Beras Kualitas Medium I,13732
+2023-08-01,Beras,Beras Kualitas Medium II,13386
+2023-08-01,Beras,Beras Kualitas Super I,14843
+2023-08-01,Beras,Beras Kualitas Super II,14198
+2023-08-01,Cabai Merah,Cabai Merah Besar,35284
+2023-08-01,Cabai Merah,Cabai Merah Keriting,34466
+2023-08-01,Cabai Rawit,Cabai Rawit Hijau,37205
+2023-08-01,Cabai Rawit,Cabai Rawit Merah,37739
+2023-08-01,Daging Ayam,Daging Ayam Ras Segar,35636
+2023-08-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-08-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-08-01,Gula Pasir,Gula Pasir Kualitas Premium,14750
+2023-08-01,Gula Pasir,Gula Pasir Lokal,14155
+2023-08-01,Minyak Goreng,Minyak Goreng Curah,14918
+2023-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18193
+2023-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,17693
+2023-08-01,Telur Ayam,Telur Ayam Ras Segar,28375
+2023-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,21575
+2023-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,40175
+2023-09-01,Beras,Beras Kualitas Bawah I,13762
+2023-09-01,Beras,Beras Kualitas Bawah II,13500
+2023-09-01,Beras,Beras Kualitas Medium I,14262
+2023-09-01,Beras,Beras Kualitas Medium II,13952
+2023-09-01,Beras,Beras Kualitas Super I,15460
+2023-09-01,Beras,Beras Kualitas Super II,14512
+2023-09-01,Cabai Merah,Cabai Merah Besar,35575
+2023-09-01,Cabai Merah,Cabai Merah Keriting,30100
+2023-09-01,Cabai Rawit,Cabai Rawit Hijau,33575
+2023-09-01,Cabai Rawit,Cabai Rawit Merah,29488
+2023-09-01,Daging Ayam,Daging Ayam Ras Segar,35100
+2023-09-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-09-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-09-01,Gula Pasir,Gula Pasir Kualitas Premium,15338
+2023-09-01,Gula Pasir,Gula Pasir Lokal,14822
+2023-09-01,Minyak Goreng,Minyak Goreng Curah,14900
+2023-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18750
+2023-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,17888
+2023-09-01,Telur Ayam,Telur Ayam Ras Segar,25978
+2023-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,22977
+2023-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,37614
+2023-10-01,Beras,Beras Kualitas Bawah I,14200
+2023-10-01,Beras,Beras Kualitas Bawah II,13825
+2023-10-01,Beras,Beras Kualitas Medium I,14700
+2023-10-01,Beras,Beras Kualitas Medium II,14450
+2023-10-01,Beras,Beras Kualitas Super I,15723
+2023-10-01,Beras,Beras Kualitas Super II,15125
+2023-10-01,Cabai Merah,Cabai Merah Besar,40455
+2023-10-01,Cabai Merah,Cabai Merah Keriting,42239
+2023-10-01,Cabai Rawit,Cabai Rawit Hijau,45011
+2023-10-01,Cabai Rawit,Cabai Rawit Merah,53602
+2023-10-01,Daging Ayam,Daging Ayam Ras Segar,33807
+2023-10-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-10-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-10-01,Gula Pasir,Gula Pasir Kualitas Premium,16273
+2023-10-01,Gula Pasir,Gula Pasir Lokal,15650
+2023-10-01,Minyak Goreng,Minyak Goreng Curah,14900
+2023-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18818
+2023-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,17818
+2023-10-01,Telur Ayam,Telur Ayam Ras Segar,25266
+2023-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,32182
+2023-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,40341
+2023-11-01,Beras,Beras Kualitas Bawah I,14400
+2023-11-01,Beras,Beras Kualitas Bawah II,13900
+2023-11-01,Beras,Beras Kualitas Medium I,14986
+2023-11-01,Beras,Beras Kualitas Medium II,14650
+2023-11-01,Beras,Beras Kualitas Super I,16123
+2023-11-01,Beras,Beras Kualitas Super II,15500
+2023-11-01,Cabai Merah,Cabai Merah Besar,64500
+2023-11-01,Cabai Merah,Cabai Merah Keriting,75170
+2023-11-01,Cabai Rawit,Cabai Rawit Hijau,62864
+2023-11-01,Cabai Rawit,Cabai Rawit Merah,82898
+2023-11-01,Daging Ayam,Daging Ayam Ras Segar,33330
+2023-11-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-11-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-11-01,Gula Pasir,Gula Pasir Kualitas Premium,17475
+2023-11-01,Gula Pasir,Gula Pasir Lokal,16880
+2023-11-01,Minyak Goreng,Minyak Goreng Curah,14980
+2023-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19000
+2023-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18000
+2023-11-01,Telur Ayam,Telur Ayam Ras Segar,26818
+2023-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,38645
+2023-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,41855
+2023-12-01,Beras,Beras Kualitas Bawah I,14400
+2023-12-01,Beras,Beras Kualitas Bawah II,13900
+2023-12-01,Beras,Beras Kualitas Medium I,15000
+2023-12-01,Beras,Beras Kualitas Medium II,14650
+2023-12-01,Beras,Beras Kualitas Super I,16103
+2023-12-01,Beras,Beras Kualitas Super II,15468
+2023-12-01,Cabai Merah,Cabai Merah Besar,79408
+2023-12-01,Cabai Merah,Cabai Merah Keriting,70053
+2023-12-01,Cabai Rawit,Cabai Rawit Hijau,56513
+2023-12-01,Cabai Rawit,Cabai Rawit Merah,81711
+2023-12-01,Daging Ayam,Daging Ayam Ras Segar,31632
+2023-12-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2023-12-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2023-12-01,Gula Pasir,Gula Pasir Kualitas Premium,18161
+2023-12-01,Gula Pasir,Gula Pasir Lokal,17216
+2023-12-01,Minyak Goreng,Minyak Goreng Curah,15276
+2023-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18895
+2023-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,17958
+2023-12-01,Telur Ayam,Telur Ayam Ras Segar,26274
+2024-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,39545
+2024-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,45398
+2024-01-01,Beras,Beras Kualitas Bawah I,14400
+2024-01-01,Beras,Beras Kualitas Bawah II,14032
+2024-01-01,Beras,Beras Kualitas Medium I,15055
+2024-01-01,Beras,Beras Kualitas Medium II,14700
+2024-01-01,Beras,Beras Kualitas Super I,16000
+2024-01-01,Beras,Beras Kualitas Super II,15495
+2024-01-01,Cabai Merah,Cabai Merah Besar,70341
+2024-01-01,Cabai Merah,Cabai Merah Keriting,61818
+2024-01-01,Cabai Rawit,Cabai Rawit Hijau,37875
+2024-01-01,Cabai Rawit,Cabai Rawit Merah,48807
+2024-01-01,Daging Ayam,Daging Ayam Ras Segar,32477
+2024-01-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-01-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-01-01,Gula Pasir,Gula Pasir Kualitas Premium,18352
+2024-01-01,Gula Pasir,Gula Pasir Lokal,17136
+2024-01-01,Minyak Goreng,Minyak Goreng Curah,15439
+2024-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18873
+2024-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18057
+2024-01-01,Telur Ayam,Telur Ayam Ras Segar,25966
+2024-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,36434
+2024-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,43750
+2024-02-01,Beras,Beras Kualitas Bawah I,15576
+2024-02-01,Beras,Beras Kualitas Bawah II,15403
+2024-02-01,Beras,Beras Kualitas Medium I,16097
+2024-02-01,Beras,Beras Kualitas Medium II,15903
+2024-02-01,Beras,Beras Kualitas Super I,17521
+2024-02-01,Beras,Beras Kualitas Super II,16763
+2024-02-01,Cabai Merah,Cabai Merah Besar,86579
+2024-02-01,Cabai Merah,Cabai Merah Keriting,72434
+2024-02-01,Cabai Rawit,Cabai Rawit Hijau,47632
+2024-02-01,Cabai Rawit,Cabai Rawit Merah,58026
+2024-02-01,Daging Ayam,Daging Ayam Ras Segar,33921
+2024-02-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-02-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-02-01,Gula Pasir,Gula Pasir Kualitas Premium,18500
+2024-02-01,Gula Pasir,Gula Pasir Lokal,17400
+2024-02-01,Minyak Goreng,Minyak Goreng Curah,16384
+2024-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19684
+2024-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18845
+2024-02-01,Telur Ayam,Telur Ayam Ras Segar,28387
+2024-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,35764
+2024-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,43750
+2024-03-01,Beras,Beras Kualitas Bawah I,16000
+2024-03-01,Beras,Beras Kualitas Bawah II,15258
+2024-03-01,Beras,Beras Kualitas Medium I,16100
+2024-03-01,Beras,Beras Kualitas Medium II,16042
+2024-03-01,Beras,Beras Kualitas Super I,18033
+2024-03-01,Beras,Beras Kualitas Super II,17033
+2024-03-01,Cabai Merah,Cabai Merah Besar,65208
+2024-03-01,Cabai Merah,Cabai Merah Keriting,48556
+2024-03-01,Cabai Rawit,Cabai Rawit Hijau,49444
+2024-03-01,Cabai Rawit,Cabai Rawit Merah,48056
+2024-03-01,Daging Ayam,Daging Ayam Ras Segar,38431
+2024-03-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-03-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-03-01,Gula Pasir,Gula Pasir Kualitas Premium,18500
+2024-03-01,Gula Pasir,Gula Pasir Lokal,17400
+2024-03-01,Minyak Goreng,Minyak Goreng Curah,17278
+2024-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20000
+2024-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19000
+2024-03-01,Telur Ayam,Telur Ayam Ras Segar,30464
+2024-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,59062
+2024-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,51125
+2024-04-01,Beras,Beras Kualitas Bawah I,15135
+2024-04-01,Beras,Beras Kualitas Bawah II,13985
+2024-04-01,Beras,Beras Kualitas Medium I,16000
+2024-04-01,Beras,Beras Kualitas Medium II,15655
+2024-04-01,Beras,Beras Kualitas Super I,17278
+2024-04-01,Beras,Beras Kualitas Super II,16278
+2024-04-01,Cabai Merah,Cabai Merah Besar,41625
+2024-04-01,Cabai Merah,Cabai Merah Keriting,37312
+2024-04-01,Cabai Rawit,Cabai Rawit Hijau,39688
+2024-04-01,Cabai Rawit,Cabai Rawit Merah,37375
+2024-04-01,Daging Ayam,Daging Ayam Ras Segar,37338
+2024-04-01,Daging Sapi,Daging Sapi Kualitas 1,144625
+2024-04-01,Daging Sapi,Daging Sapi Kualitas 2,134625
+2024-04-01,Gula Pasir,Gula Pasir Kualitas Premium,18778
+2024-04-01,Gula Pasir,Gula Pasir Lokal,17955
+2024-04-01,Minyak Goreng,Minyak Goreng Curah,17225
+2024-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19515
+2024-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18220
+2024-04-01,Telur Ayam,Telur Ayam Ras Segar,28270
+2024-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,53750
+2024-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,50795
+2024-05-01,Beras,Beras Kualitas Bawah I,14757
+2024-05-01,Beras,Beras Kualitas Bawah II,13750
+2024-05-01,Beras,Beras Kualitas Medium I,16000
+2024-05-01,Beras,Beras Kualitas Medium II,15500
+2024-05-01,Beras,Beras Kualitas Super I,17007
+2024-05-01,Beras,Beras Kualitas Super II,16007
+2024-05-01,Cabai Merah,Cabai Merah Besar,44886
+2024-05-01,Cabai Merah,Cabai Merah Keriting,44000
+2024-05-01,Cabai Rawit,Cabai Rawit Hijau,38966
+2024-05-01,Cabai Rawit,Cabai Rawit Merah,34432
+2024-05-01,Daging Ayam,Daging Ayam Ras Segar,36398
+2024-05-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-05-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-05-01,Gula Pasir,Gula Pasir Kualitas Premium,18827
+2024-05-01,Gula Pasir,Gula Pasir Lokal,17807
+2024-05-01,Minyak Goreng,Minyak Goreng Curah,16880
+2024-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18873
+2024-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18000
+2024-05-01,Telur Ayam,Telur Ayam Ras Segar,28909
+2024-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,41500
+2024-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,45375
+2024-06-01,Beras,Beras Kualitas Bawah I,14738
+2024-06-01,Beras,Beras Kualitas Bawah II,13788
+2024-06-01,Beras,Beras Kualitas Medium I,16080
+2024-06-01,Beras,Beras Kualitas Medium II,15550
+2024-06-01,Beras,Beras Kualitas Super I,17128
+2024-06-01,Beras,Beras Kualitas Super II,16195
+2024-06-01,Cabai Merah,Cabai Merah Besar,50562
+2024-06-01,Cabai Merah,Cabai Merah Keriting,49938
+2024-06-01,Cabai Rawit,Cabai Rawit Hijau,43188
+2024-06-01,Cabai Rawit,Cabai Rawit Merah,38250
+2024-06-01,Daging Ayam,Daging Ayam Ras Segar,34100
+2024-06-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-06-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-06-01,Gula Pasir,Gula Pasir Kualitas Premium,18500
+2024-06-01,Gula Pasir,Gula Pasir Lokal,17130
+2024-06-01,Minyak Goreng,Minyak Goreng Curah,16848
+2024-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18582
+2024-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18000
+2024-06-01,Telur Ayam,Telur Ayam Ras Segar,27695
+2024-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,33261
+2024-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,43424
+2024-07-01,Beras,Beras Kualitas Bawah I,14739
+2024-07-01,Beras,Beras Kualitas Bawah II,13861
+2024-07-01,Beras,Beras Kualitas Medium I,16130
+2024-07-01,Beras,Beras Kualitas Medium II,15487
+2024-07-01,Beras,Beras Kualitas Super I,17270
+2024-07-01,Beras,Beras Kualitas Super II,16493
+2024-07-01,Cabai Merah,Cabai Merah Besar,47120
+2024-07-01,Cabai Merah,Cabai Merah Keriting,38098
+2024-07-01,Cabai Rawit,Cabai Rawit Hijau,55109
+2024-07-01,Cabai Rawit,Cabai Rawit Merah,57891
+2024-07-01,Daging Ayam,Daging Ayam Ras Segar,34098
+2024-07-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-07-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-07-01,Gula Pasir,Gula Pasir Kualitas Premium,18500
+2024-07-01,Gula Pasir,Gula Pasir Lokal,16598
+2024-07-01,Minyak Goreng,Minyak Goreng Curah,17157
+2024-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,18750
+2024-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18000
+2024-07-01,Telur Ayam,Telur Ayam Ras Segar,27083
+2024-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,23536
+2024-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,39119
+2024-08-01,Beras,Beras Kualitas Bawah I,14738
+2024-08-01,Beras,Beras Kualitas Bawah II,13643
+2024-08-01,Beras,Beras Kualitas Medium I,15988
+2024-08-01,Beras,Beras Kualitas Medium II,15393
+2024-08-01,Beras,Beras Kualitas Super I,17405
+2024-08-01,Beras,Beras Kualitas Super II,16364
+2024-08-01,Cabai Merah,Cabai Merah Besar,33833
+2024-08-01,Cabai Merah,Cabai Merah Keriting,34000
+2024-08-01,Cabai Rawit,Cabai Rawit Hijau,46583
+2024-08-01,Cabai Rawit,Cabai Rawit Merah,48107
+2024-08-01,Daging Ayam,Daging Ayam Ras Segar,33655
+2024-08-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-08-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-08-01,Gula Pasir,Gula Pasir Kualitas Premium,18869
+2024-08-01,Gula Pasir,Gula Pasir Lokal,16388
+2024-08-01,Minyak Goreng,Minyak Goreng Curah,17498
+2024-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19036
+2024-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18000
+2024-08-01,Telur Ayam,Telur Ayam Ras Segar,26502
+2024-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,24300
+2024-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,38150
+2024-09-01,Beras,Beras Kualitas Bawah I,14500
+2024-09-01,Beras,Beras Kualitas Bawah II,13500
+2024-09-01,Beras,Beras Kualitas Medium I,15655
+2024-09-01,Beras,Beras Kualitas Medium II,15250
+2024-09-01,Beras,Beras Kualitas Super I,17500
+2024-09-01,Beras,Beras Kualitas Super II,16112
+2024-09-01,Cabai Merah,Cabai Merah Besar,24400
+2024-09-01,Cabai Merah,Cabai Merah Keriting,23438
+2024-09-01,Cabai Rawit,Cabai Rawit Hijau,42038
+2024-09-01,Cabai Rawit,Cabai Rawit Merah,33438
+2024-09-01,Daging Ayam,Daging Ayam Ras Segar,31950
+2024-09-01,Daging Sapi,Daging Sapi Kualitas 1,141312
+2024-09-01,Daging Sapi,Daging Sapi Kualitas 2,131312
+2024-09-01,Gula Pasir,Gula Pasir Kualitas Premium,19118
+2024-09-01,Gula Pasir,Gula Pasir Lokal,17340
+2024-09-01,Minyak Goreng,Minyak Goreng Curah,17690
+2024-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19458
+2024-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18112
+2024-09-01,Telur Ayam,Telur Ayam Ras Segar,25608
+2024-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,26609
+2024-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,39772
+2024-10-01,Beras,Beras Kualitas Bawah I,14502
+2024-10-01,Beras,Beras Kualitas Bawah II,13507
+2024-10-01,Beras,Beras Kualitas Medium I,15670
+2024-10-01,Beras,Beras Kualitas Medium II,15261
+2024-10-01,Beras,Beras Kualitas Super I,17522
+2024-10-01,Beras,Beras Kualitas Super II,16200
+2024-10-01,Cabai Merah,Cabai Merah Besar,27478
+2024-10-01,Cabai Merah,Cabai Merah Keriting,23522
+2024-10-01,Cabai Rawit,Cabai Rawit Hijau,37576
+2024-10-01,Cabai Rawit,Cabai Rawit Merah,40185
+2024-10-01,Daging Ayam,Daging Ayam Ras Segar,34228
+2024-10-01,Daging Sapi,Daging Sapi Kualitas 1,141196
+2024-10-01,Daging Sapi,Daging Sapi Kualitas 2,131196
+2024-10-01,Gula Pasir,Gula Pasir Kualitas Premium,19061
+2024-10-01,Gula Pasir,Gula Pasir Lokal,17500
+2024-10-01,Minyak Goreng,Minyak Goreng Curah,17915
+2024-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,19717
+2024-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,18389
+2024-10-01,Telur Ayam,Telur Ayam Ras Segar,26059
+2024-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,37625
+2024-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,42575
+2024-11-01,Beras,Beras Kualitas Bawah I,14850
+2024-11-01,Beras,Beras Kualitas Bawah II,13878
+2024-11-01,Beras,Beras Kualitas Medium I,15900
+2024-11-01,Beras,Beras Kualitas Medium II,15450
+2024-11-01,Beras,Beras Kualitas Super I,17500
+2024-11-01,Beras,Beras Kualitas Super II,16500
+2024-11-01,Cabai Merah,Cabai Merah Besar,31175
+2024-11-01,Cabai Merah,Cabai Merah Keriting,23038
+2024-11-01,Cabai Rawit,Cabai Rawit Hijau,25462
+2024-11-01,Cabai Rawit,Cabai Rawit Merah,30062
+2024-11-01,Daging Ayam,Daging Ayam Ras Segar,34812
+2024-11-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-11-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-11-01,Gula Pasir,Gula Pasir Kualitas Premium,19000
+2024-11-01,Gula Pasir,Gula Pasir Lokal,17620
+2024-11-01,Minyak Goreng,Minyak Goreng Curah,19620
+2024-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,20238
+2024-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19195
+2024-11-01,Telur Ayam,Telur Ayam Ras Segar,26038
+2024-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,36700
+2024-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,43275
+2024-12-01,Beras,Beras Kualitas Bawah I,14900
+2024-12-01,Beras,Beras Kualitas Bawah II,13912
+2024-12-01,Beras,Beras Kualitas Medium I,15900
+2024-12-01,Beras,Beras Kualitas Medium II,15500
+2024-12-01,Beras,Beras Kualitas Super I,17440
+2024-12-01,Beras,Beras Kualitas Super II,16440
+2024-12-01,Cabai Merah,Cabai Merah Besar,43162
+2024-12-01,Cabai Merah,Cabai Merah Keriting,41575
+2024-12-01,Cabai Rawit,Cabai Rawit Hijau,39950
+2024-12-01,Cabai Rawit,Cabai Rawit Merah,41412
+2024-12-01,Daging Ayam,Daging Ayam Ras Segar,34988
+2024-12-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2024-12-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2024-12-01,Gula Pasir,Gula Pasir Kualitas Premium,19000
+2024-12-01,Gula Pasir,Gula Pasir Lokal,17552
+2024-12-01,Minyak Goreng,Minyak Goreng Curah,19838
+2024-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21062
+2024-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,19425
+2024-12-01,Telur Ayam,Telur Ayam Ras Segar,29588
+2025-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,33908
+2025-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,43895
+2025-01-01,Beras,Beras Kualitas Bawah I,14900
+2025-01-01,Beras,Beras Kualitas Bawah II,14026
+2025-01-01,Beras,Beras Kualitas Medium I,15911
+2025-01-01,Beras,Beras Kualitas Medium II,15421
+2025-01-01,Beras,Beras Kualitas Super I,17400
+2025-01-01,Beras,Beras Kualitas Super II,16345
+2025-01-01,Cabai Merah,Cabai Merah Besar,58329
+2025-01-01,Cabai Merah,Cabai Merah Keriting,56863
+2025-01-01,Cabai Rawit,Cabai Rawit Hijau,70579
+2025-01-01,Cabai Rawit,Cabai Rawit Merah,75829
+2025-01-01,Daging Ayam,Daging Ayam Ras Segar,33724
+2025-01-01,Daging Sapi,Daging Sapi Kualitas 1,141250
+2025-01-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-01-01,Gula Pasir,Gula Pasir Kualitas Premium,18745
+2025-01-01,Gula Pasir,Gula Pasir Lokal,17971
+2025-01-01,Minyak Goreng,Minyak Goreng Curah,19658
+2025-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21276
+2025-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20237
+2025-01-01,Telur Ayam,Telur Ayam Ras Segar,27205
+2025-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,31829
+2025-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,43066
+2025-02-01,Beras,Beras Kualitas Bawah I,14953
+2025-02-01,Beras,Beras Kualitas Bawah II,14321
+2025-02-01,Beras,Beras Kualitas Medium I,15829
+2025-02-01,Beras,Beras Kualitas Medium II,15284
+2025-02-01,Beras,Beras Kualitas Super I,17379
+2025-02-01,Beras,Beras Kualitas Super II,16237
+2025-02-01,Cabai Merah,Cabai Merah Besar,46671
+2025-02-01,Cabai Merah,Cabai Merah Keriting,46000
+2025-02-01,Cabai Rawit,Cabai Rawit Hijau,63513
+2025-02-01,Cabai Rawit,Cabai Rawit Merah,67237
+2025-02-01,Daging Ayam,Daging Ayam Ras Segar,33539
+2025-02-01,Daging Sapi,Daging Sapi Kualitas 1,141316
+2025-02-01,Daging Sapi,Daging Sapi Kualitas 2,131316
+2025-02-01,Gula Pasir,Gula Pasir Kualitas Premium,18879
+2025-02-01,Gula Pasir,Gula Pasir Lokal,17974
+2025-02-01,Minyak Goreng,Minyak Goreng Curah,19513
+2025-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21474
+2025-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20474
+2025-02-01,Telur Ayam,Telur Ayam Ras Segar,28137
+2025-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,49368
+2025-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,46145
+2025-03-01,Beras,Beras Kualitas Bawah I,15250
+2025-03-01,Beras,Beras Kualitas Bawah II,14405
+2025-03-01,Beras,Beras Kualitas Medium I,15758
+2025-03-01,Beras,Beras Kualitas Medium II,15250
+2025-03-01,Beras,Beras Kualitas Super I,17634
+2025-03-01,Beras,Beras Kualitas Super II,16250
+2025-03-01,Cabai Merah,Cabai Merah Besar,48329
+2025-03-01,Cabai Merah,Cabai Merah Keriting,47237
+2025-03-01,Cabai Rawit,Cabai Rawit Hijau,63092
+2025-03-01,Cabai Rawit,Cabai Rawit Merah,86211
+2025-03-01,Daging Ayam,Daging Ayam Ras Segar,34855
+2025-03-01,Daging Sapi,Daging Sapi Kualitas 1,141513
+2025-03-01,Daging Sapi,Daging Sapi Kualitas 2,131513
+2025-03-01,Gula Pasir,Gula Pasir Kualitas Premium,18900
+2025-03-01,Gula Pasir,Gula Pasir Lokal,17911
+2025-03-01,Minyak Goreng,Minyak Goreng Curah,19500
+2025-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21500
+2025-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2025-03-01,Telur Ayam,Telur Ayam Ras Segar,28216
+2025-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,49216
+2025-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,46670
+2025-04-01,Beras,Beras Kualitas Bawah I,15250
+2025-04-01,Beras,Beras Kualitas Bawah II,14400
+2025-04-01,Beras,Beras Kualitas Medium I,15750
+2025-04-01,Beras,Beras Kualitas Medium II,15250
+2025-04-01,Beras,Beras Kualitas Super I,17650
+2025-04-01,Beras,Beras Kualitas Super II,16250
+2025-04-01,Cabai Merah,Cabai Merah Besar,43852
+2025-04-01,Cabai Merah,Cabai Merah Keriting,54068
+2025-04-01,Cabai Rawit,Cabai Rawit Hijau,40909
+2025-04-01,Cabai Rawit,Cabai Rawit Merah,73170
+2025-04-01,Daging Ayam,Daging Ayam Ras Segar,32648
+2025-04-01,Daging Sapi,Daging Sapi Kualitas 1,141705
+2025-04-01,Daging Sapi,Daging Sapi Kualitas 2,132614
+2025-04-01,Gula Pasir,Gula Pasir Kualitas Premium,18900
+2025-04-01,Gula Pasir,Gula Pasir Lokal,17973
+2025-04-01,Minyak Goreng,Minyak Goreng Curah,19500
+2025-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21261
+2025-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2025-04-01,Telur Ayam,Telur Ayam Ras Segar,27214
+2025-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,37364
+2025-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,42295
+2025-05-01,Beras,Beras Kualitas Bawah I,15250
+2025-05-01,Beras,Beras Kualitas Bawah II,14400
+2025-05-01,Beras,Beras Kualitas Medium I,15750
+2025-05-01,Beras,Beras Kualitas Medium II,15173
+2025-05-01,Beras,Beras Kualitas Super I,17650
+2025-05-01,Beras,Beras Kualitas Super II,16250
+2025-05-01,Cabai Merah,Cabai Merah Besar,35136
+2025-05-01,Cabai Merah,Cabai Merah Keriting,37750
+2025-05-01,Cabai Rawit,Cabai Rawit Hijau,32727
+2025-05-01,Cabai Rawit,Cabai Rawit Merah,30511
+2025-05-01,Daging Ayam,Daging Ayam Ras Segar,32420
+2025-05-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-05-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-05-01,Gula Pasir,Gula Pasir Kualitas Premium,18900
+2025-05-01,Gula Pasir,Gula Pasir Lokal,17734
+2025-05-01,Minyak Goreng,Minyak Goreng Curah,19136
+2025-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21250
+2025-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20500
+2025-05-01,Telur Ayam,Telur Ayam Ras Segar,26843
+2025-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,44440
+2025-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,41310
+2025-06-01,Beras,Beras Kualitas Bawah I,15250
+2025-06-01,Beras,Beras Kualitas Bawah II,14400
+2025-06-01,Beras,Beras Kualitas Medium I,15736
+2025-06-01,Beras,Beras Kualitas Medium II,15150
+2025-06-01,Beras,Beras Kualitas Super I,17650
+2025-06-01,Beras,Beras Kualitas Super II,16250
+2025-06-01,Cabai Merah,Cabai Merah Besar,37702
+2025-06-01,Cabai Merah,Cabai Merah Keriting,31726
+2025-06-01,Cabai Rawit,Cabai Rawit Hijau,38833
+2025-06-01,Cabai Rawit,Cabai Rawit Merah,45214
+2025-06-01,Daging Ayam,Daging Ayam Ras Segar,33155
+2025-06-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-06-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-06-01,Gula Pasir,Gula Pasir Kualitas Premium,18879
+2025-06-01,Gula Pasir,Gula Pasir Lokal,17079
+2025-06-01,Minyak Goreng,Minyak Goreng Curah,18352
+2025-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21250
+2025-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20000
+2025-06-01,Telur Ayam,Telur Ayam Ras Segar,27519
+2025-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,47315
+2025-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,36946
+2025-07-01,Beras,Beras Kualitas Bawah I,15250
+2025-07-01,Beras,Beras Kualitas Bawah II,14400
+2025-07-01,Beras,Beras Kualitas Medium I,15650
+2025-07-01,Beras,Beras Kualitas Medium II,15150
+2025-07-01,Beras,Beras Kualitas Super I,17650
+2025-07-01,Beras,Beras Kualitas Super II,16250
+2025-07-01,Cabai Merah,Cabai Merah Besar,36500
+2025-07-01,Cabai Merah,Cabai Merah Keriting,32685
+2025-07-01,Cabai Rawit,Cabai Rawit Hijau,44022
+2025-07-01,Cabai Rawit,Cabai Rawit Merah,47304
+2025-07-01,Daging Ayam,Daging Ayam Ras Segar,32239
+2025-07-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-07-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-07-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-07-01,Gula Pasir,Gula Pasir Lokal,17048
+2025-07-01,Minyak Goreng,Minyak Goreng Curah,18161
+2025-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21359
+2025-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20109
+2025-07-01,Telur Ayam,Telur Ayam Ras Segar,27976
+2025-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,44321
+2025-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,34393
+2025-08-01,Beras,Beras Kualitas Bawah I,15393
+2025-08-01,Beras,Beras Kualitas Bawah II,14571
+2025-08-01,Beras,Beras Kualitas Medium I,15721
+2025-08-01,Beras,Beras Kualitas Medium II,15293
+2025-08-01,Beras,Beras Kualitas Super I,17679
+2025-08-01,Beras,Beras Kualitas Super II,16293
+2025-08-01,Cabai Merah,Cabai Merah Besar,31429
+2025-08-01,Cabai Merah,Cabai Merah Keriting,29250
+2025-08-01,Cabai Rawit,Cabai Rawit Hijau,35929
+2025-08-01,Cabai Rawit,Cabai Rawit Merah,26833
+2025-08-01,Daging Ayam,Daging Ayam Ras Segar,32964
+2025-08-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-08-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-08-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-08-01,Gula Pasir,Gula Pasir Lokal,17150
+2025-08-01,Minyak Goreng,Minyak Goreng Curah,18867
+2025-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21500
+2025-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2025-08-01,Telur Ayam,Telur Ayam Ras Segar,27198
+2025-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,36602
+2025-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,34693
+2025-09-01,Beras,Beras Kualitas Bawah I,15750
+2025-09-01,Beras,Beras Kualitas Bawah II,15000
+2025-09-01,Beras,Beras Kualitas Medium I,15900
+2025-09-01,Beras,Beras Kualitas Medium II,15682
+2025-09-01,Beras,Beras Kualitas Super I,17750
+2025-09-01,Beras,Beras Kualitas Super II,16400
+2025-09-01,Cabai Merah,Cabai Merah Besar,36920
+2025-09-01,Cabai Merah,Cabai Merah Keriting,48352
+2025-09-01,Cabai Rawit,Cabai Rawit Hijau,38750
+2025-09-01,Cabai Rawit,Cabai Rawit Merah,32591
+2025-09-01,Daging Ayam,Daging Ayam Ras Segar,36682
+2025-09-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-09-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-09-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-09-01,Gula Pasir,Gula Pasir Lokal,17150
+2025-09-01,Minyak Goreng,Minyak Goreng Curah,19250
+2025-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21500
+2025-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2025-09-01,Telur Ayam,Telur Ayam Ras Segar,27780
+2025-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,38054
+2025-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,34848
+2025-10-01,Beras,Beras Kualitas Bawah I,15750
+2025-10-01,Beras,Beras Kualitas Bawah II,15000
+2025-10-01,Beras,Beras Kualitas Medium I,15900
+2025-10-01,Beras,Beras Kualitas Medium II,15750
+2025-10-01,Beras,Beras Kualitas Super I,17750
+2025-10-01,Beras,Beras Kualitas Super II,16400
+2025-10-01,Cabai Merah,Cabai Merah Besar,49880
+2025-10-01,Cabai Merah,Cabai Merah Keriting,50446
+2025-10-01,Cabai Rawit,Cabai Rawit Hijau,30587
+2025-10-01,Cabai Rawit,Cabai Rawit Merah,29576
+2025-10-01,Daging Ayam,Daging Ayam Ras Segar,35717
+2025-10-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-10-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-10-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-10-01,Gula Pasir,Gula Pasir Lokal,17150
+2025-10-01,Minyak Goreng,Minyak Goreng Curah,19250
+2025-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21500
+2025-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2025-10-01,Telur Ayam,Telur Ayam Ras Segar,29309
+2025-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,38925
+2025-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,34688
+2025-11-01,Beras,Beras Kualitas Bawah I,15750
+2025-11-01,Beras,Beras Kualitas Bawah II,15000
+2025-11-01,Beras,Beras Kualitas Medium I,15900
+2025-11-01,Beras,Beras Kualitas Medium II,15750
+2025-11-01,Beras,Beras Kualitas Super I,17750
+2025-11-01,Beras,Beras Kualitas Super II,16400
+2025-11-01,Cabai Merah,Cabai Merah Besar,56588
+2025-11-01,Cabai Merah,Cabai Merah Keriting,52150
+2025-11-01,Cabai Rawit,Cabai Rawit Hijau,38000
+2025-11-01,Cabai Rawit,Cabai Rawit Merah,35150
+2025-11-01,Daging Ayam,Daging Ayam Ras Segar,35312
+2025-11-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-11-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-11-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-11-01,Gula Pasir,Gula Pasir Lokal,17150
+2025-11-01,Minyak Goreng,Minyak Goreng Curah,19250
+2025-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21500
+2025-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2025-11-01,Telur Ayam,Telur Ayam Ras Segar,28400
+2025-12-01,Bawang Merah,Bawang Merah Ukuran Sedang,43534
+2025-12-01,Bawang Putih,Bawang Putih Ukuran Sedang,35114
+2025-12-01,Beras,Beras Kualitas Bawah I,15750
+2025-12-01,Beras,Beras Kualitas Bawah II,15000
+2025-12-01,Beras,Beras Kualitas Medium I,15900
+2025-12-01,Beras,Beras Kualitas Medium II,15750
+2025-12-01,Beras,Beras Kualitas Super I,17750
+2025-12-01,Beras,Beras Kualitas Super II,16400
+2025-12-01,Cabai Merah,Cabai Merah Besar,46136
+2025-12-01,Cabai Merah,Cabai Merah Keriting,52705
+2025-12-01,Cabai Rawit,Cabai Rawit Hijau,61580
+2025-12-01,Cabai Rawit,Cabai Rawit Merah,63852
+2025-12-01,Daging Ayam,Daging Ayam Ras Segar,38466
+2025-12-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2025-12-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2025-12-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2025-12-01,Gula Pasir,Gula Pasir Lokal,17150
+2025-12-01,Minyak Goreng,Minyak Goreng Curah,19334
+2025-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21693
+2025-12-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2025-12-01,Telur Ayam,Telur Ayam Ras Segar,29889
+2026-01-01,Bawang Merah,Bawang Merah Ukuran Sedang,35912
+2026-01-01,Bawang Putih,Bawang Putih Ukuran Sedang,35500
+2026-01-01,Beras,Beras Kualitas Bawah I,15750
+2026-01-01,Beras,Beras Kualitas Bawah II,15000
+2026-01-01,Beras,Beras Kualitas Medium I,15910
+2026-01-01,Beras,Beras Kualitas Medium II,15750
+2026-01-01,Beras,Beras Kualitas Super I,17750
+2026-01-01,Beras,Beras Kualitas Super II,16410
+2026-01-01,Cabai Merah,Cabai Merah Besar,29438
+2026-01-01,Cabai Merah,Cabai Merah Keriting,30262
+2026-01-01,Cabai Rawit,Cabai Rawit Hijau,55138
+2026-01-01,Cabai Rawit,Cabai Rawit Merah,41462
+2026-01-01,Daging Ayam,Daging Ayam Ras Segar,35075
+2026-01-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2026-01-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2026-01-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2026-01-01,Gula Pasir,Gula Pasir Lokal,17538
+2026-01-01,Minyak Goreng,Minyak Goreng Curah,19372
+2026-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,21765
+2026-01-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20250
+2026-01-01,Telur Ayam,Telur Ayam Ras Segar,28038
+2026-02-01,Bawang Merah,Bawang Merah Ukuran Sedang,40600
+2026-02-01,Bawang Putih,Bawang Putih Ukuran Sedang,34188
+2026-02-01,Beras,Beras Kualitas Bawah I,15750
+2026-02-01,Beras,Beras Kualitas Bawah II,15000
+2026-02-01,Beras,Beras Kualitas Medium I,16000
+2026-02-01,Beras,Beras Kualitas Medium II,15865
+2026-02-01,Beras,Beras Kualitas Super I,17775
+2026-02-01,Beras,Beras Kualitas Super II,16500
+2026-02-01,Cabai Merah,Cabai Merah Besar,33675
+2026-02-01,Cabai Merah,Cabai Merah Keriting,37462
+2026-02-01,Cabai Rawit,Cabai Rawit Hijau,57712
+2026-02-01,Cabai Rawit,Cabai Rawit Merah,76562
+2026-02-01,Daging Ayam,Daging Ayam Ras Segar,38675
+2026-02-01,Daging Sapi,Daging Sapi Kualitas 1,140000
+2026-02-01,Daging Sapi,Daging Sapi Kualitas 2,131250
+2026-02-01,Gula Pasir,Gula Pasir Kualitas Premium,18750
+2026-02-01,Gula Pasir,Gula Pasir Lokal,17650
+2026-02-01,Minyak Goreng,Minyak Goreng Curah,20290
+2026-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,22072
+2026-02-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,20512
+2026-02-01,Telur Ayam,Telur Ayam Ras Segar,29765
+2026-03-01,Bawang Merah,Bawang Merah Ukuran Sedang,39068
+2026-03-01,Bawang Putih,Bawang Putih Ukuran Sedang,34409
+2026-03-01,Beras,Beras Kualitas Bawah I,15750
+2026-03-01,Beras,Beras Kualitas Bawah II,15000
+2026-03-01,Beras,Beras Kualitas Medium I,16000
+2026-03-01,Beras,Beras Kualitas Medium II,16000
+2026-03-01,Beras,Beras Kualitas Super I,18250
+2026-03-01,Beras,Beras Kualitas Super II,16500
+2026-03-01,Cabai Merah,Cabai Merah Besar,42080
+2026-03-01,Cabai Merah,Cabai Merah Keriting,38875
+2026-03-01,Cabai Rawit,Cabai Rawit Hijau,54045
+2026-03-01,Cabai Rawit,Cabai Rawit Merah,86591
+2026-03-01,Daging Ayam,Daging Ayam Ras Segar,40114
+2026-03-01,Daging Sapi,Daging Sapi Kualitas 1,149943
+2026-03-01,Daging Sapi,Daging Sapi Kualitas 2,140568
+2026-03-01,Gula Pasir,Gula Pasir Kualitas Premium,19166
+2026-03-01,Gula Pasir,Gula Pasir Lokal,18373
+2026-03-01,Minyak Goreng,Minyak Goreng Curah,21798
+2026-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,23034
+2026-03-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,21455
+2026-03-01,Telur Ayam,Telur Ayam Ras Segar,29850
+2026-04-01,Bawang Merah,Bawang Merah Ukuran Sedang,39511
+2026-04-01,Bawang Putih,Bawang Putih Ukuran Sedang,33602
+2026-04-01,Beras,Beras Kualitas Bawah I,15845
+2026-04-01,Beras,Beras Kualitas Bawah II,15102
+2026-04-01,Beras,Beras Kualitas Medium I,16095
+2026-04-01,Beras,Beras Kualitas Medium II,16136
+2026-04-01,Beras,Beras Kualitas Super I,18250
+2026-04-01,Beras,Beras Kualitas Super II,16500
+2026-04-01,Cabai Merah,Cabai Merah Besar,37182
+2026-04-01,Cabai Merah,Cabai Merah Keriting,35884
+2026-04-01,Cabai Rawit,Cabai Rawit Hijau,47477
+2026-04-01,Cabai Rawit,Cabai Rawit Merah,56375
+2026-04-01,Daging Ayam,Daging Ayam Ras Segar,35477
+2026-04-01,Daging Sapi,Daging Sapi Kualitas 1,150000
+2026-04-01,Daging Sapi,Daging Sapi Kualitas 2,140000
+2026-04-01,Gula Pasir,Gula Pasir Kualitas Premium,19716
+2026-04-01,Gula Pasir,Gula Pasir Lokal,18386
+2026-04-01,Minyak Goreng,Minyak Goreng Curah,22255
+2026-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,23702
+2026-04-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,22739
+2026-04-01,Telur Ayam,Telur Ayam Ras Segar,28202
+2026-05-01,Bawang Merah,Bawang Merah Ukuran Sedang,46440
+2026-05-01,Bawang Putih,Bawang Putih Ukuran Sedang,32250
+2026-05-01,Beras,Beras Kualitas Bawah I,15929
+2026-05-01,Beras,Beras Kualitas Bawah II,15000
+2026-05-01,Beras,Beras Kualitas Medium I,16179
+2026-05-01,Beras,Beras Kualitas Medium II,16000
+2026-05-01,Beras,Beras Kualitas Super I,18393
+2026-05-01,Beras,Beras Kualitas Super II,16500
+2026-05-01,Cabai Merah,Cabai Merah Besar,45607
+2026-05-01,Cabai Merah,Cabai Merah Keriting,44271
+2026-05-01,Cabai Rawit,Cabai Rawit Hijau,51440
+2026-05-01,Cabai Rawit,Cabai Rawit Merah,67655
+2026-05-01,Daging Ayam,Daging Ayam Ras Segar,35143
+2026-05-01,Daging Sapi,Daging Sapi Kualitas 1,149702
+2026-05-01,Daging Sapi,Daging Sapi Kualitas 2,140000
+2026-05-01,Gula Pasir,Gula Pasir Kualitas Premium,19262
+2026-05-01,Gula Pasir,Gula Pasir Lokal,17512
+2026-05-01,Minyak Goreng,Minyak Goreng Curah,21952
+2026-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,24000
+2026-05-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23000
+2026-05-01,Telur Ayam,Telur Ayam Ras Segar,26229
+2026-06-01,Bawang Merah,Bawang Merah Ukuran Sedang,45489
+2026-06-01,Bawang Putih,Bawang Putih Ukuran Sedang,36795
+2026-06-01,Beras,Beras Kualitas Bawah I,16000
+2026-06-01,Beras,Beras Kualitas Bawah II,14989
+2026-06-01,Beras,Beras Kualitas Medium I,16261
+2026-06-01,Beras,Beras Kualitas Medium II,16000
+2026-06-01,Beras,Beras Kualitas Super I,18439
+2026-06-01,Beras,Beras Kualitas Super II,16523
+2026-06-01,Cabai Merah,Cabai Merah Besar,41045
+2026-06-01,Cabai Merah,Cabai Merah Keriting,35568
+2026-06-01,Cabai Rawit,Cabai Rawit Hijau,44909
+2026-06-01,Cabai Rawit,Cabai Rawit Merah,51000
+2026-06-01,Daging Ayam,Daging Ayam Ras Segar,32636
+2026-06-01,Daging Sapi,Daging Sapi Kualitas 1,152557
+2026-06-01,Daging Sapi,Daging Sapi Kualitas 2,143750
+2026-06-01,Gula Pasir,Gula Pasir Kualitas Premium,19386
+2026-06-01,Gula Pasir,Gula Pasir Lokal,17670
+2026-06-01,Minyak Goreng,Minyak Goreng Curah,21520
+2026-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,24114
+2026-06-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23045
+2026-06-01,Telur Ayam,Telur Ayam Ras Segar,26027
+2026-07-01,Bawang Merah,Bawang Merah Ukuran Sedang,33207
+2026-07-01,Bawang Putih,Bawang Putih Ukuran Sedang,38152
+2026-07-01,Beras,Beras Kualitas Bawah I,16000
+2026-07-01,Beras,Beras Kualitas Bawah II,15000
+2026-07-01,Beras,Beras Kualitas Medium I,16250
+2026-07-01,Beras,Beras Kualitas Medium II,16000
+2026-07-01,Beras,Beras Kualitas Super I,18400
+2026-07-01,Beras,Beras Kualitas Super II,16500
+2026-07-01,Cabai Merah,Cabai Merah Besar,33554
+2026-07-01,Cabai Merah,Cabai Merah Keriting,30239
+2026-07-01,Cabai Rawit,Cabai Rawit Hijau,45141
+2026-07-01,Cabai Rawit,Cabai Rawit Merah,38054
+2026-07-01,Daging Ayam,Daging Ayam Ras Segar,33696
+2026-07-01,Daging Sapi,Daging Sapi Kualitas 1,160043
+2026-07-01,Daging Sapi,Daging Sapi Kualitas 2,152435
+2026-07-01,Gula Pasir,Gula Pasir Kualitas Premium,19283
+2026-07-01,Gula Pasir,Gula Pasir Lokal,17500
+2026-07-01,Minyak Goreng,Minyak Goreng Curah,20802
+2026-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,23904
+2026-07-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23000
+2026-07-01,Telur Ayam,Telur Ayam Ras Segar,25022
+2026-08-01,Bawang Merah,Bawang Merah Ukuran Sedang,28405
+2026-08-01,Bawang Putih,Bawang Putih Ukuran Sedang,36643
+2026-08-01,Beras,Beras Kualitas Bawah I,16167
+2026-08-01,Beras,Beras Kualitas Bawah II,15231
+2026-08-01,Beras,Beras Kualitas Medium I,16417
+2026-08-01,Beras,Beras Kualitas Medium II,16167
+2026-08-01,Beras,Beras Kualitas Super I,18567
+2026-08-01,Beras,Beras Kualitas Super II,16767
+2026-08-01,Cabai Merah,Cabai Merah Besar,32702
+2026-08-01,Cabai Merah,Cabai Merah Keriting,31298
+2026-08-01,Cabai Rawit,Cabai Rawit Hijau,49131
+2026-08-01,Cabai Rawit,Cabai Rawit Merah,46714
+2026-08-01,Daging Ayam,Daging Ayam Ras Segar,38726
+2026-08-01,Daging Sapi,Daging Sapi Kualitas 1,162000
+2026-08-01,Daging Sapi,Daging Sapi Kualitas 2,154500
+2026-08-01,Gula Pasir,Gula Pasir Kualitas Premium,19238
+2026-08-01,Gula Pasir,Gula Pasir Lokal,17548
+2026-08-01,Minyak Goreng,Minyak Goreng Curah,20929
+2026-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,23905
+2026-08-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23048
+2026-08-01,Telur Ayam,Telur Ayam Ras Segar,25086
+2026-09-01,Bawang Merah,Bawang Merah Ukuran Sedang,27659
+2026-09-01,Bawang Putih,Bawang Putih Ukuran Sedang,36670
+2026-09-01,Beras,Beras Kualitas Bawah I,16477
+2026-09-01,Beras,Beras Kualitas Bawah II,15718
+2026-09-01,Beras,Beras Kualitas Medium I,16966
+2026-09-01,Beras,Beras Kualitas Medium II,16477
+2026-09-01,Beras,Beras Kualitas Super I,18877
+2026-09-01,Beras,Beras Kualitas Super II,17127
+2026-09-01,Cabai Merah,Cabai Merah Besar,35068
+2026-09-01,Cabai Merah,Cabai Merah Keriting,44670
+2026-09-01,Cabai Rawit,Cabai Rawit Hijau,61284
+2026-09-01,Cabai Rawit,Cabai Rawit Merah,66150
+2026-09-01,Daging Ayam,Daging Ayam Ras Segar,39375
+2026-09-01,Daging Sapi,Daging Sapi Kualitas 1,162000
+2026-09-01,Daging Sapi,Daging Sapi Kualitas 2,154500
+2026-09-01,Gula Pasir,Gula Pasir Kualitas Premium,19400
+2026-09-01,Gula Pasir,Gula Pasir Lokal,18400
+2026-09-01,Minyak Goreng,Minyak Goreng Curah,21000
+2026-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,23945
+2026-09-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23500
+2026-09-01,Telur Ayam,Telur Ayam Ras Segar,26295
+2026-10-01,Bawang Merah,Bawang Merah Ukuran Sedang,29159
+2026-10-01,Bawang Putih,Bawang Putih Ukuran Sedang,36682
+2026-10-01,Beras,Beras Kualitas Bawah I,16500
+2026-10-01,Beras,Beras Kualitas Bawah II,15750
+2026-10-01,Beras,Beras Kualitas Medium I,17000
+2026-10-01,Beras,Beras Kualitas Medium II,16623
+2026-10-01,Beras,Beras Kualitas Super I,18900
+2026-10-01,Beras,Beras Kualitas Super II,17150
+2026-10-01,Cabai Merah,Cabai Merah Besar,49784
+2026-10-01,Cabai Merah,Cabai Merah Keriting,61500
+2026-10-01,Cabai Rawit,Cabai Rawit Hijau,65750
+2026-10-01,Cabai Rawit,Cabai Rawit Merah,68045
+2026-10-01,Daging Ayam,Daging Ayam Ras Segar,37409
+2026-10-01,Daging Sapi,Daging Sapi Kualitas 1,162000
+2026-10-01,Daging Sapi,Daging Sapi Kualitas 2,154500
+2026-10-01,Gula Pasir,Gula Pasir Kualitas Premium,19445
+2026-10-01,Gula Pasir,Gula Pasir Lokal,18536
+2026-10-01,Minyak Goreng,Minyak Goreng Curah,21000
+2026-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,24000
+2026-10-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23500
+2026-10-01,Telur Ayam,Telur Ayam Ras Segar,25114
+2026-11-01,Bawang Merah,Bawang Merah Ukuran Sedang,30950
+2026-11-01,Bawang Putih,Bawang Putih Ukuran Sedang,36500
+2026-11-01,Beras,Beras Kualitas Bawah I,16500
+2026-11-01,Beras,Beras Kualitas Bawah II,15750
+2026-11-01,Beras,Beras Kualitas Medium I,17000
+2026-11-01,Beras,Beras Kualitas Medium II,16650
+2026-11-01,Beras,Beras Kualitas Super I,18900
+2026-11-01,Beras,Beras Kualitas Super II,17150
+2026-11-01,Cabai Merah,Cabai Merah Besar,43562
+2026-11-01,Cabai Merah,Cabai Merah Keriting,58338
+2026-11-01,Cabai Rawit,Cabai Rawit Hijau,59475
+2026-11-01,Cabai Rawit,Cabai Rawit Merah,62950
+2026-11-01,Daging Ayam,Daging Ayam Ras Segar,34038
+2026-11-01,Daging Sapi,Daging Sapi Kualitas 1,162000
+2026-11-01,Daging Sapi,Daging Sapi Kualitas 2,154500
+2026-11-01,Gula Pasir,Gula Pasir Kualitas Premium,19500
+2026-11-01,Gula Pasir,Gula Pasir Lokal,18772
+2026-11-01,Minyak Goreng,Minyak Goreng Curah,21000
+2026-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 1,24000
+2026-11-01,Minyak Goreng,Minyak Goreng Kemasan Bermerk 2,23500
+2026-11-01,Telur Ayam,Telur Ayam Ras Segar,25030

@@ -20,6 +20,7 @@ Repo Kelompok 2 — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
 | Pekerjaan | Penanggung jawab | Status | Tautan |
 |---|---|---|---|
 | Sistem Analisis & Rekomendasi Belanja Hemat Bergizi Semarang (Harga Pangan PIHPS 2018–2026) | Kelompok 2 | Tahap TK1 (riset & dokumentasi) | [`01-riset/`](01-riset/) |
+| Dashboard "Belanja Hemat Bergizi Semarang" (Issue #7) | Shaula | Kode & data ringkasan selesai; menunggu hasil analisis (Issue #6) untuk tab Pola, Prediksi, Rekomendasi | [`dashboard/`](dashboard/) |
 
 Catatan kerja AI terdokumentasi di [LOG-AI.md](LOG-AI.md).
 
