@@ -36,3 +36,16 @@ Hasil   : Diisi: `01-riset/sumber-data.md`, `01-riset/keputusan-dan-pertanyaan.m
 Dicek   : Oleh AI: setiap angka diambil dari berkas hasil Tahap 2–3 di `dashboard-gizi-bumil/`.
           Bagian bertanda ⚠ menunggu pemeriksaan/isian manusia (sumber dibuka sendiri, biaya harness, tangkapan layar).
           _(Shaula: tambahkan apa yang sudah kamu cek.)_
+
+## 27 November 2026, Shaula Putri — Issue 4 (pengambilan data harga pangan)
+Perintah: Meminta AI mencari sumber harga pangan harian Kota Semarang, lalu mengambil data mentahnya.
+Hasil   : Sumber terpilih PIHPS Nasional (Bank Indonesia). Script `scripts/ambil_data_pihps.py` mengunduh data
+          harian Kota Semarang, pasar tradisional, 1 Jan 2018 – 27 Nov 2026: 2.325 hari × 31 baris
+          (21 komoditas + 10 kategori), 95,1% sel terisi. Data mentah di `data/mentah/` (tidak di-commit).
+          `01-riset/sumber-data.md` ditulis ulang untuk topik harga pangan.
+          Kandidat ditolak: Satu Data Kota Semarang (tahunan), Satu Data Jateng (1 tanggal), BPS IHK (indeks),
+          Panel Harga Bapanas (ekspor tidak pasti), Trans Semarang (tahunan).
+Dicek   : Oleh AI: jumlah tanggal dan sel terisi per tahun dihitung dari berkas yang diunduh; pengambilan uji
+          sebelumnya (Jan 2018, Jan 2020, Nov 2026) memberi angka yang sama dengan berkas akhir.
+          Belum dicocokkan dengan tampilan halaman situs oleh manusia.
+          _(Shaula: buka situs PIHPS sendiri, cocokkan beberapa harga, lalu tulis di sini apa yang kamu cek.)_

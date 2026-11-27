@@ -7,7 +7,7 @@ Repo Kelompok 2 — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
 | Tugas | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
 | TK1 | [01-riset/keputusan-dan-pertanyaan.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/keputusan-dan-pertanyaan.md) | Shaula | Draf — perlu disepakati |
-| TK1 | [01-riset/sumber-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/sumber-data.md) | Shaula | Draf — sumber perlu dibuka & dicentang anggota |
+| TK1 | [01-riset/sumber-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/sumber-data.md) | Shaula | Data harga pangan PIHPS terunduh (2018–2026); tunggu centang "dibuka manusia" |
 | TK1 | [01-riset/riset-kreatif.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/01-riset/riset-kreatif.md) | _(isi)_ | Belum mulai |
 | TK1 | [data/sampel/](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/data/sampel), [kamus-data.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/kamus-data.md) | Shaula | Selesai |
 | TK1 | [KENAPA-KAMI.md](https://github.com/galihabdann04-code/-lds-k02-sains-data--/tree/tugas-1/KENAPA-KAMI.md) v1 | Shaula | Draf — perlu ulasan + tangkapan layar |
@@ -42,5 +42,6 @@ kamus-data.md        kamus data sampel
 00-admin/            anggota, izin data, bukti
 01-riset/            keputusan, pertanyaan, sumber data, riset kreatif
 data/sampel/         sampel data yang sudah dibersihkan
-dashboard-gizi-bumil/ dashboard Streamlit gizi ibu hamil (Shaula)
+dashboard-gizi-bumil/ dashboard Streamlit gizi ibu hamil (Shaula, topik awal)
+scripts/             script pengambilan data (ambil_data_pihps.py)
 ```
