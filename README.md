@@ -19,9 +19,9 @@ Repo Kelompok 2 — Lab Sains Data, Program Studi Bisnis Digital FEB UNDIP.
 
 | Pekerjaan | Penanggung jawab | Status | Tautan |
 |---|---|---|---|
-| Dashboard status gizi ibu hamil Kota Semarang (KEK & Anemia) | Shaula | Selesai & live (referensi kerangka) | [`dashboard-gizi-bumil/`](dashboard-gizi-bumil/) · [demo](https://gizi-bumil-semarang.streamlit.app) |
+| Sistem Analisis & Rekomendasi Belanja Hemat Bergizi Semarang (Harga Pangan PIHPS 2018–2026) | Kelompok 2 | Tahap TK1 (riset & dokumentasi) | [`01-riset/`](01-riset/) |
 
-Isi proyek saat ini difokuskan pada topik **Belanja Hemat Bergizi Semarang** (harga pangan harian Kota Semarang, PIHPS Bank Indonesia 2018–2026). Catatan kerja AI ada di [LOG-AI.md](LOG-AI.md).
+Catatan kerja AI terdokumentasi di [LOG-AI.md](LOG-AI.md).
 
 ## Anggota
 
