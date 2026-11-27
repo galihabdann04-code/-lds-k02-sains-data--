@@ -3,7 +3,7 @@
 > **Status: DRAF** — disusun ulang untuk proyek **Belanja Hemat Bergizi Semarang** (harga pangan harian Kota Semarang). Pengguna, keputusan, dan pertanyaan perlu disepakati kelompok.
 
 ## Pengguna
-Warga Kota Semarang khususnya **ibu rumah tangga dan anak kos**—yang mengelola anggaran belanja harian/mingguan untuk memenuhi kebutuhan pangan bergizi secara mandiri.
+Warga Kota Semarang khususnya **ibu rumah tangga dan anak kos** yang mengelola anggaran belanja harian/mingguan untuk memenuhi kebutuhan pangan bergizi secara mandiri.
 
 ## Keputusan
 Warga Kota Semarang (ibu rumah tangga, anak kos) memutuskan **bahan pangan apa yang dibeli dan kapan membelinya supaya hemat dan tetap bergizi, setiap minggu**.
